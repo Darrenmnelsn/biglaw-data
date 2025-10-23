@@ -1,5 +1,113 @@
 [
+  {[
+  {"from": "Partner Bamzai",
+    "subject": "Civil Procedure — Subject-Matter Jurisdiction",
+    "body": "Darren, a Texas citizen, sues Debora, a Louisiana citizen, in federal court for $50,000. Does diversity jurisdiction exist?",
+    "options": ["Yes", "No — amount in controversy too low", "No — same state parties", "Yes, supplemental jurisdiction"],
+    "answer": 1
+  },
   {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Personal Jurisdiction",
+    "body": "Debora sells one car through Craigslist to a buyer in Virginia. The buyer sues her there over that sale. Does Virginia have specific jurisdiction?",
+    "options": ["Yes — claim arises from forum contact", "No — single sale insufficient", "Yes — general jurisdiction", "No — stream of commerce not satisfied"],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Erie Doctrine",
+    "body": "A federal court in Virginia hears a state-law negligence claim. There’s no federal rule on point. What law governs?",
+    "options": ["Federal common law", "Virginia substantive law", "Federal procedural law", "Plaintiff’s choice"],
+    "answer": 1
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Removal",
+    "body": "Darren sues Debora in Virginia state court. Debora removes to federal court 40 days after service. What result?",
+    "options": ["Proper removal", "Improper — untimely", "Improper — no diversity", "Improper — must wait for judgment"],
+    "answer": 1
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Summary Judgment",
+    "body": "After discovery, no genuine dispute exists about any material fact. What should the court do?",
+    "options": ["Proceed to jury trial", "Grant summary judgment", "Dismiss for lack of jurisdiction", "Remand to state court"],
+    "answer": 1
+  },
+  {
+    "from": "Partner Cope",
+    "subject": "Torts — Negligence Duty",
+    "body": "Debora walks by a stranger drowning in a shallow pond and does nothing. Liability?",
+    "options": ["Yes — general duty to rescue", "No — no duty absent special relationship", "Yes — moral duty equals legal duty", "Yes — once you witness danger"],
+    "answer": 1
+  },
+  {
+    "from": "Partner Cope",
+    "subject": "Torts — Breach",
+    "body": "Darren drives 10 mph over the limit in a residential area. A child runs into the street and is hit. Which case best captures the analysis?",
+    "options": ["Vaughan v. Menlove", "Carroll Towing", "The T.J. Hooper", "Palsgraf"],
+    "answer": 1
+  },
+  {
+    "from": "Partner Cope",
+    "subject": "Torts — Cause in Fact",
+    "body": "Two negligent hunters fire; one bullet hits Debora. Which doctrine applies?",
+    "options": ["Alternative liability", "Market share liability", "Res ipsa loquitur", "Concert of action"],
+    "answer": 0
+  },
+  {
+    "from": "Partner Cope",
+    "subject": "Torts — Proximate Cause",
+    "body": "Darren leaves dynamite on his porch. A thief steals it, drops it, and injures Debora two miles away. Result?",
+    "options": ["Darren liable — foreseeable risk", "Darren not liable — superseding cause", "Both share liability", "Strict liability applies"],
+    "answer": 1
+  },
+  {
+    "from": "Partner Cope",
+    "subject": "Torts — Comparative Fault",
+    "body": "Debora sues Darren for negligence. Jury finds her 20% at fault. What happens under pure comparative negligence?",
+    "options": ["She recovers nothing", "She recovers 80% of damages", "Darren recovers 20%", "Full recovery since minor fault"],
+    "answer": 1
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Offer and Acceptance",
+    "body": "Darren emails Debora offering to sell a bike for $500. Before she replies, he sells it to another. What result?",
+    "options": ["Contract formed", "No contract — offer revoked", "Option contract", "Acceptance by silence"],
+    "answer": 1
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Consideration",
+    "body": "Debora promises to give Darren $1,000 for his past help. Is it enforceable?",
+    "options": ["Yes — moral obligation suffices", "No — past consideration is not valid", "Yes — seal substitutes consideration", "Yes — promissory estoppel"],
+    "answer": 1
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Statute of Frauds",
+    "body": "Darren orally agrees to sell land to Debora. She pays and moves in. Enforceable?",
+    "options": ["No — must be in writing", "Yes — part performance exception", "No — one-year rule", "Yes — merchant’s confirmation"],
+    "answer": 1
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Homicide",
+    "body": "Darren intends serious injury but accidentally kills Debora. Charge?",
+    "options": ["First-degree murder", "Second-degree murder", "Voluntary manslaughter", "Involuntary manslaughter"],
+    "answer": 1
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Attempt",
+    "body": "Debora buys a gun intending to rob a bank but changes her mind before entering. What liability?",
+    "options": ["Attempt", "Conspiracy", "No liability — voluntary abandonment", "Accessory liability"],
+    "answer": 2
+  }
+]
+
+
+    
     "from": "Partner Bamzai",
     "subject": "Civil Procedure — Personal Jurisdiction",
     "body": "Darren, a Virginia resident, sues Debora, a Texas resident, in Virginia state court for a car accident in Texas. Debora has never been to Virginia. Does the court have personal jurisdiction?",
