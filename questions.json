@@ -202,5 +202,236 @@
             "Damages"
         ],
         "answer": 1
+    },
+    {
+        "from": "Partner Bamzai",
+        "subject": "Civil Procedure — Venue",
+        "body": "Darren sues Debora for a tort that occurred in Texas. Debora resides in the Southern District of Texas. Proper venue?",
+        "options": [
+            "Any federal district in the U.S.",
+            "A district where any defendant resides if all defendants reside in the same state",
+            "Only the district where plaintiff resides",
+            "Only the district where defendant was served"
+        ],
+        "answer": 1
+    },
+    {
+        "from": "Partner Bamzai",
+        "subject": "Civil Procedure — 12(b)(6)",
+        "body": "Under Twombly/Iqbal, a complaint must contain:",
+        "options": [
+            "Labels and conclusions",
+            "A detailed evidence list",
+            "Sufficient factual matter to state a plausible claim",
+            "Proof beyond a reasonable doubt"
+        ],
+        "answer": 2
+    },
+    {
+        "from": "Partner Bamzai",
+        "subject": "Civil Procedure — Service",
+        "body": "Debora serves Darren by leaving the summons at his dwelling with a co-resident adult. Under Rule 4(e)(2)(B), is service valid?",
+        "options": [
+            "Yes",
+            "No — must be personal",
+            "No — only by mail",
+            "No — only by marshal"
+        ],
+        "answer": 0
+    },
+    {
+        "from": "Partner Cope",
+        "subject": "Torts — Res Ipsa",
+        "body": "A barrel falls from Debora’s warehouse onto Darren. No direct evidence of negligence. What doctrine helps Darren?",
+        "options": [
+            "Negligence per se",
+            "Res ipsa loquitur",
+            "Strict liability",
+            "Proximate cause only"
+        ],
+        "answer": 1
+    },
+    {
+        "from": "Partner Cope",
+        "subject": "Torts — Eggshell Plaintiff",
+        "body": "Darren has a fragile skull. A minor bump by Debora causes severe harm. Liability scope?",
+        "options": [
+            "Limit to foreseeable extent of harm",
+            "Full liability for actual damages (eggshell rule)",
+            "No liability due to unusual susceptibility",
+            "Only nominal damages"
+        ],
+        "answer": 1
+    },
+    {
+        "from": "Partner Cope",
+        "subject": "Torts — Negligence Per Se",
+        "body": "Debora violates a safety statute designed to protect a class including Darren from the type of injury he suffered. Effect?",
+        "options": [
+            "Automatic liability, damages fixed",
+            "Evidence of negligence but not breach",
+            "Breach established if statute applies and no excuse",
+            "No effect in civil cases"
+        ],
+        "answer": 2
+    },
+    {
+        "from": "Partner Cope",
+        "subject": "Torts — Landowner Duties",
+        "body": "Darren is a business invitee at Debora’s store. Standard of care?",
+        "options": [
+            "Refrain from willful/wanton only",
+            "Warn of known hidden dangers only",
+            "Reasonable care to make premises safe (inspect + remedy)",
+            "Strict liability for all injuries"
+        ],
+        "answer": 2
+    },
+    {
+        "from": "Partner Kordana",
+        "subject": "Contracts — Firm Offer (UCC §2-205)",
+        "body": "Debora, a merchant, signs a writing assuring Darren an offer will be held open for 30 days. Consideration?",
+        "options": [
+            "Required to be binding",
+            "Not required; writing signed by merchant suffices",
+            "Only required if price > $500",
+            "Only required if goods are unique"
+        ],
+        "answer": 1
+    },
+    {
+        "from": "Partner Kordana",
+        "subject": "Contracts — Mirror Image / UCC Battle of Forms",
+        "body": "Under UCC §2-207, a seasonable expression of acceptance with additional terms:",
+        "options": [
+            "Is always a counteroffer",
+            "Can operate as an acceptance",
+            "Is void unless notarized",
+            "Is acceptance only if signed by both parties and sealed"
+        ],
+        "answer": 1
+    },
+    {
+        "from": "Partner Kordana",
+        "subject": "Contracts — Preexisting Duty",
+        "body": "Darren promises to perform an existing duty for more money from Debora. Common-law consideration?",
+        "options": [
+            "Valid — new consideration presumed",
+            "Invalid — no consideration for same duty",
+            "Valid if in writing only",
+            "Always valid under UCC"
+        ],
+        "answer": 1
+    },
+    {
+        "from": "Partner Kordana",
+        "subject": "Contracts — Promissory Estoppel",
+        "body": "Debora promises to pay Darren for moving based on her promise; he reasonably relies and moves. If no contract, remedy?",
+        "options": [
+            "None",
+            "Promissory estoppel may enforce to avoid injustice",
+            "Specific performance automatically",
+            "Rescission only"
+        ],
+        "answer": 1
+    },
+    {
+        "from": "Partner Coughlin",
+        "subject": "Criminal Law — Accomplice Liability",
+        "body": "Darren aids Debora in committing a burglary. What mental state is generally required for accomplice liability?",
+        "options": [
+            "Negligence",
+            "Recklessness",
+            "Purpose to aid the principal",
+            "Strict liability"
+        ],
+        "answer": 2
+    },
+    {
+        "from": "Partner Coughlin",
+        "subject": "Criminal Law — Self-Defense",
+        "body": "Deadly force is justified when Darren reasonably believes:",
+        "options": [
+            "Any unlawful touch is imminent",
+            "Imminent unlawful deadly force is threatened",
+            "Property is at risk",
+            "Words alone are offensive"
+        ],
+        "answer": 1
+    },
+    {
+        "from": "Partner Coughlin",
+        "subject": "Criminal Law — Conspiracy Withdrawal",
+        "body": "Darren joins a conspiracy but later tells Debora he quits. Liability for prior crimes?",
+        "options": [
+            "No liability for any acts",
+            "Liable for prior foreseeable crimes before withdrawal",
+            "Liable for nothing if he says 'I quit'",
+            "Liable for future crimes only"
+        ],
+        "answer": 1
+    },
+    {
+        "from": "Managing Partner",
+        "subject": "BigLaw Humor — Billing",
+        "body": "Policy quiz: How many six-minute increments are in an hour?",
+        "options": [
+            "6",
+            "10",
+            "12",
+            "60"
+        ],
+        "answer": 2
+    },
+    {
+        "from": "HR",
+        "subject": "Office Humor — Elevator Etiquette",
+        "body": "If the partner enters the elevator, you:",
+        "options": [
+            "Keep studying Palsgraf silently",
+            "Start a res ipsa joke",
+            "Hit 'door close' and nod",
+            "Explain Erie at length"
+        ],
+        "answer": 2
+    },
+    {
+        "from": "Paralegal Pat",
+        "subject": "Filing Humor — PDF Names",
+        "body": "Correct file naming convention for Darren’s brief?",
+        "options": [
+            "final_v12_REAL_FINAL.pdf",
+            "DarrenBrief.pdf",
+            "2025-10-23_Plaintiff_MSJ_DarrenNelson.pdf",
+            "brief.pdf"
+        ],
+        "answer": 2
+    },
+    {
+        "from": "Debora",
+        "subject": "Love note — Coffee break?",
+        "body": "Proud of you. Coffee after you crush these questions? ❤️",
+        "options": [
+            "Reply: Love you too ❤️"
+        ],
+        "answer": 0
+    },
+    {
+        "from": "Debora",
+        "subject": "Love note — You’ve got this",
+        "body": "Go win that bonus money, counselor. Dinner’s on me. 😘",
+        "options": [
+            "Reply: Sending hugs back 💙"
+        ],
+        "answer": 0
+    },
+    {
+        "from": "Debora",
+        "subject": "Love note — Study anthem",
+        "body": "Playing your focus playlist. Text me your score later. 💪",
+        "options": [
+            "Reply: You’re the best 🔥"
+        ],
+        "answer": 0
     }
 ]
