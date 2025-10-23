@@ -1,0 +1,21 @@
+[
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Personal Jurisdiction",
+    "body": "Darren, a Virginia resident, sues Debora, a Texas resident, in Virginia state court for a car accident in Texas. Debora has never been to Virginia. Does the court have personal jurisdiction?",
+    "options": [
+      "Yes, specific jurisdiction applies",
+      "Yes, general jurisdiction applies",
+      "No, lacks minimum contacts",
+      "Yes, consent by filing motion"
+    ],
+    "answer": 2
+  },
+  {
+    "from": "Partner Cope",
+    "subject": "Torts — Negligence",
+    "body": "Darren accidentally leaves a rake on the sidewalk. Debora trips. Which element is most in question?",
+    "options": ["Duty", "Breach", "Causation", "Damages"],
+    "answer": 1
+  }
+]
