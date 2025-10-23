@@ -1,6 +1,6 @@
 [
-  {[
-  {"from": "Partner Bamzai",
+  {
+    "from": "Partner Bamzai",
     "subject": "Civil Procedure — Subject-Matter Jurisdiction",
     "body": "Darren, a Texas citizen, sues Debora, a Louisiana citizen, in federal court for $50,000. Does diversity jurisdiction exist?",
     "options": ["Yes", "No — amount in controversy too low", "No — same state parties", "Yes, supplemental jurisdiction"],
@@ -103,27 +103,5 @@
     "body": "Debora buys a gun intending to rob a bank but changes her mind before entering. What liability?",
     "options": ["Attempt", "Conspiracy", "No liability — voluntary abandonment", "Accessory liability"],
     "answer": 2
-  }
-]
-
-
-    
-    "from": "Partner Bamzai",
-    "subject": "Civil Procedure — Personal Jurisdiction",
-    "body": "Darren, a Virginia resident, sues Debora, a Texas resident, in Virginia state court for a car accident in Texas. Debora has never been to Virginia. Does the court have personal jurisdiction?",
-    "options": [
-      "Yes, specific jurisdiction applies",
-      "Yes, general jurisdiction applies",
-      "No, lacks minimum contacts",
-      "Yes, consent by filing motion"
-    ],
-    "answer": 2
-  },
-  {
-    "from": "Partner Cope",
-    "subject": "Torts — Negligence",
-    "body": "Darren accidentally leaves a rake on the sidewalk. Debora trips. Which element is most in question?",
-    "options": ["Duty", "Breach", "Causation", "Damages"],
-    "answer": 1
   }
 ]
