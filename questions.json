@@ -474,6 +474,18 @@
         "answer": 0
     },
     {
+        "from": "Managing Partner",
+        "subject": "Civil Procedure — Forum Non Conveniens (Piper Aircraft Co. v. Reyno)",
+        "body": "Reyno, the administratrix of Scottish decedents, sued US manufacturers in a US federal court following a plane crash in Scotland, admitting she chose the US for its more favorable law. The manufacturers moved for dismissal based on forum non conveniens in favor of Scotland. Reyno argued that the Scottish law's unfavorable remedies should defeat the motion. According to the Rule of Law established in this case, what is the most accurate statement regarding the effect of unfavorable foreign law on a motion to dismiss for forum non conveniens?",
+        "options": [
+            "The motion must be denied. R: An unfavorable change in substantive law is a substantial consideration that defeats a forum non conveniens motion (Piper). A: Scottish law is less favorable. C: Dismissal is improper.",
+            "The possibility of an unfavorable change in law is not a substantial consideration. R: A plaintiff may not defeat a motion to dismiss for forum non conveniens merely by showing the alternative forum's law is less favorable (Piper). A: Reyno's showing is insufficient on its own. C: The motion can be granted.",
+            "The motion must be denied. R: A change in substantive law is always a controlling factor in the forum non conveniens inquiry (Piper). A: Scottish remedies are more limited. C: Dismissal is an abuse of discretion.",
+            "The motion can be granted only if the defendant shows the unfavorable law provides effectively no remedy. R: The defendant carries the burden to show the foreign forum's law is not clearly inadequate (Piper). A: The manufacturers did not meet this burden. C: Dismissal is improper."
+        ],
+        "answer": 1
+    },
+    {
         "from": "Debora",
         "subject": "Love note — Study anthem",
         "body": "Playing your focus playlist. Text me your score later. 💪",
