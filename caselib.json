@@ -4,18 +4,18 @@
 "cite": "Embry v. Hargadine (Mo. App. 1907)",
 "doctrine": "Objective assent",
 "keyFacts": [
-"Boss said 'go ahead' after renewal demand",
-"Reasonable employee would hear assent",
-"Inner intent irrelevant if words convey agreement"
+"Employee sought renewal; boss said 'go ahead'",
+"Reasonable listener would take as assent",
+"Subjective intent irrelevant"
 ]
 },
 {
 "cite": "Lefkowitz v. Great Minneapolis Surplus Store (Minn. 1957)",
-"doctrine": "Ad as offer when definite",
+"doctrine": "Ads as offers when definite",
 "keyFacts": [
-"Ad stated price, quantity, first come",
-"Left nothing open to negotiation",
-"Acceptance by performance formed contract"
+"Ad stated price, quantity, 'first come'",
+"Left nothing open to negotiate",
+"Acceptance by performance formed K"
 ]
 },
 {
@@ -23,17 +23,17 @@
 "doctrine": "Indefiniteness",
 "keyFacts": [
 "Renewal rent 'to be agreed'",
-"Essential term lacked objective standard",
-"Agreement to agree unenforceable"
+"Essential term lacked standard",
+"Unenforceable agreement to agree"
 ]
 },
 {
 "cite": "Dickinson v. Dodds (Eng. 1876)",
 "doctrine": "Revocation by reliable notice",
 "keyFacts": [
-"Offeree learned sale to third party",
-"Offer treated as revoked before acceptance",
-"No binding option without consideration"
+"Offeree learned property sold to third party",
+"Offer deemed revoked before acceptance",
+"No option without consideration"
 ]
 },
 {
@@ -42,16 +42,16 @@
 "keyFacts": [
 "Acceptance effective on dispatch",
 "Revocation effective on receipt",
-"Contract formed when acceptance mailed"
+"K formed when acceptance mailed"
 ]
 },
 {
 "cite": "Rehm-Zeiher Co. v. Walker (Ky. 1913)",
 "doctrine": "Illusory promise",
 "keyFacts": [
-"Buyer had unfettered right not to perform",
+"Buyer had unfettered exit",
 "No mutuality of obligation",
-"No consideration so no contract"
+"No consideration"
 ]
 },
 {
@@ -76,18 +76,18 @@
 "cite": "Farnum v. Silvano (Mass. App. Ct. 1989)",
 "doctrine": "Capacity",
 "keyFacts": [
-"Elderly seller with cognitive impairment",
-"Buyer knew or should have known",
-"Contract voidable for incapacity"
+"Cognitive impairment in sale",
+"Buyer knew or should know",
+"Contract voidable"
 ]
 },
 {
 "cite": "Bailey v. West (R.I. 1969)",
-"doctrine": "Implied contract and restitution limits",
+"doctrine": "Implied contract/restitution limits",
 "keyFacts": [
 "Services not requested or accepted",
-"No mutual assent for implied-in-fact",
-"No unjust enrichment recovery"
+"No mutual assent",
+"No unjust enrichment"
 ]
 },
 {
@@ -95,8 +95,8 @@
 "doctrine": "Material benefit rule",
 "keyFacts": [
 "Promise after lifesaving act",
-"Recognition of prior material benefit",
-"Enforceable to prevent injustice"
+"Recognizes prior material benefit",
+"Enforced to prevent injustice"
 ]
 },
 {
@@ -105,7 +105,7 @@
 "keyFacts": [
 "Charitable pledge with naming condition",
 "Condition created bilateral exchange",
-"Enforcement supported by policy and reliance"
+"Reliance supports enforcement"
 ]
 }
 ],
@@ -114,27 +114,27 @@
 "cite": "The T.J. Hooper (2d Cir. 1932)",
 "doctrine": "Custom as evidence, not conclusive",
 "keyFacts": [
-"Tugs lacked radios despite industry practice",
+"Tugs lacked radios though industry practice varied",
 "Reasonable prudence may exceed custom",
-"Liability found despite prevailing usage"
+"Liability found"
 ]
 },
 {
 "cite": "Tedla v. Ellman (N.Y. 1939)",
 "doctrine": "Negligence per se excuses",
 "keyFacts": [
-"Statute would increase danger if followed",
-"Safety-based excuse permitted",
-"Statutory purpose controls"
+"Statute compliance more dangerous",
+"Purpose of statute controls",
+"Violation excused"
 ]
 },
 {
-"cite": "U.S. v. Carroll Towing Co. (2d Cir. 1947)",
-"doctrine": "Hand formula for breach",
+"cite": "United States v. Carroll Towing Co. (2d Cir. 1947)",
+"doctrine": "Hand formula breach",
 "keyFacts": [
-"No bargee aboard during work hours",
-"Negligence if burden < probability × loss",
-"Economic calculus guides duty"
+"No bargee during work hours",
+"B < P×L test",
+"Negligence found"
 ]
 },
 {
@@ -143,16 +143,16 @@
 "keyFacts": [
 "Injury under anesthesia",
 "Instrumentality under defendants’ control",
-"Inference of negligence allowed"
+"Inference of negligence permitted"
 ]
 },
 {
 "cite": "Sindell v. Abbott Laboratories (Cal. 1980)",
-"doctrine": "Market share liability",
+"doctrine": "Market-share liability",
 "keyFacts": [
-"Fungible DES product, maker unknown",
+"Fungible DES product; maker unknown",
 "Liability apportioned by market share",
-"Facilitates recovery where identification impossible"
+"Facilitates recovery"
 ]
 },
 {
@@ -161,25 +161,25 @@
 "keyFacts": [
 "Delayed diagnosis reduced survival probability",
 "Probabilistic injury recognized",
-"Causation met without >50% baseline"
+"Causation without >50% baseline"
 ]
 },
 {
 "cite": "Vosburg v. Putney (Wis. 1891)",
-"doctrine": "Battery and thin skull",
+"doctrine": "Battery; thin skull",
 "keyFacts": [
-"Minor kick caused severe harm",
 "Intent to contact suffices",
-"Defendant takes plaintiff as found"
+"Serious harm still liable",
+"Take plaintiff as found"
 ]
 },
 {
 "cite": "Garratt v. Dailey (Wash. 1955)",
 "doctrine": "Intent via substantial certainty",
 "keyFacts": [
-"Child moved chair, plaintiff fell",
-"Knowledge contact was virtually certain",
-"Intent element satisfied"
+"Chair moved; fall was virtually certain",
+"Knowledge equals intent",
+"Battery elements met"
 ]
 },
 {
@@ -187,8 +187,8 @@
 "doctrine": "Landlord duty to protect",
 "keyFacts": [
 "Assault in common area with rising crime",
-"Control plus foreseeability creates duty",
-"Cheapest cost avoider rationale"
+"Control plus foreseeability",
+"Duty recognized"
 ]
 },
 {
@@ -196,26 +196,26 @@
 "doctrine": "No duty to rescue baseline",
 "keyFacts": [
 "Nonfeasance absent special relation",
-"No duty unless you create risk or undertake",
-"Limits tort duties"
+"Duty when you create risk or undertake",
+"No liability here"
 ]
 },
 {
 "cite": "United States v. Lawter (5th Cir. 1961)",
 "doctrine": "Negligent undertaking",
 "keyFacts": [
-"Rescue begun then performed negligently",
-"Duty to exercise reasonable care",
-"Liability for increasing risk"
+"Rescue begun then botched",
+"Duty of reasonable care once undertaken",
+"Liability for increased risk"
 ]
 },
 {
 "cite": "Trans-Pacific Fishing & Packing Co. v. Smith (9th Cir. 1934)",
 "doctrine": "Special relationship duty",
 "keyFacts": [
-"Shipmaster and seaman relationship",
+"Shipmaster–seaman relationship",
 "Duty to attempt reasonable rescue",
-"Control and dependence justify duty"
+"Control and dependence"
 ]
 },
 {
@@ -224,7 +224,7 @@
 "keyFacts": [
 "Minor using firearm",
 "Adult activity triggers adult standard",
-"Higher care due to inherent danger"
+"Higher care required"
 ]
 }
 ],
@@ -234,7 +234,7 @@
 "doctrine": "Voluntary act requirement",
 "keyFacts": [
 "Police carried defendant into public",
-"Presence not voluntary act",
+"Public presence not voluntary act",
 "Conviction reversed"
 ]
 },
@@ -243,15 +243,15 @@
 "doctrine": "Vagueness doctrine",
 "keyFacts": [
 "Vagrancy ordinance lacked clear standards",
-"Failed to give fair notice",
+"Failed fair notice",
 "Invited arbitrary enforcement"
 ]
 },
 {
 "cite": "Lawrence v. Texas (U.S. 2003)",
-"doctrine": "Substantive due process limits",
+"doctrine": "Substantive due process",
 "keyFacts": [
-"Criminalization of private consensual intimacy",
+"Criminalized private consensual intimacy",
 "Liberty protects private conduct",
 "Statute unconstitutional"
 ]
@@ -264,195 +264,35 @@
 "keyFacts": [
 "Conclusions not credited",
 "Facts must suggest liability is plausible",
-"Raised Rule 8 standard above possibility"
+"Raised Rule 8 standard"
 ]
 },
 {
 "cite": "Ashcroft v. Iqbal (U.S. 2009)",
-"doctrine": "Two-step pleading analysis",
+"doctrine": "Two-step pleading",
 "keyFacts": [
 "Discard conclusory assertions",
 "Assess well-pled facts for plausibility",
-"Applied to all civil cases"
+"Applies to all civil cases"
 ]
 },
 {
 "cite": "Stradford v. Zurich Ins. (S.D.N.Y. 2002)",
 "doctrine": "Rule 9(b) particularity",
 "keyFacts": [
-"Fraud must state who, what, when, where, how",
+"Fraud must state who/what/when/where/how",
 "Counterclaim lacked specifics",
 "Leave to amend granted"
 ]
 },
 {
 "cite": "Hickman v. Taylor (U.S. 1947)",
-"doctrine": "Work product doctrine",
+"doctrine": "Work-product doctrine",
 "keyFacts": [
 "Attorney interview notes sought",
 "Opinion work product protected",
 "Fact work product needs substantial need"
 ]
-},
+}
 ]
-{
-  "Contracts": [
-    {
-      "cite": "Hamer v. Sidway (N.Y. 1891)",
-      "doctrine": "Consideration via forbearance",
-      "keyFacts": [
-        "Uncle promises $5,000 if nephew refrains from legal vices until 21",
-        "Forbearance of legal right is valid consideration",
-        "Family setting does not negate bargained-for exchange"
-      ]
-    },
-    {
-      "cite": "Lucy v. Zehmer (Va. 1954)",
-      "doctrine": "Objective theory of assent",
-      "keyFacts": [
-        "Barroom writing to sell Ferguson Farm for $50,000",
-        "Subjective 'joke' claim rejected",
-        "Reasonable person standard governs intent"
-      ]
-    },
-    {
-      "cite": "Carlill v. Carbolic Smoke Ball Co. (Q.B. 1893)",
-      "doctrine": "Unilateral contract; acceptance by performance",
-      "keyFacts": [
-        "Ad offers £100 if product fails; deposit shows seriousness",
-        "Acceptance by performance; notice not required for reward",
-        "Consideration via inconvenience/usage"
-      ]
-    },
-    {
-      "cite": "Raffles v. Wichelhaus (Ex. 1864)",
-      "doctrine": "Mutual mistake/ambiguity",
-      "keyFacts": [
-        "Two ships named 'Peerless'",
-        "No assent on essential term when ambiguity is irresolvable",
-        "Contract unenforceable for lack of meeting of the minds"
-      ]
-    },
-    {
-      "cite": "Hadley v. Baxendale (Ex. 1854)",
-      "doctrine": "Foreseeability limits consequential damages",
-      "keyFacts": [
-        "Crankshaft delay shuts mill",
-        "Lost profits not recoverable absent notice of special circumstances",
-        "Allocates risk by foreseeability at contracting"
-      ]
-    },
-    {
-      "cite": "Hawkins v. McGee (N.H. 1929)",
-      "doctrine": "Expectation damages",
-      "keyFacts": [
-        "Doctor promises '100% good hand'",
-        "Measure is value promised minus value received",
-        "Pain and suffering not part of expectation for breach"
-      ]
-    }
-  ],
-  "Torts": [
-    {
-      "cite": "Palsgraf v. Long Island R.R. (N.Y. 1928)",
-      "doctrine": "Duty and foreseeability; proximate cause",
-      "keyFacts": [
-        "Package with fireworks drops; distant scale injures plaintiff",
-        "Cardozo: duty to foreseeable plaintiffs within zone of danger",
-        "Andrews dissent: proximate cause as policy question"
-      ]
-    },
-    {
-      "cite": "Brown v. Kendall (Mass. 1850)",
-      "doctrine": "Negligence standard",
-      "keyFacts": [
-        "Dog fight; accidental eye injury while separating dogs",
-        "Liability turns on ordinary care under circumstances",
-        "Plaintiff bears burden to prove negligence"
-      ]
-    },
-    {
-      "cite": "Vaughan v. Menlove (C.P. 1837)",
-      "doctrine": "Objective reasonable person",
-      "keyFacts": [
-        "Hayrick fire after warnings ignored",
-        "Rejects subjective prudence standard",
-        "Sets baseline of ordinary prudence"
-      ]
-    },
-    {
-      "cite": "Escola v. Coca-Cola (Cal. 1944)",
-      "doctrine": "Res ipsa; move toward strict products liability",
-      "keyFacts": [
-        "Exploding soda bottle injures waitress",
-        "Res ipsa permits inference of negligence",
-        "Traynor concurrence argues for strict liability"
-      ]
-    },
-    {
-      "cite": "Tarasoff v. Regents of the Univ. of California (Cal. 1976)",
-      "doctrine": "Duty to warn/protect",
-      "keyFacts": [
-        "Therapist learns specific threat to identifiable victim",
-        "Special relationship creates duty to protect",
-        "Balances confidentiality and public safety"
-      ]
-    },
-    {
-      "cite": "Summers v. Tice (Cal. 1948)",
-      "doctrine": "Alternative liability",
-      "keyFacts": [
-        "Two negligent hunters; one shot hits plaintiff",
-        "Burden shifts to defendants to apportion causation",
-        "Ensures recovery when both negligent but causation uncertain"
-      ]
-    }
-  ],
-  "Criminal Law": [
-    {
-      "cite": "M’Naghten’s Case (H.L. 1843)",
-      "doctrine": "Insanity—cognitive incapacity",
-      "keyFacts": [
-        "Defendant could not know nature/quality or wrongfulness",
-        "Focus on cognitive understanding at time of act",
-        "Foundational common-law insanity test"
-      ]
-    },
-    {
-      "cite": "Regina v. Cunningham (K.B. 1957)",
-      "doctrine": "Mens rea—malice as recklessness",
-      "keyFacts": [
-        "Gas meter removal causes poisoning",
-        "‘Malice’ requires subjective recklessness",
-        "Clarifies mental element for result crimes"
-      ]
-    },
-    {
-      "cite": "People v. Rusk (Md. 1981)",
-      "doctrine": "Force/Threat in rape; consent",
-      "keyFacts": [
-        "Submission based on fear can satisfy force",
-        "Objective reasonableness of fear assessed",
-        "Clarifies boundaries of consent"
-      ]
-    },
-    {
-      "cite": "Commonwealth v. Malone (Pa. 1946)",
-      "doctrine": "Depraved heart murder",
-      "keyFacts": [
-        "Russian roulette killing",
-        "Extreme recklessness manifests malice",
-        "Differentiates murder from manslaughter"
-      ]
-    },
-    {
-      "cite": "Regina v. Faulkner (Ir. 1877)",
-      "doctrine": "Mens rea alignment across elements",
-      "keyFacts": [
-        "Intent to steal rum; accidental fire",
-        "No automatic transfer of intent to arson",
-        "Each element requires its own mens rea"
-      ]
-    }
-  ]
 }
