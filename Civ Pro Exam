@@ -1,0 +1,338 @@
+[
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Personal Jurisdiction",
+    "body": "In Pennoyer v. Neff (1877), a state court issued a judgment against a nonresident who had never been served within the forum. What principle did the Court establish?",
+    "options": [
+      "Jurisdiction requires personal service within the forum or consent.",
+      "Constructive notice by publication is always sufficient.",
+      "Federal courts can override state boundaries for service.",
+      "Quasi in rem jurisdiction is unrestricted."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Personal Jurisdiction",
+    "body": "In International Shoe Co. v. Washington (1945), the Court replaced territorial power with which modern test for jurisdiction?",
+    "options": [
+      "Purposeful availment and minimum contacts.",
+      "Tag jurisdiction based on presence.",
+      "Domicile and consent only.",
+      "Complete diversity requirement."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Personal Jurisdiction",
+    "body": "World-Wide Volkswagen v. Woodson (1980) held that foreseeability alone does not confer jurisdiction unless what is shown?",
+    "options": [
+      "The defendant purposefully directed activities at the forum.",
+      "Plaintiff’s injury was foreseeable anywhere.",
+      "A federal statute authorizes nationwide service.",
+      "There was a contractual relationship."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Personal Jurisdiction",
+    "body": "In Burger King Corp. v. Rudzewicz (1985), why did the Court uphold Florida’s jurisdiction over a Michigan franchisee?",
+    "options": [
+      "The contract created continuing obligations with Florida.",
+      "The defendant traveled to Florida for negotiations.",
+      "Florida had a long-arm statute covering all torts.",
+      "The franchise was incorporated in Florida."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — General Jurisdiction",
+    "body": "Daimler AG v. Bauman (2014) narrowed general jurisdiction to which locations?",
+    "options": [
+      "Place of incorporation and principal place of business.",
+      "Any state where the company sells products.",
+      "Wherever the company has continuous sales.",
+      "Wherever harm occurs."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Specific Jurisdiction",
+    "body": "In Ford Motor Co. v. Montana (2021), the Court held jurisdiction was proper because the claims were what?",
+    "options": [
+      "Related to the defendant’s forum contacts even if not caused by them.",
+      "Unrelated to the forum but nationwide in scope.",
+      "Based only on internet marketing.",
+      "Filed in the corporation’s home state."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Service of Process",
+    "body": "Mullane v. Central Hanover Bank (1950) established that due process requires what for notice?",
+    "options": [
+      "Notice reasonably calculated to apprise interested parties.",
+      "Actual receipt of notice by all parties.",
+      "Publication in two newspapers.",
+      "Personal service by sheriff."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Service by Publication",
+    "body": "In Rio Properties v. Rio International Interlink (2002), electronic service was allowed when?",
+    "options": [
+      "Traditional methods were impractical and email was reliable.",
+      "The defendant refused certified mail.",
+      "The plaintiff lacked an address.",
+      "Foreign defendants are automatically served online."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Pleading",
+    "body": "Conley v. Gibson (1957) established that a complaint should not be dismissed unless what?",
+    "options": [
+      "No set of facts could support the claim.",
+      "It lacks a jurisdictional statement.",
+      "It omits citations to precedent.",
+      "Discovery has not begun."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Pleading",
+    "body": "Bell Atlantic v. Twombly (2007) retired the 'no set of facts' language and required what new standard?",
+    "options": [
+      "Plausibility, not mere possibility, of entitlement to relief.",
+      "Certainty of wrongdoing.",
+      "Summary judgment-level proof.",
+      "Evidence before pleading."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Pleading",
+    "body": "Ashcroft v. Iqbal (2009) applied Twombly to all cases and instructed courts to do what two-step analysis?",
+    "options": [
+      "Ignore conclusory allegations, then assess plausibility of facts.",
+      "Assess intent first, then injury.",
+      "Defer to the jury on factual sufficiency.",
+      "Review all allegations as true."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Pleading Standards",
+    "body": "Swierkiewicz v. Sorema (2002) held that employment discrimination plaintiffs need not what?",
+    "options": [
+      "Plead a prima facie case under McDonnell Douglas at the complaint stage.",
+      "File administrative claims first.",
+      "Show probable cause.",
+      "Plead with particularity under Rule 9(b)."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Rule 11 Sanctions",
+    "body": "In King v. Whitmer (2023), attorneys were sanctioned for filing claims without factual basis. What rule governs this?",
+    "options": [
+      "FRCP 11(b) — representations to the court must be warranted by fact and law.",
+      "FRCP 37 — failure to cooperate in discovery.",
+      "FRCP 15 — improper amendment.",
+      "FRCP 26 — discovery scope."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Summary Judgment",
+    "body": "Celotex v. Catrett (1986) held a movant can win summary judgment by what showing?",
+    "options": [
+      "Pointing out the absence of evidence for the nonmovant’s claim.",
+      "Proving all elements conclusively.",
+      "Calling adverse witnesses.",
+      "Filing before discovery closes."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Summary Judgment",
+    "body": "Scott v. Harris (2007) held summary judgment was proper where what evidence existed?",
+    "options": [
+      "A video record so clearly contradicted the plaintiff’s version that no reasonable jury could believe it.",
+      "Multiple eyewitnesses agreed with defendant.",
+      "Plaintiff’s lawyer failed to object.",
+      "Conflicting evidence existed."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Judgment as a Matter of Law",
+    "body": "Unitherm Food Sys. v. Swift-Eckrich (2006) emphasized that failure to renew a Rule 50 motion after trial has what effect?",
+    "options": [
+      "Waives appellate review of sufficiency of evidence.",
+      "Tolls the deadline for appeal.",
+      "Preserves issue automatically.",
+      "Requires en banc review."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Work Product",
+    "body": "Hickman v. Taylor (1947) held attorney interviews and notes are protected from discovery unless what?",
+    "options": [
+      "Substantial need and inability to obtain equivalent information otherwise.",
+      "Opposing counsel consents.",
+      "The case involves fraud.",
+      "Privilege has expired."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Erie Doctrine",
+    "body": "Erie Railroad v. Tompkins (1938) overturned Swift v. Tyson and held what?",
+    "options": [
+      "Federal courts must apply state substantive law in diversity cases.",
+      "Federal courts create general common law.",
+      "State courts must apply federal procedure.",
+      "Common law governs all tort cases."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Erie Doctrine",
+    "body": "Hanna v. Plumer (1965) distinguished between substantive and procedural law. What governs when a valid Federal Rule applies?",
+    "options": [
+      "The Federal Rule controls if valid under the Rules Enabling Act.",
+      "State law always overrides.",
+      "Federal judges use discretion.",
+      "The outcome-determinative test applies alone."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Venue",
+    "body": "Piper Aircraft v. Reyno (1981) allowed dismissal for forum non conveniens when?",
+    "options": [
+      "The chosen forum is oppressive and an adequate alternative exists.",
+      "The defendant prefers another jurisdiction.",
+      "The plaintiff’s lawyer is foreign.",
+      "Service was defective."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Diversity Jurisdiction",
+    "body": "Hertz Corp. v. Friend (2010) defined a corporation’s principal place of business as what?",
+    "options": [
+      "The nerve center where high-level officers direct control.",
+      "The state of incorporation.",
+      "Any state with sales offices.",
+      "Where the harm occurred."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Federal Question",
+    "body": "Louisville & Nashville R.R. v. Mottley (1908) announced the 'well-pleaded complaint rule,' meaning what?",
+    "options": [
+      "Federal jurisdiction must appear on the face of the plaintiff’s properly pleaded complaint.",
+      "Any federal defense suffices for jurisdiction.",
+      "Federal counterclaims create jurisdiction.",
+      "Jurisdiction is proper if either party raises federal law."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Supplemental Jurisdiction",
+    "body": "United Mine Workers v. Gibbs (1966) allows federal courts to hear state claims when?",
+    "options": [
+      "They form part of the same case or controversy under Article III.",
+      "They share one party in common.",
+      "They were filed in the same year.",
+      "Plaintiff demands it."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Supplemental Jurisdiction",
+    "body": "Exxon Mobil Corp. v. Allapattah (2005) allowed what for supplemental jurisdiction?",
+    "options": [
+      "Claims of additional plaintiffs not meeting the amount requirement if one plaintiff does.",
+      "Aggregation of claims across unrelated parties.",
+      "Federal claims to anchor any case.",
+      "Claims from dismissed defendants."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Removal",
+    "body": "Royal Canin v. Wullschleger (2021) involved removal jurisdiction. When may a case be removed?",
+    "options": [
+      "When it could have originally been filed in federal court.",
+      "Whenever the defendant prefers federal court.",
+      "If state law claims are weak.",
+      "At any time after judgment."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Preclusion",
+    "body": "Painter v. Harvey (1988) discussed claim preclusion. What does it prevent?",
+    "options": [
+      "Relitigation of claims arising from the same transaction after a final judgment.",
+      "Reexamination of legal theories within one case.",
+      "Joinder of permissive claims.",
+      "Appeal of interlocutory orders."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Issue Preclusion",
+    "body": "Parklane Hosiery v. Shore (1979) approved offensive collateral estoppel when?",
+    "options": [
+      "It is not unfair to the defendant and the issue was actually litigated.",
+      "Plaintiff brings new evidence.",
+      "A criminal case preceded.",
+      "Multiple plaintiffs join."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Class Actions",
+    "body": "Wal-Mart Stores v. Dukes (2011) denied certification because what element of Rule 23(a) failed?",
+    "options": [
+      "Commonality — lack of a single common question.",
+      "Adequacy of representation.",
+      "Numerosity.",
+      "Typicality."
+    ],
+    "answer": 0
+  }
+]
