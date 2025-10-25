@@ -1,497 +1,451 @@
-[
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Personal Jurisdiction (International Shoe / World-Wide Volkswagen)",
-        "body": "Darren, a Texas resident, purchases a boat engine from Debora Marine, a Delaware corporation headquartered in Louisiana. Debora sells through a nationwide website but has no offices or agents in Virginia. Darren brings the engine to Virginia, where it explodes and injures him. He sues Debora in a Virginia federal court for negligence. Debora moves to dismiss for lack of personal jurisdiction. Darren argues Debora purposefully availed itself of Virginia by advertising nationally and that the injury occurred there. What is the most accurate CRAC-style analysis?",
-        "options": [
-            "C: The court lacks specific jurisdiction. R: Specific jurisdiction requires defendant’s forum contacts give rise to the claim (International Shoe). A: Debora’s only connection is Darren’s unilateral act bringing the engine into Virginia. C: Motion to dismiss should be granted.",
-            "C: The court has general jurisdiction. R: General jurisdiction exists where a corporation’s operations are continuous and systematic (Goodyear). A: Debora advertises nationally and ships to multiple states. C: Motion to dismiss should be denied.",
-            "C: Jurisdiction proper. R: Foreseeability of injury in forum supports minimum contacts (WWVW). A: Debora knew products might travel to Virginia. C: Court should retain case.",
-            "C: Jurisdiction proper. R: The internet presence shows purposeful availment (Zippo). A: Debora’s site allowed online ordering. C: Court should deny dismissal."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — General Jurisdiction (Daimler / Goodyear)",
-        "body": "Debora Logistics, incorporated in Delaware with its principal place of business in Louisiana, ships 12% of its goods through Virginia ports and maintains a small warehouse there. Darren, a former employee from Texas, sues Debora in Virginia federal court for wrongful termination that occurred in Louisiana. Debora moves to dismiss for lack of general jurisdiction. What is the correct CRAC analysis?",
-        "options": [
-            "C: General jurisdiction exists. R: Continuous and systematic contacts make a company 'at home' (Goodyear). A: Debora’s 12% shipping through Virginia and warehouse show continuous business. C: Motion should be denied.",
-            "C: General jurisdiction does not exist. R: A corporation is 'at home' only in its state of incorporation or principal place of business (Daimler). A: Debora’s limited operations in Virginia are not exceptional. C: Motion should be granted.",
-            "C: Specific jurisdiction applies. R: The employment dispute arose from forum conduct. A: Debora hired Darren through Virginia recruiters. C: Jurisdiction proper.",
-            "C: The court should defer to state law. R: Jurisdictional standards depend on state long-arm statutes. A: Virginia’s statute allows jurisdiction over all business entities. C: Motion denied."
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Subject-Matter Jurisdiction (§1331 and §1332)",
-        "body": "Darren, a Texas citizen, sues Debora, a Louisiana citizen, in federal court for breach of contract seeking $60,000. He also claims Debora’s conduct violated a federal banking regulation that provides no private cause of action. Debora moves to dismiss for lack of subject-matter jurisdiction. What is the best CRAC response?",
-        "options": [
-            "C: Federal jurisdiction exists. R: A federal issue need only appear in the complaint. A: Darren referenced a federal regulation. C: Motion denied.",
-            "C: Federal jurisdiction fails. R: Under the well-pleaded complaint rule (Mottley), the claim must arise under federal law on its face. A: Darren asserts only a state contract claim and references a federal regulation incidentally. C: Motion granted.",
-            "C: Diversity jurisdiction saves the case. R: §1332 requires diversity and >$75,000. A: The amount claimed is $60,000. C: Court should still hear it because diversity favors federal forum.",
-            "C: Jurisdiction unclear. R: Courts may exercise supplemental jurisdiction for small claims. A: The federal reference creates supplemental power. C: Motion denied."
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Erie Doctrine (Hanna / Guaranty Trust)",
-        "body": "In a diversity case, Darren sues Debora in federal court in Virginia for negligence. Virginia requires service by a sheriff; Federal Rule 4 allows service by a nonparty adult. Darren’s paralegal serves Debora. Debora moves to dismiss for improper service. Additionally, Virginia law caps prejudgment interest at 6%, while federal practice allows higher rates. What is the correct CRAC analysis under Erie?",
-        "options": [
-            "C: Apply Federal Rule 4 for service, apply Virginia cap for interest. R: Under Hanna, valid Federal Rules govern procedure; substantive state law controls outcome-determinative matters (Guaranty Trust). A: Service rule valid under Rules Enabling Act; interest cap affects substantive rights. C: Dismissal denied, damages limited.",
-            "C: Apply Virginia law to both. R: Erie requires state law in all diversity matters. A: Both service and damages are local concerns. C: Motion granted.",
-            "C: Apply Federal Rule 4 and federal interest rate. R: Federal rules always supersede state law in diversity. A: Congress authorized uniform procedure. C: Motion denied, interest uncapped.",
-            "C: Apply Virginia law to service, Federal rule to interest. R: State rules govern when state interests outweigh efficiency. A: Federal interest minimal. C: Service invalid, case dismissed."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Removal & Forum-Defendant Rule",
-        "body": "Darren, a Texas citizen, sues Debora, a Virginia citizen, and Debora’s Virginia employee in Virginia state court. The claim seeks $200,000 for breach of contract. Debora removes the case to federal court, arguing diversity jurisdiction and that the employee was improperly joined. Darren moves to remand. What is the proper CRAC answer?",
-        "options": [
-            "C: Removal valid. R: Diversity jurisdiction applies when citizens of different states are parties. A: Texas vs. Virginia creates diversity. C: Motion denied.",
-            "C: Removal improper. R: Under §1441(b)(2), an in-state defendant cannot remove on diversity grounds (forum-defendant rule). A: Both defendants are Virginia citizens, defeating removal. C: Case remanded.",
-            "C: Partial removal valid. R: Federal courts may sever nondiverse parties. A: The employee can be ignored. C: Federal court retains main claim.",
-            "C: Removal proper. R: Complete diversity not required when damages exceed $75,000. A: Amount met, so federal court keeps case. C: Motion denied."
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Personal Jurisdiction",
-        "body": "Debora sells one car through Craigslist to a buyer in Virginia. The buyer sues her there over that sale. Does Virginia have specific jurisdiction?",
-        "options": [
-            "Yes — claim arises from forum contact",
-            "No — single sale insufficient",
-            "Yes — general jurisdiction",
-            "No — stream of commerce not satisfied"
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Erie Doctrine",
-        "body": "A federal court in Virginia hears a state-law negligence claim. There’s no federal rule on point. What law governs?",
-        "options": [
-            "Federal common law",
-            "Virginia substantive law",
-            "Federal procedural law",
-            "Plaintiff’s choice"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Removal",
-        "body": "Darren sues Debora in Virginia state court. Debora removes to federal court 40 days after service. What result?",
-        "options": [
-            "Proper removal",
-            "Improper — untimely",
-            "Improper — no diversity",
-            "Improper — must wait for judgment"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Summary Judgment",
-        "body": "After discovery, no genuine dispute exists about any material fact. What should the court do?",
-        "options": [
-            "Proceed to jury trial",
-            "Grant summary judgment",
-            "Dismiss for lack of jurisdiction",
-            "Remand to state court"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Duty",
-        "body": "Debora walks by a stranger drowning in a shallow pond and does nothing. Liability?",
-        "options": [
-            "Yes — general duty to rescue",
-            "No — no duty absent special relationship",
-            "Yes — moral duty equals legal duty",
-            "Yes — once you witness danger"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Breach",
-        "body": "Darren drives 10 mph over the limit in a residential area. A child runs into the street and is hit. Which case best captures the analysis?",
-        "options": [
-            "Vaughan v. Menlove",
-            "Carroll Towing",
-            "The T.J. Hooper",
-            "Palsgraf"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause in Fact",
-        "body": "Two negligent hunters fire; one bullet hits Debora. Which doctrine applies?",
-        "options": [
-            "Alternative liability",
-            "Market share liability",
-            "Res ipsa loquitur",
-            "Concert of action"
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "Darren leaves dynamite on his porch. A thief steals it, drops it, and injures Debora two miles away. Result?",
-        "options": [
-            "Darren liable — foreseeable risk",
-            "Darren not liable — superseding cause",
-            "Both share liability",
-            "Strict liability applies"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Comparative Fault",
-        "body": "Debora sues Darren for negligence. Jury finds her 20% at fault. What happens under pure comparative negligence?",
-        "options": [
-            "She recovers nothing",
-            "She recovers 80% of damages",
-            "Darren recovers 20%",
-            "Full recovery since minor fault"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Kordana",
-        "subject": "Contracts — Offer and Acceptance",
-        "body": "Darren emails Debora offering to sell a bike for $500. Before she replies, he sells it to another. What result?",
-        "options": [
-            "Contract formed",
-            "No contract — offer revoked",
-            "Option contract",
-            "Acceptance by silence"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Kordana",
-        "subject": "Contracts — Consideration",
-        "body": "Debora promises to give Darren $1,000 for his past help. Is it enforceable?",
-        "options": [
-            "Yes — moral obligation suffices",
-            "No — past consideration is not valid",
-            "Yes — seal substitutes consideration",
-            "Yes — promissory estoppel"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Kordana",
-        "subject": "Contracts — Statute of Frauds",
-        "body": "Darren orally agrees to sell land to Debora. She pays and moves in. Enforceable?",
-        "options": [
-            "No — must be in writing",
-            "Yes — part performance exception",
-            "No — one-year rule",
-            "Yes — merchant’s confirmation"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Coughlin",
-        "subject": "Criminal Law — Homicide",
-        "body": "Darren intends serious injury but accidentally kills Debora. Charge?",
-        "options": [
-            "First-degree murder",
-            "Second-degree murder",
-            "Voluntary manslaughter",
-            "Involuntary manslaughter"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Coughlin",
-        "subject": "Criminal Law — Attempt",
-        "body": "Debora buys a gun intending to rob a bank but changes her mind before entering. What liability?",
-        "options": [
-            "Attempt",
-            "Conspiracy",
-            "No liability — voluntary abandonment",
-            "Accessory liability"
-        ],
-        "answer": 2
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Personal Jurisdiction",
-        "body": "Darren, a Virginia resident, sues Debora, a Texas resident, in Virginia state court for a car accident in Texas. Debora has never been to Virginia. Does the court have personal jurisdiction?",
-        "options": [
-            "Yes, specific jurisdiction applies",
-            "Yes, general jurisdiction applies",
-            "No, lacks minimum contacts",
-            "Yes, consent by filing motion"
-        ],
-        "answer": 2
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence",
-        "body": "Darren accidentally leaves a rake on the sidewalk. Debora trips. Which element is most in question?",
-        "options": [
-            "Duty",
-            "Breach",
-            "Causation",
-            "Damages"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Venue",
-        "body": "Darren sues Debora for a tort that occurred in Texas. Debora resides in the Southern District of Texas. Proper venue?",
-        "options": [
-            "Any federal district in the U.S.",
-            "A district where any defendant resides if all defendants reside in the same state",
-            "Only the district where plaintiff resides",
-            "Only the district where defendant was served"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — 12(b)(6)",
-        "body": "Under Twombly/Iqbal, a complaint must contain:",
-        "options": [
-            "Labels and conclusions",
-            "A detailed evidence list",
-            "Sufficient factual matter to state a plausible claim",
-            "Proof beyond a reasonable doubt"
-        ],
-        "answer": 2
-    },
-    {
-        "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Service",
-        "body": "Debora serves Darren by leaving the summons at his dwelling with a co-resident adult. Under Rule 4(e)(2)(B), is service valid?",
-        "options": [
-            "Yes",
-            "No — must be personal",
-            "No — only by mail",
-            "No — only by marshal"
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Res Ipsa",
-        "body": "A barrel falls from Debora’s warehouse onto Darren. No direct evidence of negligence. What doctrine helps Darren?",
-        "options": [
-            "Negligence per se",
-            "Res ipsa loquitur",
-            "Strict liability",
-            "Proximate cause only"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Eggshell Plaintiff",
-        "body": "Darren has a fragile skull. A minor bump by Debora causes severe harm. Liability scope?",
-        "options": [
-            "Limit to foreseeable extent of harm",
-            "Full liability for actual damages (eggshell rule)",
-            "No liability due to unusual susceptibility",
-            "Only nominal damages"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Per Se",
-        "body": "Debora violates a safety statute designed to protect a class including Darren from the type of injury he suffered. Effect?",
-        "options": [
-            "Automatic liability, damages fixed",
-            "Evidence of negligence but not breach",
-            "Breach established if statute applies and no excuse",
-            "No effect in civil cases"
-        ],
-        "answer": 2
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Landowner Duties",
-        "body": "Darren is a business invitee at Debora’s store. Standard of care?",
-        "options": [
-            "Refrain from willful/wanton only",
-            "Warn of known hidden dangers only",
-            "Reasonable care to make premises safe (inspect + remedy)",
-            "Strict liability for all injuries"
-        ],
-        "answer": 2
-    },
-    {
-        "from": "Partner Kordana",
-        "subject": "Contracts — Firm Offer (UCC §2-205)",
-        "body": "Debora, a merchant, signs a writing assuring Darren an offer will be held open for 30 days. Consideration?",
-        "options": [
-            "Required to be binding",
-            "Not required; writing signed by merchant suffices",
-            "Only required if price > $500",
-            "Only required if goods are unique"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Kordana",
-        "subject": "Contracts — Mirror Image / UCC Battle of Forms",
-        "body": "Under UCC §2-207, a seasonable expression of acceptance with additional terms:",
-        "options": [
-            "Is always a counteroffer",
-            "Can operate as an acceptance",
-            "Is void unless notarized",
-            "Is acceptance only if signed by both parties and sealed"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Kordana",
-        "subject": "Contracts — Preexisting Duty",
-        "body": "Darren promises to perform an existing duty for more money from Debora. Common-law consideration?",
-        "options": [
-            "Valid — new consideration presumed",
-            "Invalid — no consideration for same duty",
-            "Valid if in writing only",
-            "Always valid under UCC"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Kordana",
-        "subject": "Contracts — Promissory Estoppel",
-        "body": "Debora promises to pay Darren for moving based on her promise; he reasonably relies and moves. If no contract, remedy?",
-        "options": [
-            "None",
-            "Promissory estoppel may enforce to avoid injustice",
-            "Specific performance automatically",
-            "Rescission only"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Coughlin",
-        "subject": "Criminal Law — Accomplice Liability",
-        "body": "Darren aids Debora in committing a burglary. What mental state is generally required for accomplice liability?",
-        "options": [
-            "Negligence",
-            "Recklessness",
-            "Purpose to aid the principal",
-            "Strict liability"
-        ],
-        "answer": 2
-    },
-    {
-        "from": "Partner Coughlin",
-        "subject": "Criminal Law — Self-Defense",
-        "body": "Deadly force is justified when Darren reasonably believes:",
-        "options": [
-            "Any unlawful touch is imminent",
-            "Imminent unlawful deadly force is threatened",
-            "Property is at risk",
-            "Words alone are offensive"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Coughlin",
-        "subject": "Criminal Law — Conspiracy Withdrawal",
-        "body": "Darren joins a conspiracy but later tells Debora he quits. Liability for prior crimes?",
-        "options": [
-            "No liability for any acts",
-            "Liable for prior foreseeable crimes before withdrawal",
-            "Liable for nothing if he says 'I quit'",
-            "Liable for future crimes only"
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Managing Partner",
-        "subject": "BigLaw Humor — Billing",
-        "body": "Policy quiz: How many six-minute increments are in an hour?",
-        "options": [
-            "6",
-            "10",
-            "12",
-            "60"
-        ],
-        "answer": 2
-    },
-    {
-        "from": "HR",
-        "subject": "Office Humor — Elevator Etiquette",
-        "body": "If the partner enters the elevator, you:",
-        "options": [
-            "Keep studying Palsgraf silently",
-            "Start a res ipsa joke",
-            "Hit 'door close' and nod",
-            "Explain Erie at length"
-        ],
-        "answer": 2
-    },
-    {
-        "from": "Paralegal Pat",
-        "subject": "Filing Humor — PDF Names",
-        "body": "Correct file naming convention for Darren’s brief?",
-        "options": [
-            "final_v12_REAL_FINAL.pdf",
-            "DarrenBrief.pdf",
-            "2025-10-23_Plaintiff_MSJ_DarrenNelson.pdf",
-            "brief.pdf"
-        ],
-        "answer": 2
-    },
-    {
-        "from": "Debora",
-        "subject": "Love note — Coffee break?",
-        "body": "Proud of you. Coffee after you crush these questions? ❤️",
-        "options": [
-            "Reply: Love you too ❤️"
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Debora",
-        "subject": "Love note — You’ve got this",
-        "body": "Go win that bonus money, counselor. Dinner’s on me. 😘",
-        "options": [
-            "Reply: Sending hugs back 💙"
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Managing Partner",
-        "subject": "Civil Procedure — Forum Non Conveniens (Piper Aircraft Co. v. Reyno)",
-        "body": "Reyno, the administratrix of Scottish decedents, sued US manufacturers in a US federal court following a plane crash in Scotland, admitting she chose the US for its more favorable law. The manufacturers moved for dismissal based on forum non conveniens in favor of Scotland. Reyno argued that the Scottish law's unfavorable remedies should defeat the motion. According to the Rule of Law established in this case, what is the most accurate statement regarding the effect of unfavorable foreign law on a motion to dismiss for forum non conveniens?",
-        "options": [
-            "The motion must be denied. R: An unfavorable change in substantive law is a substantial consideration that defeats a forum non conveniens motion (Piper). A: Scottish law is less favorable. C: Dismissal is improper.",
-            "The possibility of an unfavorable change in law is not a substantial consideration. R: A plaintiff may not defeat a motion to dismiss for forum non conveniens merely by showing the alternative forum's law is less favorable (Piper). A: Reyno's showing is insufficient on its own. C: The motion can be granted.",
-            "The motion must be denied. R: A change in substantive law is always a controlling factor in the forum non conveniens inquiry (Piper). A: Scottish remedies are more limited. C: Dismissal is an abuse of discretion.",
-            "The motion can be granted only if the defendant shows the unfavorable law provides effectively no remedy. R: The defendant carries the burden to show the foreign forum's law is not clearly inadequate (Piper). A: The manufacturers did not meet this burden. C: Dismissal is improper."
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Debora",
-        "subject": "Love note — Study anthem",
-        "body": "Playing your focus playlist. Text me your score later. 💪",
-        "options": [
-            "Reply: You’re the best 🔥"
-        ],
-        "answer": 0
-    }
+{
+"Contracts": [
+{
+"cite": "Hamer v. Sidway (N.Y. 1891)",
+"doctrine": "Consideration via forbearance",
+"keyFacts": [
+"Uncle promises $5,000 if nephew refrains from legal vices until 21",
+"Forbearance of legal right is valid consideration",
+"Family setting does not negate bargained-for exchange"
 ]
+},
+{
+"cite": "Lucy v. Zehmer (Va. 1954)",
+"doctrine": "Objective theory of assent",
+"keyFacts": [
+"Barroom writing to sell Ferguson Farm for $50,000",
+"Subjective 'joke' claim rejected",
+"Reasonable person standard governs intent"
+]
+},
+{
+"cite": "Carlill v. Carbolic Smoke Ball Co. (Q.B. 1893)",
+"doctrine": "Unilateral contract; acceptance by performance",
+"keyFacts": [
+"Ad offers £100 if product fails; deposit shows seriousness",
+"Acceptance by performance; notice not required for reward",
+"Consideration via inconvenience/usage"
+]
+},
+{
+"cite": "Raffles v. Wichelhaus (Ex. 1864)",
+"doctrine": "Mutual mistake/ambiguity",
+"keyFacts": [
+"Two ships named 'Peerless'",
+"No assent on essential term when ambiguity is irresolvable",
+"Contract unenforceable for lack of meeting of the minds"
+]
+},
+{
+"cite": "Hadley v. Baxendale (Ex. 1854)",
+"doctrine": "Foreseeability limits consequential damages",
+"keyFacts": [
+"Crankshaft delay shuts mill",
+"Lost profits not recoverable absent notice of special circumstances",
+"Allocates risk by foreseeability at contracting"
+]
+},
+{
+"cite": "Hawkins v. McGee (N.H. 1929)",
+"doctrine": "Expectation damages",
+"keyFacts": [
+"Doctor promises '100% good hand'",
+"Measure is value promised minus value received",
+"Pain and suffering not part of expectation for breach"
+]
+},
+{
+"cite": "Embry v. Hargadine (Mo. App. 1907)",
+"doctrine": "Objective assent",
+"keyFacts": [
+"Employee sought renewal; boss said 'go ahead'",
+"Reasonable listener would take as assent",
+"Subjective intent irrelevant"
+]
+},
+{
+"cite": "Lefkowitz v. Great Minneapolis Surplus Store (Minn. 1957)",
+"doctrine": "Ads as offers when definite",
+"keyFacts": [
+"Ad stated price, quantity, 'first come'",
+"Left nothing open to negotiate",
+"Acceptance by performance formed contract"
+]
+},
+{
+"cite": "Joseph Martin Jr. Delicatessen v. Schumacher (N.Y. 1981)",
+"doctrine": "Indefiniteness",
+"keyFacts": [
+"Renewal rent 'to be agreed'",
+"Essential term lacked standard",
+"Unenforceable agreement to agree"
+]
+},
+{
+"cite": "Dickinson v. Dodds (Eng. 1876)",
+"doctrine": "Revocation by reliable notice",
+"keyFacts": [
+"Offeree learned property sold to third party",
+"Offer deemed revoked before acceptance",
+"No option without consideration"
+]
+},
+{
+"cite": "Morrison v. Thoelke (Fla. 1963)",
+"doctrine": "Mailbox rule",
+"keyFacts": [
+"Acceptance effective on dispatch",
+"Revocation effective on receipt",
+"Contract formed when acceptance mailed"
+]
+},
+{
+"cite": "Rehm-Zeiher Co. v. Walker (Ky. 1913)",
+"doctrine": "Illusory promise",
+"keyFacts": [
+"Buyer had unfettered exit",
+"No mutuality of obligation",
+"No consideration"
+]
+},
+{
+"cite": "Alaska Packers’ Ass’n v. Domenico (9th Cir. 1902)",
+"doctrine": "Preexisting duty rule",
+"keyFacts": [
+"Workers demanded raise mid-contract",
+"No new consideration for modification",
+"Modification unenforceable"
+]
+},
+{
+"cite": "Levine v. Blumenthal (N.J. 1936)",
+"doctrine": "Modification without consideration",
+"keyFacts": [
+"Rent reduction promise during hardship",
+"Common law requires new consideration",
+"Hardship alone insufficient"
+]
+},
+{
+"cite": "Farnum v. Silvano (Mass. App. Ct. 1989)",
+"doctrine": "Capacity",
+"keyFacts": [
+"Cognitive impairment in sale",
+"Buyer knew or should know",
+"Contract voidable"
+]
+},
+{
+"cite": "Bailey v. West (R.I. 1969)",
+"doctrine": "Implied contract/restitution limits",
+"keyFacts": [
+"Services not requested or accepted",
+"No mutual assent",
+"No unjust enrichment"
+]
+},
+{
+"cite": "Webb v. McGowin (Ala. App. 1935)",
+"doctrine": "Material benefit rule",
+"keyFacts": [
+"Promise after lifesaving act",
+"Recognizes prior material benefit",
+"Enforced to prevent injustice"
+]
+},
+{
+"cite": "Allegheny College v. National Chautauqua County Bank (N.Y. 1927)",
+"doctrine": "Consideration via condition; reliance",
+"keyFacts": [
+"Charitable pledge with naming condition",
+"Condition created bilateral exchange",
+"Reliance supports enforcement"
+]
+}
+],
+"Torts": [
+{
+"cite": "Palsgraf v. Long Island R.R. (N.Y. 1928)",
+"doctrine": "Duty and foreseeability; proximate cause",
+"keyFacts": [
+"Package with fireworks drops; distant scale injures plaintiff",
+"Cardozo: duty to foreseeable plaintiffs within zone of danger",
+"Andrews dissent: proximate cause as policy question"
+]
+},
+{
+"cite": "Brown v. Kendall (Mass. 1850)",
+"doctrine": "Negligence standard",
+"keyFacts": [
+"Dog fight; accidental eye injury while separating dogs",
+"Liability turns on ordinary care under circumstances",
+"Plaintiff bears burden to prove negligence"
+]
+},
+{
+"cite": "Vaughan v. Menlove (C.P. 1837)",
+"doctrine": "Objective reasonable person",
+"keyFacts": [
+"Hayrick fire after warnings ignored",
+"Rejects subjective prudence standard",
+"Sets baseline of ordinary prudence"
+]
+},
+{
+"cite": "Escola v. Coca-Cola (Cal. 1944)",
+"doctrine": "Res ipsa; move toward strict products liability",
+"keyFacts": [
+"Exploding soda bottle injures waitress",
+"Res ipsa permits inference of negligence",
+"Traynor concurrence argues for strict liability"
+]
+},
+{
+"cite": "Tarasoff v. Regents of the Univ. of California (Cal. 1976)",
+"doctrine": "Duty to warn/protect",
+"keyFacts": [
+"Therapist learns specific threat to identifiable victim",
+"Special relationship creates duty to protect",
+"Balances confidentiality and public safety"
+]
+},
+{
+"cite": "Summers v. Tice (Cal. 1948)",
+"doctrine": "Alternative liability",
+"keyFacts": [
+"Two negligent hunters; one shot hits plaintiff",
+"Burden shifts to defendants to apportion causation",
+"Ensures recovery when both negligent but causation uncertain"
+]
+},
+{
+"cite": "The T.J. Hooper (2d Cir. 1932)",
+"doctrine": "Custom as evidence, not conclusive",
+"keyFacts": [
+"Tugs lacked radios though industry practice varied",
+"Reasonable prudence may exceed custom",
+"Liability found"
+]
+},
+{
+"cite": "Tedla v. Ellman (N.Y. 1939)",
+"doctrine": "Negligence per se excuses",
+"keyFacts": [
+"Statute compliance more dangerous",
+"Purpose of statute controls",
+"Violation excused"
+]
+},
+{
+"cite": "United States v. Carroll Towing Co. (2d Cir. 1947)",
+"doctrine": "Hand formula breach",
+"keyFacts": [
+"No bargee during work hours",
+"B < P×L test",
+"Negligence found"
+]
+},
+{
+"cite": "Ybarra v. Spangard (Cal. 1944)",
+"doctrine": "Res ipsa with multiple defendants",
+"keyFacts": [
+"Injury under anesthesia",
+"Instrumentality under defendants’ control",
+"Inference of negligence permitted"
+]
+},
+{
+"cite": "Sindell v. Abbott Laboratories (Cal. 1980)",
+"doctrine": "Market-share liability",
+"keyFacts": [
+"Fungible DES product; maker unknown",
+"Liability apportioned by market share",
+"Facilitates recovery"
+]
+},
+{
+"cite": "Herskovits v. Group Health (Wash. 1983)",
+"doctrine": "Loss of chance",
+"keyFacts": [
+"Delayed diagnosis reduced survival probability",
+"Probabilistic injury recognized",
+"Causation without >50% baseline"
+]
+},
+{
+"cite": "Vosburg v. Putney (Wis. 1891)",
+"doctrine": "Battery; thin skull",
+"keyFacts": [
+"Intent to contact suffices",
+"Serious harm still liable",
+"Take plaintiff as found"
+]
+},
+{
+"cite": "Garratt v. Dailey (Wash. 1955)",
+"doctrine": "Intent via substantial certainty",
+"keyFacts": [
+"Chair moved; fall was virtually certain",
+"Knowledge equals intent",
+"Battery elements met"
+]
+},
+{
+"cite": "Kline v. 1500 Massachusetts Ave. (D.C. Cir. 1970)",
+"doctrine": "Landlord duty to protect",
+"keyFacts": [
+"Assault in common area with rising crime",
+"Control plus foreseeability",
+"Duty recognized"
+]
+},
+{
+"cite": "Yania v. Bigan (Pa. 1959)",
+"doctrine": "No duty to rescue baseline",
+"keyFacts": [
+"Nonfeasance absent special relation",
+"Duty when you create risk or undertake",
+"No liability here"
+]
+},
+{
+"cite": "United States v. Lawter (5th Cir. 1961)",
+"doctrine": "Negligent undertaking",
+"keyFacts": [
+"Rescue begun then botched",
+"Duty of reasonable care once undertaken",
+"Liability for increased risk"
+]
+},
+{
+"cite": "Trans-Pacific Fishing & Packing Co. v. Smith (9th Cir. 1934)",
+"doctrine": "Special relationship duty",
+"keyFacts": [
+"Shipmaster–seaman relationship",
+"Duty to attempt reasonable rescue",
+"Control and dependence"
+]
+},
+{
+"cite": "Purtle v. Shelton (Ark. 1971)",
+"doctrine": "Adult standard for adult activities",
+"keyFacts": [
+"Minor using firearm",
+"Adult activity triggers adult standard",
+"Higher care required"
+]
+}
+],
+"Criminal Law": [
+{
+"cite": "M’Naghten’s Case (H.L. 1843)",
+"doctrine": "Insanity—cognitive incapacity",
+"keyFacts": [
+"Defendant could not know nature/quality or wrongfulness",
+"Focus on cognitive understanding at time of act",
+"Foundational common-law insanity test"
+]
+},
+{
+"cite": "Regina v. Cunningham (K.B. 1957)",
+"doctrine": "Mens rea—malice as recklessness",
+"keyFacts": [
+"Gas meter removal causes poisoning",
+"‘Malice’ requires subjective recklessness",
+"Clarifies mental element for result crimes"
+]
+},
+{
+"cite": "People v. Rusk (Md. 1981)",
+"doctrine": "Force/Threat in rape; consent",
+"keyFacts": [
+"Submission based on fear can satisfy force",
+"Objective reasonableness of fear assessed",
+"Clarifies boundaries of consent"
+]
+},
+{
+"cite": "Commonwealth v. Malone (Pa. 1946)",
+"doctrine": "Depraved heart murder",
+"keyFacts": [
+"Russian roulette killing",
+"Extreme recklessness manifests malice",
+"Differentiates murder from manslaughter"
+]
+},
+{
+"cite": "Regina v. Faulkner (Ir. 1877)",
+"doctrine": "Mens rea alignment across elements",
+"keyFacts": [
+"Intent to steal rum; accidental fire",
+"No automatic transfer of intent to arson",
+"Each element requires its own mens rea"
+]
+},
+{
+"cite": "Martin v. State (Ala. Ct. App. 1944)",
+"doctrine": "Voluntary act requirement",
+"keyFacts": [
+"Police carried defendant into public",
+"Public presence not voluntary act",
+"Conviction reversed"
+]
+},
+{
+"cite": "Papachristou v. Jacksonville (U.S. 1972)",
+"doctrine": "Vagueness doctrine",
+"keyFacts": [
+"Vagrancy ordinance lacked clear standards",
+"Failed fair notice",
+"Invited arbitrary enforcement"
+]
+},
+{
+"cite": "Lawrence v. Texas (U.S. 2003)",
+"doctrine": "Substantive due process",
+"keyFacts": [
+"Criminalized private consensual intimacy",
+"Liberty protects private conduct",
+"Statute unconstitutional"
+]
+}
+],
+"Civil Procedure": [
+{
+"cite": "Bell Atlantic v. Twombly (U.S. 2007)",
+"doctrine": "Plausibility pleading",
+"keyFacts": [
+"Conclusions not credited",
+"Facts must suggest liability is plausible",
+"Raised Rule 8 standard"
+]
+},
+{
+"cite": "Ashcroft v. Iqbal (U.S. 2009)",
+"doctrine": "Two-step pleading",
+"keyFacts": [
+"Discard conclusory assertions",
+"Assess well-pled facts for plausibility",
+"Applies to all civil cases"
+]
+},
+{
+"cite": "Stradford v. Zurich Ins. (S.D.N.Y. 2002)",
+"doctrine": "Rule 9(b) particularity",
+"keyFacts": [
+"Fraud must state who/what/when/where/how",
+"Counterclaim lacked specifics",
+"Leave to amend granted"
+]
+},
+{
+"cite": "Hickman v. Taylor (U.S. 1947)",
+"doctrine": "Work-product doctrine",
+"keyFacts": [
+"Attorney interview notes sought",
+"Opinion work product protected",
+"Fact work product needs substantial need"
+]
+}
+]
+}
