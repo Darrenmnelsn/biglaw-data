@@ -383,6 +383,235 @@
 ]
 },
 {
+"cite": "Embry v. Hargadine (Mo. App. 1907)",
+"doctrine": "Objective assent",
+"keyFacts": [
+"Employee sought renewal; boss said 'go ahead'",
+"Reasonable listener would take as assent",
+"Subjective intent irrelevant"
+]
+},
+{
+"cite": "Lefkowitz v. Great Minneapolis Surplus Store (Minn. 1957)",
+"doctrine": "Ads as offers when definite",
+"keyFacts": [
+"Ad stated price, quantity, 'first come'",
+"Left nothing open to negotiate",
+"Acceptance by performance formed contract"
+]
+},
+{
+"cite": "Joseph Martin Jr. Delicatessen v. Schumacher (N.Y. 1981)",
+"doctrine": "Indefiniteness",
+"keyFacts": [
+"Renewal rent 'to be agreed'",
+"Essential term lacked standard",
+"Unenforceable agreement to agree"
+]
+},
+{
+"cite": "Dickinson v. Dodds (Eng. 1876)",
+"doctrine": "Revocation by reliable notice",
+"keyFacts": [
+"Offeree learned property sold to third party",
+"Offer deemed revoked before acceptance",
+"No option without consideration"
+]
+},
+{
+"cite": "Morrison v. Thoelke (Fla. 1963)",
+"doctrine": "Mailbox rule",
+"keyFacts": [
+"Acceptance effective on dispatch",
+"Revocation effective on receipt",
+"Contract formed when acceptance mailed"
+]
+},
+{
+"cite": "Rehm-Zeiher Co. v. Walker (Ky. 1913)",
+"doctrine": "Illusory promise",
+"keyFacts": [
+"Buyer retained unfettered discretion",
+"No mutuality of obligation",
+"No consideration"
+]
+},
+{
+"cite": "Alaska Packers’ Ass’n v. Domenico (9th Cir. 1902)",
+"doctrine": "Preexisting duty rule",
+"keyFacts": [
+"Workers demanded raise mid-contract",
+"No new consideration for modification",
+"Modification unenforceable"
+]
+},
+{
+"cite": "Levine v. Blumenthal (N.J. 1936)",
+"doctrine": "Modification without consideration",
+"keyFacts": [
+"Rent reduction during hardship",
+"Common law requires new consideration",
+"Hardship alone insufficient"
+]
+},
+{
+"cite": "Farnum v. Silvano (Mass. App. Ct. 1989)",
+"doctrine": "Capacity",
+"keyFacts": [
+"Elderly seller with cognitive impairment",
+"Buyer knew or should have known",
+"Contract voidable"
+]
+},
+{
+"cite": "Bailey v. West (R.I. 1969)",
+"doctrine": "Implied contract and restitution limits",
+"keyFacts": [
+"Services not requested or accepted",
+"No mutual assent for implied-in-fact",
+"No unjust enrichment recovery"
+]
+},
+{
+"cite": "Webb v. McGowin (Ala. App. 1935)",
+"doctrine": "Material benefit rule",
+"keyFacts": [
+"Promise after lifesaving act",
+"Recognition of prior material benefit",
+"Enforceable to prevent injustice"
+]
+},
+{
+"cite": "Allegheny College v. National Chautauqua County Bank (N.Y. 1927)",
+"doctrine": "Consideration via condition; reliance",
+"keyFacts": [
+"Charitable pledge with naming condition",
+"Condition created bilateral exchange",
+"Reliance supports enforcement"
+]
+}
+],
+"Torts": [
+{
+"cite": "The T.J. Hooper (2d Cir. 1932)",
+"doctrine": "Custom as evidence, not conclusive",
+"keyFacts": [
+"Tugs lacked radios though industry usage varied",
+"Reasonable prudence may exceed custom",
+"Liability found"
+]
+},
+{
+"cite": "Tedla v. Ellman (N.Y. 1939)",
+"doctrine": "Negligence per se excuses",
+"keyFacts": [
+"Following statute would increase danger",
+"Purpose of statute controls",
+"Violation excused"
+]
+},
+{
+"cite": "United States v. Carroll Towing Co. (2d Cir. 1947)",
+"doctrine": "Hand formula breach",
+"keyFacts": [
+"No bargee during work hours",
+"Negligence if burden < probability × loss",
+"Economic calculus guides duty"
+]
+},
+{
+"cite": "Ybarra v. Spangard (Cal. 1944)",
+"doctrine": "Res ipsa with multiple defendants",
+"keyFacts": [
+"Injury under anesthesia",
+"Instrumentality under defendants’ control",
+"Inference of negligence permitted"
+]
+},
+{
+"cite": "Sindell v. Abbott Laboratories (Cal. 1980)",
+"doctrine": "Market-share liability",
+"keyFacts": [
+"Fungible DES product; maker unknown",
+"Liability apportioned by market share",
+"Facilitates recovery"
+]
+},
+{
+"cite": "Herskovits v. Group Health (Wash. 1983)",
+"doctrine": "Loss of chance",
+"keyFacts": [
+"Delayed diagnosis reduced survival probability",
+"Probabilistic injury recognized",
+"Causation met without >50% baseline"
+]
+},
+{
+"cite": "Vosburg v. Putney (Wis. 1891)",
+"doctrine": "Battery; thin skull",
+"keyFacts": [
+"Intent to contact suffices",
+"Serious harm still liable",
+"Take plaintiff as found"
+]
+},
+{
+"cite": "Garratt v. Dailey (Wash. 1955)",
+"doctrine": "Intent via substantial certainty",
+"keyFacts": [
+"Chair moved; fall virtually certain",
+"Knowledge equals intent",
+"Battery elements met"
+]
+},
+{
+"cite": "Kline v. 1500 Massachusetts Ave. (D.C. Cir. 1970)",
+"doctrine": "Landlord duty to protect",
+"keyFacts": [
+"Assault in common area with rising crime",
+"Control plus foreseeability",
+"Duty recognized"
+]
+},
+{
+"cite": "Yania v. Bigan (Pa. 1959)",
+"doctrine": "No duty to rescue baseline",
+"keyFacts": [
+"Nonfeasance absent special relation",
+"Duty when you create risk or undertake",
+"No liability here"
+]
+},
+{
+"cite": "United States v. Lawter (5th Cir. 1961)",
+"doctrine": "Negligent undertaking",
+"keyFacts": [
+"Rescue begun then botched",
+"Duty of reasonable care once undertaken",
+"Liability for increased risk"
+]
+},
+{
+"cite": "Trans-Pacific Fishing & Packing Co. v. Smith (9th Cir. 1934)",
+"doctrine": "Special relationship duty",
+"keyFacts": [
+"Shipmaster–seaman relationship",
+"Duty to attempt reasonable rescue",
+"Control and dependence"
+]
+},
+{
+"cite": "Purtle v. Shelton (Ark. 1971)",
+"doctrine": "Adult standard for adult activities",
+"keyFacts": [
+"Minor using firearm",
+"Adult activity triggers adult standard",
+"Higher care required"
+]
+}
+],
+"Criminal Law": [
+{
 "cite": "Martin v. State (Ala. Ct. App. 1944)",
 "doctrine": "Voluntary act requirement",
 "keyFacts": [
@@ -408,6 +637,33 @@
 "Liberty protects private conduct",
 "Statute unconstitutional"
 ]
-}
+},
+{
+"cite": "Martin v. State (Ala. Ct. App. 1944)",
+"doctrine": "Voluntary act requirement",
+"keyFacts": [
+"Police carried defendant into public",
+"Public presence not voluntary act",
+"Conviction reversed"
 ]
+},
+{
+"cite": "Papachristou v. Jacksonville (U.S. 1972)",
+"doctrine": "Vagueness doctrine",
+"keyFacts": [
+"Vagrancy ordinance lacked clear standards",
+"Failed fair notice",
+"Invited arbitrary enforcement"
+]
+},
+{
+"cite": "Lawrence v. Texas (U.S. 2003)",
+"doctrine": "Substantive due process",
+"keyFacts": [
+"Criminalized private consensual intimacy",
+"Liberty protects private conduct",
+"Statute unconstitutional"
+] 
+} 
+] 
 }
