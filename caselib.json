@@ -1,1 +1,161 @@
-
+{
+  "Contracts": [
+    {
+      "cite": "Hamer v. Sidway (N.Y. 1891)",
+      "doctrine": "Consideration via forbearance",
+      "keyFacts": [
+        "Uncle promises $5,000 if nephew refrains from legal vices until 21",
+        "Forbearance of legal right is valid consideration",
+        "Family setting does not negate bargained-for exchange"
+      ]
+    },
+    {
+      "cite": "Lucy v. Zehmer (Va. 1954)",
+      "doctrine": "Objective theory of assent",
+      "keyFacts": [
+        "Barroom writing to sell Ferguson Farm for $50,000",
+        "Subjective 'joke' claim rejected",
+        "Reasonable person standard governs intent"
+      ]
+    },
+    {
+      "cite": "Carlill v. Carbolic Smoke Ball Co. (Q.B. 1893)",
+      "doctrine": "Unilateral contract; acceptance by performance",
+      "keyFacts": [
+        "Ad offers £100 if product fails; deposit shows seriousness",
+        "Acceptance by performance; notice not required for reward",
+        "Consideration via inconvenience/usage"
+      ]
+    },
+    {
+      "cite": "Raffles v. Wichelhaus (Ex. 1864)",
+      "doctrine": "Mutual mistake/ambiguity",
+      "keyFacts": [
+        "Two ships named 'Peerless'",
+        "No assent on essential term when ambiguity is irresolvable",
+        "Contract unenforceable for lack of meeting of the minds"
+      ]
+    },
+    {
+      "cite": "Hadley v. Baxendale (Ex. 1854)",
+      "doctrine": "Foreseeability limits consequential damages",
+      "keyFacts": [
+        "Crankshaft delay shuts mill",
+        "Lost profits not recoverable absent notice of special circumstances",
+        "Allocates risk by foreseeability at contracting"
+      ]
+    },
+    {
+      "cite": "Hawkins v. McGee (N.H. 1929)",
+      "doctrine": "Expectation damages",
+      "keyFacts": [
+        "Doctor promises '100% good hand'",
+        "Measure is value promised minus value received",
+        "Pain and suffering not part of expectation for breach"
+      ]
+    }
+  ],
+  "Torts": [
+    {
+      "cite": "Palsgraf v. Long Island R.R. (N.Y. 1928)",
+      "doctrine": "Duty and foreseeability; proximate cause",
+      "keyFacts": [
+        "Package with fireworks drops; distant scale injures plaintiff",
+        "Cardozo: duty to foreseeable plaintiffs within zone of danger",
+        "Andrews dissent: proximate cause as policy question"
+      ]
+    },
+    {
+      "cite": "Brown v. Kendall (Mass. 1850)",
+      "doctrine": "Negligence standard",
+      "keyFacts": [
+        "Dog fight; accidental eye injury while separating dogs",
+        "Liability turns on ordinary care under circumstances",
+        "Plaintiff bears burden to prove negligence"
+      ]
+    },
+    {
+      "cite": "Vaughan v. Menlove (C.P. 1837)",
+      "doctrine": "Objective reasonable person",
+      "keyFacts": [
+        "Hayrick fire after warnings ignored",
+        "Rejects subjective prudence standard",
+        "Sets baseline of ordinary prudence"
+      ]
+    },
+    {
+      "cite": "Escola v. Coca-Cola (Cal. 1944)",
+      "doctrine": "Res ipsa; move toward strict products liability",
+      "keyFacts": [
+        "Exploding soda bottle injures waitress",
+        "Res ipsa permits inference of negligence",
+        "Traynor concurrence argues for strict liability"
+      ]
+    },
+    {
+      "cite": "Tarasoff v. Regents of the Univ. of California (Cal. 1976)",
+      "doctrine": "Duty to warn/protect",
+      "keyFacts": [
+        "Therapist learns specific threat to identifiable victim",
+        "Special relationship creates duty to protect",
+        "Balances confidentiality and public safety"
+      ]
+    },
+    {
+      "cite": "Summers v. Tice (Cal. 1948)",
+      "doctrine": "Alternative liability",
+      "keyFacts": [
+        "Two negligent hunters; one shot hits plaintiff",
+        "Burden shifts to defendants to apportion causation",
+        "Ensures recovery when both negligent but causation uncertain"
+      ]
+    }
+  ],
+  "Criminal Law": [
+    {
+      "cite": "M’Naghten’s Case (H.L. 1843)",
+      "doctrine": "Insanity—cognitive incapacity",
+      "keyFacts": [
+        "Defendant could not know nature/quality or wrongfulness",
+        "Focus on cognitive understanding at time of act",
+        "Foundational common-law insanity test"
+      ]
+    },
+    {
+      "cite": "Regina v. Cunningham (K.B. 1957)",
+      "doctrine": "Mens rea—malice as recklessness",
+      "keyFacts": [
+        "Gas meter removal causes poisoning",
+        "‘Malice’ requires subjective recklessness",
+        "Clarifies mental element for result crimes"
+      ]
+    },
+    {
+      "cite": "People v. Rusk (Md. 1981)",
+      "doctrine": "Force/Threat in rape; consent",
+      "keyFacts": [
+        "Submission based on fear can satisfy force",
+        "Objective reasonableness of fear assessed",
+        "Clarifies boundaries of consent"
+      ]
+    },
+    {
+      "cite": "Commonwealth v. Malone (Pa. 1946)",
+      "doctrine": "Depraved heart murder",
+      "keyFacts": [
+        "Russian roulette killing",
+        "Extreme recklessness manifests malice",
+        "Differentiates murder from manslaughter"
+      ]
+    },
+    {
+      "cite": "Regina v. Faulkner (Ir. 1877)",
+      "doctrine": "Mens rea alignment across elements",
+      "keyFacts": [
+        "Intent to steal rum; accidental fire",
+        "No automatic transfer of intent to arson",
+        "Each element requires its own mens rea"
+      ]
+    }
+  ]
+}
