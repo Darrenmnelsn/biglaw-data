@@ -61,17 +61,185 @@
     },
     {
         "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Personal Jurisdiction",
-        "body": "Debora sells one car through Craigslist to a buyer in Virginia. The buyer sues her there over that sale. Does Virginia have specific jurisdiction?",
+        "subject": "Torts — Objective Responsibility Standard",
+        "body": "The following cases apply a single rule: Vaughan v. Menlove, William v. Hays, Fredericks v. Castora, Roberts v. Ring, Dellwo v. Pearson, Brune v. Belinkoff, and The T.J. Hooper. Which Common-Sense Justice theme best captures the courts’ reasoning across these decisions?",
         "options": [
-            "Yes — claim arises from forum contact",
-            "No — single sale insufficient",
-            "Yes — general jurisdiction",
-            "No — stream of commerce not satisfied"
+            "1. Objective Responsibility — law measures conduct by the reasonable person, not individual quirks.",
+            "2. Foreseeability as the Moral Limit — liability ends where prediction ends.",
+            "3. Rescue and Reliance — once you start helping, you must finish.",
+            "4. Balance, Not Perfection — prudence, not total safety.",
+                    "5. Fair Allocation of Risk — share the cost of shared danger.",
+            "6. Duty from Control and Trust — power creates duty.",
+            "7. Law Honors Courage — heroism not punished.",
+            "8. Limits on Sympathy — feelings aren’t damages.",
+            "9. Rules with Flexibility — context over ritual.",
+            "10. Law as Incentive — make care cheaper than carelessness."
         ],
         "answer": 0
-    },
-    {
+     },
+     {
+        "from": "Partner Bamzai",
+        "subject": "Torts — Foreseeability as Boundary of Duty",
+        "body": "The following decisions limit liability to what a reasonable actor could foresee: Bolton v. Stone, Wagon Mound No. 1, Adams v. Bullock, DiPonzio v. Riordan, Colonial Inn v. Gay, and Riss v. City of New York. Which Common-Sense Justice theme do they exemplify?",
+        "options": [
+            "1. Objective Responsibility",
+            "2. Foreseeability as the Moral Limit",
+            "3. Rescue and Reliance",
+            "4. Balance, Not Perfection",
+            "5. Fair Allocation of Risk",
+            "6. Duty from Control and Trust",
+            "7. Law Honors Courage",
+            "8. Limits on Sympathy",
+            "9. Rules with Flexibility",
+            "10. Law as Incentive"
+        ],
+        "answer": 1
+      },
+      {
+        "from": "Partner Bamzai",
+        "subject": "Torts — Rescue and Reliance",
+        "body": "Cases like Eckert v. Long Island R.R., Farwell v. Keaton, Marsalis v. LaSalle, Gardner v. National Bulk Carriers, and Schuster v. City of New York create liability once aid or assurance is begun. Which theme captures their shared moral logic?",
+        "options": [
+            "1. Objective Responsibility",
+            "2. Foreseeability as the Moral Limit",
+            "3. Rescue and Reliance",
+            "4. Balance, Not Perfection",
+            "5. Fair Allocation of Risk",
+            "6. Duty from Control and Trust",
+            "7. Law Honors Courage",
+            "8. Limits on Sympathy",
+            "9. Rules with Flexibility",
+            "10. Law as Incentive"
+        ],
+        "answer": 2
+      },
+      {
+        "from": "Partner Bamzai",
+        "subject": "Torts — Balance, Not Perfection",
+        "body": "Adams v. Bullock, Carroll Towing, Friedman v. State, Gottshall, and Kerr v. Connecticut Co. all apply a reasonableness calculus rather than requiring flawless safety. Which theme describes this line?",
+        "options": [
+            "1. Objective Responsibility",
+            "2. Foreseeability as the Moral Limit",
+            "3. Rescue and Reliance",
+            "4. Balance, Not Perfection",
+            "5. Fair Allocation of Risk",
+            "6. Duty from Control and Trust",
+            "7. Law Honors Courage",
+            "8. Limits on Sympathy",
+            "9. Rules with Flexibility",
+            "10. Law as Incentive"
+        ],
+        "answer": 3
+       },
+       {
+        "from": "Partner Bamzai",
+        "subject": "Torts — Shared Industry Liability",
+        "body": "Summers v. Tice, Sindell v. Abbott Laboratories, Rodi Yachts v. National Marine, and Kinsman Transit all distribute responsibility among multiple wrongdoers. Which Common-Sense Justice theme do they represent?",
+        "options": [
+            "1. Objective Responsibility",
+            "2. Foreseeability as the Moral Limit",
+            "3. Rescue and Reliance",
+            "4. Balance, Not Perfection",
+            "5. Fair Allocation of Risk",
+            "6. Duty from Control and Trust",
+            "7. Law Honors Courage",
+            "8. Limits on Sympathy",
+            "9. Rules with Flexibility",
+            "10. Law as Incentive"
+        ],
+        "answer": 4
+       },
+       {
+        "from": "Partner Bamzai",
+        "subject": "Torts — Duty from Control or Reliance",
+        "body": "Tarasoff v. Regents, Kelly v. Gwinnell, Kline v. 1500 Massachusetts Ave., Marsalis v. LaSalle, and Bradshaw v. Daniel impose duties on those with power or special trust. Which theme summarizes these rulings?",
+        "options": [
+            "1. Objective Responsibility",
+            "2. Foreseeability as the Moral Limit",
+            "3. Rescue and Reliance",
+            "4. Balance, Not Perfection",
+            "5. Fair Allocation of Risk",
+            "6. Duty from Control and Trust",
+            "7. Law Honors Courage",
+            "8. Limits on Sympathy",
+            "9. Rules with Flexibility",
+            "10. Law as Incentive"
+        ],
+        "answer": 5
+      },
+      {
+        "from": "Partner Bamzai",
+        "subject": "Torts — Valor vs. Negligence",
+        "body": "Eckert v. Long Island R.R., Gardner v. National Bulk Carriers, and other rescue cases treat self-sacrifice as reasonable, not reckless. Which Common-Sense Justice theme applies?",
+        "options": [
+            "1. Objective Responsibility",
+            "2. Foreseeability as the Moral Limit",
+            "3. Rescue and Reliance",
+            "4. Balance, Not Perfection",
+            "5. Fair Allocation of Risk",
+            "6. Duty from Control and Trust",
+            "7. Law Honors Courage",
+            "8. Limits on Sympathy",
+            "9. Rules with Flexibility",
+            "10. Law as Incentive"
+        ],
+        "answer": 6
+     },
+     {
+        "from": "Partner Bamzai",
+        "subject": "Torts — Limits on Sympathy",
+        "body": "Johnson v. Douglas, Riss v. City of New York, People Express v. Conrail, and Consolidated Rail Corp. v. Gottshall show courts rejecting purely emotional or speculative loss. Which theme best fits?",
+        "options": [
+            "1. Objective Responsibility",
+            "2. Foreseeability as the Moral Limit",
+            "3. Rescue and Reliance",
+            "4. Balance, Not Perfection",
+            "5. Fair Allocation of Risk",
+            "6. Duty from Control and Trust",
+            "7. Law Honors Courage",
+            "8. Limits on Sympathy",
+            "9. Rules with Flexibility",
+            "10. Law as Incentive"
+        ],
+        "answer": 7
+      },
+      {
+        "from": "Partner Bamzai",
+        "subject": "Torts — Rules with Flexibility",
+        "body": "Tedla v. Ellman, Pokora v. Wabash Ry., and B.&O. R.R. v. Goodman debate when to follow or bend bright-line safety rules. Which theme captures their core message?",
+        "options": [
+            "1. Objective Responsibility",
+            "2. Foreseeability as the Moral Limit",
+            "3. Rescue and Reliance",
+            "4. Balance, Not Perfection",
+            "5. Fair Allocation of Risk",
+            "6. Duty from Control and Trust",
+            "7. Law Honors Courage",
+            "8. Limits on Sympathy",
+            "9. Rules with Flexibility",
+            "10. Law as Incentive"
+        ],
+        "answer": 8
+       },
+       {
+        "from": "Partner Bamzai",
+        "subject": "Torts — Law as Incentive for Social Care",
+        "body": "Carroll Towing, T.J. Hooper, Martin v. Herzog, Tarasoff, and Sindell v. Abbott Labs all show tort law steering conduct toward precaution and honesty. Which Common-Sense Justice principle do they share?",
+        "options": [
+            "1. Objective Responsibility",
+            "2. Foreseeability as the Moral Limit",
+            "3. Rescue and Reliance",
+            "4. Balance, Not Perfection",
+            "5. Fair Allocation of Risk",
+            "6. Duty from Control and Trust",
+            "7. Law Honors Courage",
+            "8. Limits on Sympathy",
+            "9. Rules with Flexibility",
+            "10. Law as Incentive"
+        ],
+        "answer": 9
+      },
+      {
         "from": "Partner Bamzai",
         "subject": "Civil Procedure — Erie Doctrine",
         "body": "A federal court in Virginia hears a state-law negligence claim. There’s no federal rule on point. What law governs?",
@@ -82,8 +250,8 @@
             "Plaintiff’s choice"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Bamzai",
         "subject": "Civil Procedure — Removal",
         "body": "Darren sues Debora in Virginia state court. Debora removes to federal court 40 days after service. What result?",
@@ -94,8 +262,8 @@
             "Improper — must wait for judgment"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Bamzai",
         "subject": "Civil Procedure — Summary Judgment",
         "body": "After discovery, no genuine dispute exists about any material fact. What should the court do?",
@@ -106,8 +274,8 @@
             "Remand to state court"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Cope",
         "subject": "Torts — Negligence Duty",
         "body": "Debora walks by a stranger drowning in a shallow pond and does nothing. Liability?",
@@ -118,8 +286,8 @@
             "Yes — once you witness danger"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Cope",
         "subject": "Torts — Breach",
         "body": "Darren drives 10 mph over the limit in a residential area. A child runs into the street and is hit. Which case best captures the analysis?",
@@ -130,8 +298,8 @@
             "Palsgraf"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Cope",
         "subject": "Torts — Cause in Fact",
         "body": "Two negligent hunters fire; one bullet hits Debora. Which doctrine applies?",
@@ -142,8 +310,8 @@
             "Concert of action"
         ],
         "answer": 0
-    },
-    {
+      },
+      {
         "from": "Partner Cope",
         "subject": "Torts — Proximate Cause",
         "body": "Darren leaves dynamite on his porch. A thief steals it, drops it, and injures Debora two miles away. Result?",
@@ -154,8 +322,8 @@
             "Strict liability applies"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Cope",
         "subject": "Torts — Comparative Fault",
         "body": "Debora sues Darren for negligence. Jury finds her 20% at fault. What happens under pure comparative negligence?",
@@ -166,8 +334,8 @@
             "Full recovery since minor fault"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Kordana",
         "subject": "Contracts — Offer and Acceptance",
         "body": "Darren emails Debora offering to sell a bike for $500. Before she replies, he sells it to another. What result?",
@@ -178,8 +346,8 @@
             "Acceptance by silence"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Kordana",
         "subject": "Contracts — Consideration",
         "body": "Debora promises to give Darren $1,000 for his past help. Is it enforceable?",
@@ -190,8 +358,8 @@
             "Yes — promissory estoppel"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Kordana",
         "subject": "Contracts — Statute of Frauds",
         "body": "Darren orally agrees to sell land to Debora. She pays and moves in. Enforceable?",
@@ -202,8 +370,8 @@
             "Yes — merchant’s confirmation"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Coughlin",
         "subject": "Criminal Law — Homicide",
         "body": "Darren intends serious injury but accidentally kills Debora. Charge?",
@@ -214,8 +382,8 @@
             "Involuntary manslaughter"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Coughlin",
         "subject": "Criminal Law — Attempt",
         "body": "Debora buys a gun intending to rob a bank but changes her mind before entering. What liability?",
@@ -226,8 +394,8 @@
             "Accessory liability"
         ],
         "answer": 2
-    },
-    {
+      },
+      {
         "from": "Partner Bamzai",
         "subject": "Civil Procedure — Personal Jurisdiction",
         "body": "Darren, a Virginia resident, sues Debora, a Texas resident, in Virginia state court for a car accident in Texas. Debora has never been to Virginia. Does the court have personal jurisdiction?",
@@ -238,8 +406,8 @@
             "Yes, consent by filing motion"
         ],
         "answer": 2
-    },
-    {
+      },
+      {
         "from": "Partner Cope",
         "subject": "Torts — Negligence",
         "body": "Darren accidentally leaves a rake on the sidewalk. Debora trips. Which element is most in question?",
@@ -250,8 +418,8 @@
             "Damages"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Bamzai",
         "subject": "Civil Procedure — Venue",
         "body": "Darren sues Debora for a tort that occurred in Texas. Debora resides in the Southern District of Texas. Proper venue?",
@@ -262,8 +430,8 @@
             "Only the district where defendant was served"
         ],
         "answer": 1
-    },
-    {
+      },
+      {
         "from": "Partner Bamzai",
         "subject": "Civil Procedure — 12(b)(6)",
         "body": "Under Twombly/Iqbal, a complaint must contain:",
