@@ -646,6 +646,238 @@
 "Public presence not voluntary act",
 "Conviction reversed"
 ]
+}
+],
+"Contracts": [
+{
+"cite": "Williams v. Walker-Thomas Furniture Co. (D.C. Cir. 1965)",
+"doctrine": "Unconscionability",
+"keyFacts": [
+"Cross-collateral retail contract wiped out all goods on default",
+"Procedural + substantive unfairness scrutinized",
+"Court permits refusal to enforce unconscionable term"
+]
+},{
+"cite": "Crabtree v. Elizabeth Arden Sales Corp. (N.Y. 1953)",
+"doctrine": "Statute of Frauds—multiple writings",
+"keyFacts": [
+"Separate documents read together to satisfy signature and terms",
+"Parol evidence can connect the writings",
+"SOF met without single integrated memo"
+]
+},
+{
+"cite": "Drennan v. Star Paving Co. (Cal. 1958)",
+"doctrine": "Promissory estoppel—contractor bids",
+"keyFacts": [
+"Sub bid reasonably relied on by general contractor",
+"Offer irrevocable to extent necessary to avoid injustice",
+"Reliance substitutes for consideration/option"
+]
+},
+{
+"cite": "ProCD, Inc. v. Zeidenberg (7th Cir. 1996)",
+"doctrine": "Shrinkwrap terms; assent by use",
+"keyFacts": [
+"Terms inside box enforceable when buyer keeps/uses",
+"UCC permits layered contracting practices",
+"Opportunity to return defeats unfair surprise"
+]
+},
+{
+"cite": "Princess Cruises, Inc. v. GE (4th Cir. 1998)",
+"doctrine": "Predominant purpose; battle of forms",
+"keyFacts": [
+"Service-dominant K → common law applies",
+"Seller’s limitation clause not in final K",
+"Determines whether UCC 2-207 governs"
+]
+},
+{
+"cite": "Kirksey v. Kirksey (Ala. 1845)",
+"doctrine": "Gratuitous promise vs consideration",
+"keyFacts": [
+"Invitation to move lacked bargained-for exchange",
+"Reliance alone then insufficient at common law",
+"No enforceable contract"
+]
+},
+{
+"cite": "Pennsy Supply, Inc. v. American Ash Recycling (Pa. Super. Ct. 2006)",
+"doctrine": "Consideration—benefit to promisor",
+"keyFacts": [
+"Free material avoided disposal costs for promisor",
+"Bargain existed though price was $0",
+"Consideration found via promisor benefit"
+]
+}
+],
+"Torts": [
+{
+"cite": "MacPherson v. Buick Motor Co. (N.Y. 1916)",
+"doctrine": "Manufacturer duty to consumers",
+"keyFacts": [
+"Privity not required for dangerous products",
+"Foreseeable users owed reasonable care",
+"Expands negligence liability"
+]
+},
+{
+"cite": "Byrne v. Boadle (Ex. 1863)",
+"doctrine": "Res ipsa loquitur origin",
+"keyFacts": [
+"Falling barrel inferred negligence",
+"Accident ordinarily doesn’t occur absent negligence",
+"Burden shifts to defendant to explain"
+]
+},
+{
+"cite": "Rylands v. Fletcher (H.L. 1868)",
+"doctrine": "Strict liability—non-natural use",
+"keyFacts": [
+"Escape of dangerous thing from land",
+"Liability without fault for abnormally dangerous use",
+"Foundational strict liability rule"
+]
+},
+{
+"cite": "Overseas Tankship (Wagon Mound No. 1) (P.C. 1961)",
+"doctrine": "Remoteness—foreseeability of kind of harm",
+"keyFacts": [
+"Oil spill fire damage not foreseeable type",
+"Liability limited to foreseeable consequences",
+"Shifts proximate cause analysis"
+]
+},
+{
+"cite": "Indiana Harbor Belt R.R. v. American Cyanamid (7th Cir. 1990)",
+"doctrine": "Abnormally dangerous activity test",
+"keyFacts": [
+"Transport of chemicals not strict if negligence can manage risk",
+"Focus on location and risk-avoidance feasibility",
+"Prefers negligence where incentives suffice"
+]
+},
+{
+"cite": "Rowland v. Christian (Cal. 1968)",
+"doctrine": "General duty to entrants",
+"keyFacts": [
+"Abolishes invitee/licensee distinctions",
+"Reasonable care to all lawful entrants",
+"Policy factors guide exceptions"
+]
+},
+{
+"cite": "Canterbury v. Spence (D.C. Cir. 1972)",
+"doctrine": "Informed consent",
+"keyFacts": [
+"Duty to disclose material risks to reasonable patient",
+"Causation asks if patient would refuse with disclosure",
+"Shifts from physician custom to patient-centered"
+]
+}
+],
+"Criminal Law": [
+{
+"cite": "People v. Goetz (N.Y. 1986)",
+"doctrine": "Self-defense—reasonableness standard",
+"keyFacts": [
+"Objective reasonableness informed by defendant’s circumstances",
+"Deadly force requires reasonable belief of imminent threat",
+"Clarifies mixed subjective/objective test"
+]
+},
+{
+"cite": "Regina v. Dudley & Stephens (Q.B. 1884)",
+"doctrine": "Necessity limit for homicide",
+"keyFacts": [
+"Killing cabin boy for survival",
+"Necessity no defense to murder at common law",
+"Sets moral boundary for choice-of-evils"
+]
+},
+{
+"cite": "People v. Rizzo (N.Y. 1927)",
+"doctrine": "Attempt—dangerous proximity",
+"keyFacts": [
+"Defendants failed to find victim before robbery",
+"Acts were preparation not attempt",
+"Need proximity to success"
+]
+},
+{
+"cite": "Commonwealth v. Welansky (Mass. 1944)",
+"doctrine": "Involuntary manslaughter—wanton/reckless",
+"keyFacts": [
+"Nightclub fire; exits blocked",
+"Omissions showing reckless disregard suffice",
+"Creates high standard for custodians"
+]
+},
+{
+"cite": "Elonis v. United States (U.S. 2015)",
+"doctrine": "Mens rea for threats",
+"keyFacts": [
+"Negligence insufficient for 18 U.S.C. §875(c)",
+"Requires awareness of threatening nature",
+"Separates objective foreseeability from culpability"
+]
+}
+],
+"Civil Procedure": [
+{
+"cite": "Pennoyer v. Neff (U.S. 1878)",
+"doctrine": "Territorial personal jurisdiction",
+"keyFacts": [
+"In personam requires personal service within forum",
+"Judgment void without proper jurisdiction",
+"Baseline for later minimum-contacts era"
+]
+},
+{
+"cite": "International Shoe Co. v. Washington (U.S. 1945)",
+"doctrine": "Minimum contacts",
+"keyFacts": [
+"Contacts must be such that suit is fair and just",
+"Quality and nature of contacts control",
+"Replaces strict territorialism"
+]
+},
+{
+"cite": "World-Wide Volkswagen Corp. v. Woodson (U.S. 1980)",
+"doctrine": "Foreseeability—purposeful availment",
+"keyFacts": [
+"Mere product travel not enough",
+"Defendant must purposefully target forum",
+"Protects defendants from random jurisdiction"
+]
+},
+{
+"cite": "Burger King Corp. v. Rudzewicz (U.S. 1985)",
+"doctrine": "Contract-based PJ; fairness factors",
+"keyFacts": [
+"Deliberate affiliation via franchise agreements",
+"Fair play and substantial justice balancing",
+"Choice-of-law and negotiations matter"
+]
+},
+{
+"cite": "Goodyear Dunlop Tires v. Brown (U.S. 2011) / Daimler AG v. Bauman (U.S. 2014)",
+"doctrine": "General jurisdiction—‘at home’",
+"keyFacts": [
+"General PJ limited to incorporation or principal place of business",
+"Exceptional cases rare",
+"Curtails expansive general jurisdiction"
+]
+},
+{
+"cite": "Erie R.R. v. Tompkins (U.S. 1938)",
+"doctrine": "Erie doctrine",
+"keyFacts": [
+"No federal general common law",
+"Apply state substantive law in diversity",
+"Prevents forum shopping/inequitable administration"
+]
 },
 {
 "cite": "Papachristou v. Jacksonville (U.S. 1972)",
