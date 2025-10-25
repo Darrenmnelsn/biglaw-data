@@ -1,13 +1,61 @@
 [
     {
         "from": "Partner Bamzai",
-        "subject": "Civil Procedure — Subject-Matter Jurisdiction",
-        "body": "Darren, a Texas citizen, sues Debora, a Louisiana citizen, in federal court for $50,000. Does diversity jurisdiction exist?",
+        "subject": "Civil Procedure — Personal Jurisdiction (International Shoe / World-Wide Volkswagen)",
+        "body": "Darren, a Texas resident, purchases a boat engine from Debora Marine, a Delaware corporation headquartered in Louisiana. Debora sells through a nationwide website but has no offices or agents in Virginia. Darren brings the engine to Virginia, where it explodes and injures him. He sues Debora in a Virginia federal court for negligence. Debora moves to dismiss for lack of personal jurisdiction. Darren argues Debora purposefully availed itself of Virginia by advertising nationally and that the injury occurred there. What is the most accurate CRAC-style analysis?",
         "options": [
-            "Yes",
-            "No — amount in controversy too low",
-            "No — same state parties",
-            "Yes, supplemental jurisdiction"
+            "C: The court lacks specific jurisdiction. R: Specific jurisdiction requires defendant’s forum contacts give rise to the claim (International Shoe). A: Debora’s only connection is Darren’s unilateral act bringing the engine into Virginia. C: Motion to dismiss should be granted.",
+            "C: The court has general jurisdiction. R: General jurisdiction exists where a corporation’s operations are continuous and systematic (Goodyear). A: Debora advertises nationally and ships to multiple states. C: Motion to dismiss should be denied.",
+            "C: Jurisdiction proper. R: Foreseeability of injury in forum supports minimum contacts (WWVW). A: Debora knew products might travel to Virginia. C: Court should retain case.",
+            "C: Jurisdiction proper. R: The internet presence shows purposeful availment (Zippo). A: Debora’s site allowed online ordering. C: Court should deny dismissal."
+        ],
+        "answer": 0
+    },
+    {
+        "from": "Partner Bamzai",
+        "subject": "Civil Procedure — General Jurisdiction (Daimler / Goodyear)",
+        "body": "Debora Logistics, incorporated in Delaware with its principal place of business in Louisiana, ships 12% of its goods through Virginia ports and maintains a small warehouse there. Darren, a former employee from Texas, sues Debora in Virginia federal court for wrongful termination that occurred in Louisiana. Debora moves to dismiss for lack of general jurisdiction. What is the correct CRAC analysis?",
+        "options": [
+            "C: General jurisdiction exists. R: Continuous and systematic contacts make a company 'at home' (Goodyear). A: Debora’s 12% shipping through Virginia and warehouse show continuous business. C: Motion should be denied.",
+            "C: General jurisdiction does not exist. R: A corporation is 'at home' only in its state of incorporation or principal place of business (Daimler). A: Debora’s limited operations in Virginia are not exceptional. C: Motion should be granted.",
+            "C: Specific jurisdiction applies. R: The employment dispute arose from forum conduct. A: Debora hired Darren through Virginia recruiters. C: Jurisdiction proper.",
+            "C: The court should defer to state law. R: Jurisdictional standards depend on state long-arm statutes. A: Virginia’s statute allows jurisdiction over all business entities. C: Motion denied."
+        ],
+        "answer": 1
+    },
+    {
+        "from": "Partner Bamzai",
+        "subject": "Civil Procedure — Subject-Matter Jurisdiction (§1331 and §1332)",
+        "body": "Darren, a Texas citizen, sues Debora, a Louisiana citizen, in federal court for breach of contract seeking $60,000. He also claims Debora’s conduct violated a federal banking regulation that provides no private cause of action. Debora moves to dismiss for lack of subject-matter jurisdiction. What is the best CRAC response?",
+        "options": [
+            "C: Federal jurisdiction exists. R: A federal issue need only appear in the complaint. A: Darren referenced a federal regulation. C: Motion denied.",
+            "C: Federal jurisdiction fails. R: Under the well-pleaded complaint rule (Mottley), the claim must arise under federal law on its face. A: Darren asserts only a state contract claim and references a federal regulation incidentally. C: Motion granted.",
+            "C: Diversity jurisdiction saves the case. R: §1332 requires diversity and >$75,000. A: The amount claimed is $60,000. C: Court should still hear it because diversity favors federal forum.",
+            "C: Jurisdiction unclear. R: Courts may exercise supplemental jurisdiction for small claims. A: The federal reference creates supplemental power. C: Motion denied."
+        ],
+        "answer": 1
+    },
+    {
+        "from": "Partner Bamzai",
+        "subject": "Civil Procedure — Erie Doctrine (Hanna / Guaranty Trust)",
+        "body": "In a diversity case, Darren sues Debora in federal court in Virginia for negligence. Virginia requires service by a sheriff; Federal Rule 4 allows service by a nonparty adult. Darren’s paralegal serves Debora. Debora moves to dismiss for improper service. Additionally, Virginia law caps prejudgment interest at 6%, while federal practice allows higher rates. What is the correct CRAC analysis under Erie?",
+        "options": [
+            "C: Apply Federal Rule 4 for service, apply Virginia cap for interest. R: Under Hanna, valid Federal Rules govern procedure; substantive state law controls outcome-determinative matters (Guaranty Trust). A: Service rule valid under Rules Enabling Act; interest cap affects substantive rights. C: Dismissal denied, damages limited.",
+            "C: Apply Virginia law to both. R: Erie requires state law in all diversity matters. A: Both service and damages are local concerns. C: Motion granted.",
+            "C: Apply Federal Rule 4 and federal interest rate. R: Federal rules always supersede state law in diversity. A: Congress authorized uniform procedure. C: Motion denied, interest uncapped.",
+            "C: Apply Virginia law to service, Federal rule to interest. R: State rules govern when state interests outweigh efficiency. A: Federal interest minimal. C: Service invalid, case dismissed."
+        ],
+        "answer": 0
+    },
+    {
+        "from": "Partner Bamzai",
+        "subject": "Civil Procedure — Removal & Forum-Defendant Rule",
+        "body": "Darren, a Texas citizen, sues Debora, a Virginia citizen, and Debora’s Virginia employee in Virginia state court. The claim seeks $200,000 for breach of contract. Debora removes the case to federal court, arguing diversity jurisdiction and that the employee was improperly joined. Darren moves to remand. What is the proper CRAC answer?",
+        "options": [
+            "C: Removal valid. R: Diversity jurisdiction applies when citizens of different states are parties. A: Texas vs. Virginia creates diversity. C: Motion denied.",
+            "C: Removal improper. R: Under §1441(b)(2), an in-state defendant cannot remove on diversity grounds (forum-defendant rule). A: Both defendants are Virginia citizens, defeating removal. C: Case remanded.",
+            "C: Partial removal valid. R: Federal courts may sever nondiverse parties. A: The employee can be ignored. C: Federal court retains main claim.",
+            "C: Removal proper. R: Complete diversity not required when damages exceed $75,000. A: Amount met, so federal court keeps case. C: Motion denied."
         ],
         "answer": 1
     },
