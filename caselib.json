@@ -1,4 +1,301 @@
 {
+"Contracts": [
+{
+"cite": "Embry v. Hargadine (Mo. App. 1907)",
+"doctrine": "Objective assent",
+"keyFacts": [
+"Boss said 'go ahead' after renewal demand",
+"Reasonable employee would hear assent",
+"Inner intent irrelevant if words convey agreement"
+]
+},
+{
+"cite": "Lefkowitz v. Great Minneapolis Surplus Store (Minn. 1957)",
+"doctrine": "Ad as offer when definite",
+"keyFacts": [
+"Ad stated price, quantity, first come",
+"Left nothing open to negotiation",
+"Acceptance by performance formed contract"
+]
+},
+{
+"cite": "Joseph Martin Jr. Delicatessen v. Schumacher (N.Y. 1981)",
+"doctrine": "Indefiniteness",
+"keyFacts": [
+"Renewal rent 'to be agreed'",
+"Essential term lacked objective standard",
+"Agreement to agree unenforceable"
+]
+},
+{
+"cite": "Dickinson v. Dodds (Eng. 1876)",
+"doctrine": "Revocation by reliable notice",
+"keyFacts": [
+"Offeree learned sale to third party",
+"Offer treated as revoked before acceptance",
+"No binding option without consideration"
+]
+},
+{
+"cite": "Morrison v. Thoelke (Fla. 1963)",
+"doctrine": "Mailbox rule",
+"keyFacts": [
+"Acceptance effective on dispatch",
+"Revocation effective on receipt",
+"Contract formed when acceptance mailed"
+]
+},
+{
+"cite": "Rehm-Zeiher Co. v. Walker (Ky. 1913)",
+"doctrine": "Illusory promise",
+"keyFacts": [
+"Buyer had unfettered right not to perform",
+"No mutuality of obligation",
+"No consideration so no contract"
+]
+},
+{
+"cite": "Alaska Packers’ Ass’n v. Domenico (9th Cir. 1902)",
+"doctrine": "Preexisting duty rule",
+"keyFacts": [
+"Workers demanded raise mid-contract",
+"No new consideration for modification",
+"Modification unenforceable"
+]
+},
+{
+"cite": "Levine v. Blumenthal (N.J. 1936)",
+"doctrine": "Modification without consideration",
+"keyFacts": [
+"Rent reduction promise during hardship",
+"Common law requires new consideration",
+"Hardship alone insufficient"
+]
+},
+{
+"cite": "Farnum v. Silvano (Mass. App. Ct. 1989)",
+"doctrine": "Capacity",
+"keyFacts": [
+"Elderly seller with cognitive impairment",
+"Buyer knew or should have known",
+"Contract voidable for incapacity"
+]
+},
+{
+"cite": "Bailey v. West (R.I. 1969)",
+"doctrine": "Implied contract and restitution limits",
+"keyFacts": [
+"Services not requested or accepted",
+"No mutual assent for implied-in-fact",
+"No unjust enrichment recovery"
+]
+},
+{
+"cite": "Webb v. McGowin (Ala. App. 1935)",
+"doctrine": "Material benefit rule",
+"keyFacts": [
+"Promise after lifesaving act",
+"Recognition of prior material benefit",
+"Enforceable to prevent injustice"
+]
+},
+{
+"cite": "Allegheny College v. National Chautauqua County Bank (N.Y. 1927)",
+"doctrine": "Consideration via condition; reliance",
+"keyFacts": [
+"Charitable pledge with naming condition",
+"Condition created bilateral exchange",
+"Enforcement supported by policy and reliance"
+]
+}
+],
+"Torts": [
+{
+"cite": "The T.J. Hooper (2d Cir. 1932)",
+"doctrine": "Custom as evidence, not conclusive",
+"keyFacts": [
+"Tugs lacked radios despite industry practice",
+"Reasonable prudence may exceed custom",
+"Liability found despite prevailing usage"
+]
+},
+{
+"cite": "Tedla v. Ellman (N.Y. 1939)",
+"doctrine": "Negligence per se excuses",
+"keyFacts": [
+"Statute would increase danger if followed",
+"Safety-based excuse permitted",
+"Statutory purpose controls"
+]
+},
+{
+"cite": "U.S. v. Carroll Towing Co. (2d Cir. 1947)",
+"doctrine": "Hand formula for breach",
+"keyFacts": [
+"No bargee aboard during work hours",
+"Negligence if burden < probability × loss",
+"Economic calculus guides duty"
+]
+},
+{
+"cite": "Ybarra v. Spangard (Cal. 1944)",
+"doctrine": "Res ipsa with multiple defendants",
+"keyFacts": [
+"Injury under anesthesia",
+"Instrumentality under defendants’ control",
+"Inference of negligence allowed"
+]
+},
+{
+"cite": "Sindell v. Abbott Laboratories (Cal. 1980)",
+"doctrine": "Market share liability",
+"keyFacts": [
+"Fungible DES product, maker unknown",
+"Liability apportioned by market share",
+"Facilitates recovery where identification impossible"
+]
+},
+{
+"cite": "Herskovits v. Group Health (Wash. 1983)",
+"doctrine": "Loss of chance",
+"keyFacts": [
+"Delayed diagnosis reduced survival probability",
+"Probabilistic injury recognized",
+"Causation met without >50% baseline"
+]
+},
+{
+"cite": "Vosburg v. Putney (Wis. 1891)",
+"doctrine": "Battery and thin skull",
+"keyFacts": [
+"Minor kick caused severe harm",
+"Intent to contact suffices",
+"Defendant takes plaintiff as found"
+]
+},
+{
+"cite": "Garratt v. Dailey (Wash. 1955)",
+"doctrine": "Intent via substantial certainty",
+"keyFacts": [
+"Child moved chair, plaintiff fell",
+"Knowledge contact was virtually certain",
+"Intent element satisfied"
+]
+},
+{
+"cite": "Kline v. 1500 Massachusetts Ave. (D.C. Cir. 1970)",
+"doctrine": "Landlord duty to protect",
+"keyFacts": [
+"Assault in common area with rising crime",
+"Control plus foreseeability creates duty",
+"Cheapest cost avoider rationale"
+]
+},
+{
+"cite": "Yania v. Bigan (Pa. 1959)",
+"doctrine": "No duty to rescue baseline",
+"keyFacts": [
+"Nonfeasance absent special relation",
+"No duty unless you create risk or undertake",
+"Limits tort duties"
+]
+},
+{
+"cite": "United States v. Lawter (5th Cir. 1961)",
+"doctrine": "Negligent undertaking",
+"keyFacts": [
+"Rescue begun then performed negligently",
+"Duty to exercise reasonable care",
+"Liability for increasing risk"
+]
+},
+{
+"cite": "Trans-Pacific Fishing & Packing Co. v. Smith (9th Cir. 1934)",
+"doctrine": "Special relationship duty",
+"keyFacts": [
+"Shipmaster and seaman relationship",
+"Duty to attempt reasonable rescue",
+"Control and dependence justify duty"
+]
+},
+{
+"cite": "Purtle v. Shelton (Ark. 1971)",
+"doctrine": "Adult standard for adult activities",
+"keyFacts": [
+"Minor using firearm",
+"Adult activity triggers adult standard",
+"Higher care due to inherent danger"
+]
+}
+],
+"Criminal Law": [
+{
+"cite": "Martin v. State (Ala. Ct. App. 1944)",
+"doctrine": "Voluntary act requirement",
+"keyFacts": [
+"Police carried defendant into public",
+"Presence not voluntary act",
+"Conviction reversed"
+]
+},
+{
+"cite": "Papachristou v. Jacksonville (U.S. 1972)",
+"doctrine": "Vagueness doctrine",
+"keyFacts": [
+"Vagrancy ordinance lacked clear standards",
+"Failed to give fair notice",
+"Invited arbitrary enforcement"
+]
+},
+{
+"cite": "Lawrence v. Texas (U.S. 2003)",
+"doctrine": "Substantive due process limits",
+"keyFacts": [
+"Criminalization of private consensual intimacy",
+"Liberty protects private conduct",
+"Statute unconstitutional"
+]
+}
+],
+"Civil Procedure": [
+{
+"cite": "Bell Atlantic v. Twombly (U.S. 2007)",
+"doctrine": "Plausibility pleading",
+"keyFacts": [
+"Conclusions not credited",
+"Facts must suggest liability is plausible",
+"Raised Rule 8 standard above possibility"
+]
+},
+{
+"cite": "Ashcroft v. Iqbal (U.S. 2009)",
+"doctrine": "Two-step pleading analysis",
+"keyFacts": [
+"Discard conclusory assertions",
+"Assess well-pled facts for plausibility",
+"Applied to all civil cases"
+]
+},
+{
+"cite": "Stradford v. Zurich Ins. (S.D.N.Y. 2002)",
+"doctrine": "Rule 9(b) particularity",
+"keyFacts": [
+"Fraud must state who, what, when, where, how",
+"Counterclaim lacked specifics",
+"Leave to amend granted"
+]
+},
+{
+"cite": "Hickman v. Taylor (U.S. 1947)",
+"doctrine": "Work product doctrine",
+"keyFacts": [
+"Attorney interview notes sought",
+"Opinion work product protected",
+"Fact work product needs substantial need"
+]
+},
+]
+{
   "Contracts": [
     {
       "cite": "Hamer v. Sidway (N.Y. 1891)",
