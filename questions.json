@@ -1,1694 +1,338 @@
 [
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Williams v. Hays (N.Y. 1899), a ship captain driven insane by overwork crashed his vessel. Is he liable for negligence despite his mental exhaustion?",
-        "options": [
-            "Yes, because self-induced incapacity does not excuse negligence.",
-            "No, insanity always negates liability.",
-            "Yes, but only if he had notice of his condition.",
-            "No, because fatigue is an unforeseeable defense."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Heath v. Swift Wings, Inc. (N.C. 1979), a pilot crashed due to poor technique. What standard of care applied to the professional pilot?",
-        "options": [
-            "The ordinary reasonable person standard.",
-            "A heightened professional standard for trained pilots.",
-            "A subjective good-faith belief standard.",
-            "No duty applies if the flight was recreational."
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Fredericks v. Castora (Pa. 1976), both drivers were professional truckers who collided. Can an expert truck driver be held to a higher standard than ordinary drivers?",
-        "options": [
-            "No, everyone is judged by the same reasonable person standard.",
-            "Yes, professionals are held to a stricter rule in all contexts.",
-            "Only if the accident occurred on duty.",
-            "Yes, but only if both drivers consented to a professional risk."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Kerr v. Connecticut Co. (Conn. 1928), a bus driver fainted and crashed. Was the driver negligent for losing consciousness?",
-        "options": [
-            "No, if the fainting was unforeseeable.",
-            "Yes, fainting is per se negligent.",
-            "No, because common carriers owe no special duty.",
-            "Yes, because loss of control always implies negligence."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Davis v. Feinstein (Pa. 1952), a blind man fell into an open cellar he was unaware of. How is the standard of care applied to the visually impaired?",
-        "options": [
-            "Adjusted to what a reasonably prudent blind person would do.",
-            "The same as that for a sighted person.",
-            "Stricter than ordinary care because blindness is risky.",
-            "No duty of care applies to disabled pedestrians."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Purtle v. Shelton (Ark. 1971), a 17-year-old accidentally shot his friend while hunting. What standard applies to minors in adult activities?",
-        "options": [
-            "Ordinary child of like age and intelligence.",
-            "Reasonable adult standard when engaging in inherently dangerous adult activities.",
-            "Strict liability for minors in hunting accidents.",
-            "Immunity under parental supervision."
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Roberts v. Ring (Minn. 1919), a 7-year-old ran into the street and was struck by an elderly driver. How is age treated under negligence standards?",
-        "options": [
-            "Children and the elderly are both held to objective adult standards.",
-            "Children to a child standard; adults to a reasonable adult standard.",
-            "Age eliminates liability if under 10 or over 70.",
-            "Children are never contributorily negligent."
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Dellwo v. Pearson (Minn. 1961), a 12-year-old operated a motorboat and injured a fisherman. How did the court treat his age?",
-        "options": [
-            "Applied the child standard.",
-            "Applied the adult standard because boating is a dangerous adult activity.",
-            "Applied strict liability.",
-            "Excused him due to minority."
-        ],
-        "answer": 1
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Dunn v. Teti (Pa. 1979), a 6-year-old threw a stick injuring another child. What rule applies to very young children in negligence cases?",
-        "options": [
-            "Children under 7 are incapable of negligence.",
-            "Negligence depends on parental fault.",
-            "Children under 10 are strictly liable.",
-            "They are held to a reasonable child of same age and experience."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Adams v. Bullock (N.Y. 1919), a boy swinging a wire under a trolley bridge was shocked. Why wasn’t the trolley company negligent?",
-        "options": [
-            "It took reasonable precautions and couldn’t foresee this harm.",
-            "Electricity is inherently dangerous so strict liability applies.",
-            "The boy assumed the risk.",
-            "Contributory negligence barred recovery."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Eckert v. Long Island R.R. (N.Y. 1871), a man died saving a child from a train. Was he contributorily negligent?",
-        "options": [
-            "No, a reasonable rescue is not negligence.",
-            "Yes, because self-endangerment is always negligent.",
-            "Yes, since the railroad owed no duty to rescuers.",
-            "No, rescues are privileged acts."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Rodi Yachts, Inc. v. National Marine, Inc. (7th Cir. 1993), a boat was damaged due to concurrent negligence. How did Judge Posner treat comparative fault?",
-        "options": [
-            "Divided damages proportionally to fault.",
-            "Held all defendants jointly liable.",
-            "Applied contributory negligence bar.",
-            "Dismissed because maritime law forbids apportionment."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Brune v. Belinkoff (Mass. 1968), a doctor’s local standard conflicted with national practice. Which standard did the court adopt?",
-        "options": [
-            "National professional standard of care.",
-            "Local custom standard.",
-            "Patient’s subjective expectation.",
-            "Strict liability for medical errors."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Gambill v. Stroud (Ark. 1975), a rural doctor argued for a local standard of care. How did the court treat small-community doctors?",
-        "options": [
-            "Held to a similar-locality standard of professionals in comparable areas.",
-            "Judged by national medical standards only.",
-            "Excused due to rural limitation.",
-            "Strict liability for all patient harm."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Cook v. Irion (Tex. 1966), a lawyer was sued for malpractice. What governs professional negligence standards?",
-        "options": [
-            "Skill and knowledge ordinarily exercised by others in that profession.",
-            "Best possible outcome for client.",
-            "Strict liability for any error.",
-            "Customary local standard only."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Vesely v. Sager (Cal. 1971), a bar served alcohol to a visibly intoxicated patron who caused an accident. What doctrine did this establish?",
-        "options": [
-            "Dram shop liability for serving intoxicated persons.",
-            "Res ipsa loquitur.",
-            "Strict liability for bar owners.",
-            "Contributory negligence defense for servers."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Gorris v. Scott (Eng. 1874), sheep drowned because a carrier violated a statute requiring pens to prevent disease. Why was there no negligence per se?",
-        "options": [
-            "The statute aimed to prevent disease, not drowning.",
-            "The violation was minor.",
-            "Plaintiff lacked standing.",
-            "Strict liability applied instead."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Ross v. Hartman (D.C. Cir. 1944), a truck was left unlocked and stolen, injuring a third party. Why was the owner liable?",
-        "options": [
-            "Leaving keys in vehicle violated a safety statute and was negligence per se.",
-            "Owner had no duty after theft.",
-            "Criminal acts break causation.",
-            "Res ipsa loquitur excused fault."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Tedla v. Ellman (N.Y. 1939), pedestrians walked on the wrong side of the road but avoided danger. What did the court hold?",
-        "options": [
-            "Violation of statute is excused when following it would be more dangerous.",
-            "Violation of statute is always negligence per se.",
-            "Statutes can be ignored at will.",
-            "Walking rule only applies at night."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Theisen v. Milwaukee Automobile Mutual Insurance Co. (Wis. 1963), a driver fell asleep at the wheel. Was he negligent?",
-        "options": [
-            "Yes, falling asleep while driving is negligence unless unforeseeable.",
-            "No, sleep is involuntary.",
-            "Yes, but only in commercial driving.",
-            "No, because passengers assumed risk."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Blaak v. Davidson (Wash. 1978), fog caused a multi-car pileup. How did the court treat limited visibility?",
-        "options": [
-            "Drivers must adjust to conditions; no 'sudden emergency' excuse.",
-            "Fog eliminates duty.",
-            "Strict liability applies.",
-            "Reasonable care only applies to clear weather."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Byrne v. Boadle (Eng. 1863), a barrel fell from a warehouse window injuring a passerby. What doctrine arose?",
-        "options": [
-            "Res ipsa loquitur — the thing speaks for itself.",
-            "Negligence per se.",
-            "Strict liability for all accidents.",
-            "Contributory negligence."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Judson v. Giant Powder Co. (Cal. 1895), an explosion injured neighbors with no clear evidence of fault. What did the court infer?",
-        "options": [
-            "Res ipsa loquitur applied because the defendant controlled the instrumentality.",
-            "No liability absent direct proof.",
-            "Plaintiff assumed the risk.",
-            "The explosion was an act of God."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Archibeque v. Homrich (N.M. 1975), a worker injured by falling rock lacked proof of negligence. How was liability handled?",
-        "options": [
-            "Res ipsa loquitur allowed inference of negligence.",
-            "Strict liability imposed automatically.",
-            "Negligence per se applied.",
-            "Plaintiff barred by contributory negligence."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Negligence Standard",
-        "body": "In Ybarra v. Spangard (Cal. 1944), a patient awoke from surgery with an unexplained shoulder injury. What rule applied?",
-        "options": [
-            "Res ipsa loquitur — all in control may be held liable absent explanation.",
-            "Medical malpractice requires direct proof.",
-            "Strict liability for hospitals.",
-            "Statutory immunity for medical staff."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Yania v. Bigan (Pa. 1959), Bigan watched Yania fall into a water-filled trench he had invited him to inspect and made no effort to save him. Was Bigan liable for failing to rescue?",
-        "options": [
-            "No, there is generally no duty to rescue absent a special relationship or creation of the peril.",
-            "Yes, moral duty creates legal liability.",
-            "Yes, property owners always owe a rescue duty.",
-            "No, because Yania was a trespasser."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Soldano v. O’Daniels (Cal. App. 1983), a bartender refused to let a bystander call police from the bar’s phone to prevent a shooting across the street. What did the court hold?",
-        "options": [
-            "The bartender had a duty not to impede rescue efforts.",
-            "No duty existed because the harm occurred elsewhere.",
-            "Liability only applies to on-premises violence.",
-            "The bystander assumed all risk."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Hurley v. Eddingfield (Ind. 1901), a licensed doctor refused to treat a dying patient despite being available. Was there a duty to act?",
-        "options": [
-            "No, absent a contractual or statutory obligation, a doctor is not legally bound to accept a patient.",
-            "Yes, the doctor–patient relationship imposes duty automatically.",
-            "Yes, because medical ethics create enforceable duties.",
-            "No, but only if another doctor was nearby."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In O’Neil v. Montefiore Hospital (N.Y. Sup. 1960), a doctor told a heart patient to return later and the patient died. Why did liability attach?",
-        "options": [
-            "A doctor-patient relationship was created when the physician undertook to provide care.",
-            "No relationship existed because the doctor was off duty.",
-            "Hospitals are immune from volunteer liability.",
-            "Foreseeability alone creates no duty."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In United States v. Lawter (5th Cir. 1963), a Coast Guard rescue helicopter dropped a woman to her death. Why was the government liable?",
-        "options": [
-            "Having undertaken a rescue, the Coast Guard owed a duty to exercise reasonable care.",
-            "There was no liability because rescues are discretionary.",
-            "Government actors have sovereign immunity.",
-            "The danger was unforeseeable."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Frank v. United States (D. Mass. 1962), Coast Guard negligence during a rescue worsened a sailor’s condition. What rule applied?",
-        "options": [
-            "Once a rescue begins, the rescuer must act with reasonable care and not leave the victim worse off.",
-            "No duty existed because the sailor was already in danger.",
-            "Sovereign immunity barred all claims.",
-            "Liability only attaches if the rescuer is compensated."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Bloomberg v. Interinsurance Exchange (Cal. App. 1984), a police dispatcher gave inaccurate information that delayed aid. Why was the dispatcher liable?",
-        "options": [
-            "Public employees who undertake to act must use reasonable care when others rely on them.",
-            "Government entities owe no duty to individuals.",
-            "Emergency services are immune from negligence suits.",
-            "Mere miscommunication creates no liability."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Ocotillo West Joint Venture v. Superior Court (Ariz. App. 1992), a lawyer assured a client that insurance coverage existed when it didn’t. Why did the court find a duty?",
-        "options": [
-            "Professionals owe a duty of reasonable care to foreseeable third parties who rely on their representations.",
-            "Statements to clients are never actionable.",
-            "Duty requires physical injury, not financial harm.",
-            "There was no privity so no duty."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Petition of Trans-Pacific Fishing & Packing Co. v. Howell (9th Cir. 1958), a ship negligently created danger for a crewman during rescue. What did the court emphasize?",
-        "options": [
-            "A duty arises when the defendant creates the peril, even if the victim is a volunteer rescuer.",
-            "No duty existed because the rescuer assumed risk.",
-            "Shipowners owe no duty beyond contract.",
-            "Maritime law eliminates negligence claims."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Charles v. Seigfried (Ill. 1995), a host served alcohol to a minor who later died in a crash. Why was the host not liable?",
-        "options": [
-            "Social hosts owe no common law duty to prevent guests’ self-harm or third-party injury from drinking.",
-            "All providers of alcohol are strictly liable.",
-            "Minors’ actions break the causal chain.",
-            "Negligence per se applied automatically."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Kelly v. Gwinnell (N.J. 1984), an adult host let a visibly intoxicated guest drive and injure another. What duty did the court recognize?",
-        "options": [
-            "Social hosts owe a duty not to serve visibly intoxicated guests who may drive.",
-            "Hosts are never liable for guests’ conduct.",
-            "Only commercial vendors can be liable.",
-            "Duty depends on whether payment occurred."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Tarasoff v. Regents of the University of California (Cal. 1976), therapists failed to warn a victim of a patient’s threat. What duty was imposed?",
-        "options": [
-            "A mental health professional must warn identifiable victims of foreseeable harm from patients.",
-            "Confidentiality overrides any warning duty.",
-            "Only physical proximity creates duty.",
-            "The therapist owed no duty to nonpatients."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Thompson v. County of Alameda (Cal. 1980), a juvenile offender released without warning killed a child. Why no duty?",
-        "options": [
-            "No specific identifiable victim was known; duty requires foreseeability toward a specific person.",
-            "Government entities owe no duty to the public.",
-            "Releases are discretionary acts immune from review.",
-            "Statutory immunity applied automatically."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Kline v. 1500 Massachusetts Avenue Apartment Corp. (D.C. Cir. 1970), repeated assaults occurred in an apartment hallway. What duty did the landlord owe?",
-        "options": [
-            "A landlord must take reasonable precautions against foreseeable criminal acts in common areas.",
-            "No duty to protect tenants from third parties.",
-            "Absolute insurer of tenant safety.",
-            "Only duty to maintain structural soundness."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Bradshaw v. Daniel (Tenn. 1993), a doctor failed to warn a patient’s spouse of contagious disease. What duty was imposed?",
-        "options": [
-            "A physician owes a duty to warn identifiable third persons of foreseeable risks of infection.",
-            "Doctors owe duties only to their patients.",
-            "Public health warnings are government-only duties.",
-            "No duty existed because the harm was indirect."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Hawkins v. Pizarro (Fla. App. 1994), a physician failed to inform a patient that she had hepatitis, leading to harm to another. Why was the doctor liable?",
-        "options": [
-            "Duty to warn extends to foreseeable third parties exposed to contagious conditions.",
-            "No duty existed absent direct relationship.",
-            "Liability required statute.",
-            "Causation broke due to patient negligence."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Riss v. City of New York (N.Y. 1968), police ignored repeated pleas for protection from a stalker who later blinded the victim. What did the court hold?",
-        "options": [
-            "No liability; municipalities are not insurers of public safety absent a special relationship.",
-            "City was strictly liable for nonresponse.",
-            "Police owe duty to all citizens equally.",
-            "Public duty doctrine applies only to federal agencies."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Schuster v. City of New York (N.Y. 1958), police encouraged a citizen to help capture a criminal, and he was later murdered. Why was the city liable?",
-        "options": [
-            "Once the government induces reliance, a special duty arises to protect the informant.",
-            "Government never owes duty to individuals.",
-            "Volunteers assume all risks.",
-            "Statutory immunity applies to informants."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Haskins v. Grybko (Mass. 1946), a landowner accidentally shot a trespasser while hunting on his own land. What duty applied?",
-        "options": [
-            "Landowners owe no duty to trespassers except to refrain from willful or wanton harm.",
-            "Full duty of reasonable care.",
-            "Strict liability for recreational shooting.",
-            "Duty only if trespasser was a child."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Herrick v. Wixom (Mich. 1893), a circus explosion injured spectators outside the tent. What was the duty owed?",
-        "options": [
-            "To exercise reasonable care to prevent foreseeable harm to invitees and nearby bystanders.",
-            "No duty to those outside the premises.",
-            "Strict liability because it was an explosion.",
-            "Circus patrons assume all risks."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Ehret v. Village of Scarsdale (N.Y. 1934), a worker died of gas leak from a main under a street. What did the court hold?",
-        "options": [
-            "Municipalities must exercise reasonable care in maintaining gas lines affecting nearby property.",
-            "No duty existed for underground utilities.",
-            "Strict liability applied automatically.",
-            "Liability attaches only for gross negligence."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Davies v. McDowell Nat’l Bank (Pa. 1959), tenants died from carbon monoxide in their apartment. Why was the landlord liable?",
-        "options": [
-            "Owners who invite others owe a duty to warn or fix hidden dangers they know or should know of.",
-            "No duty exists for latent defects.",
-            "Causation broke due to tenant negligence.",
-            "Duty ends when premises are leased."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Duty",
-        "body": "In Rowland v. Christian (Cal. 1968), a guest was injured by a broken faucet handle. How did this change landowner duty law?",
-        "options": [
-            "Abolished the rigid invitee/licensee/trespasser distinctions in favor of a general duty of reasonable care.",
-            "Limited duty to invited social guests only.",
-            "Reaffirmed traditional classifications.",
-            "Imposed strict liability for home defects."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In New York Central R.R. v. Grimstad (2d Cir. 1920), a barge captain fell overboard and drowned because there was no life buoy nearby. Why did the widow lose?",
-        "options": [
-            "She could not prove that having a life buoy would have saved him—causation was speculative.",
-            "Negligence per se applied automatically.",
-            "Contributory negligence barred recovery.",
-            "The railroad was immune under maritime law."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Gardner v. National Bulk Carriers, Inc. (4th Cir. 1962), a ship failed to turn back after a sailor fell overboard. Why was the company liable?",
-        "options": [
-            "A reasonable search would probably have saved the sailor, establishing factual causation.",
-            "Ships owe no duty to lost crewmen.",
-            "Causation was broken by ocean currents.",
-            "The sailor assumed the risk by going overboard."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Stacy v. Knickerbocker Ice Co. (Wis. 1893), horses broke through thin ice and drowned after being sent onto an unsafe pond. What was the causal issue?",
-        "options": [
-            "Defendant’s act directly caused the loss; foreseeability was irrelevant for factual causation.",
-            "Plaintiff’s negligence was the only cause.",
-            "Intervening acts broke the chain.",
-            "No duty existed for animals."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Haft v. Lone Palm Hotel (Cal. 1970), a father and son drowned in a motel pool without a lifeguard. Why did the court shift the burden of proof?",
-        "options": [
-            "Because defendant’s negligence made it impossible to prove how the deaths occurred, the burden of causation shifted.",
-            "Plaintiff had to prove causation directly.",
-            "Res ipsa loquitur never applies to drowning.",
-            "No liability absent eyewitness testimony."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Bernard v. Char (Haw. 1995), a doctor delayed cancer diagnosis by months. Why did plaintiff still recover?",
-        "options": [
-            "Loss-of-chance doctrine allows recovery for reduction in survival probability due to negligence.",
-            "Causation requires proof of more-likely-than-not survival.",
-            "Medical misdiagnosis cannot be causal absent death.",
-            "Expert testimony is irrelevant to causation."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Canterbury v. Spence (D.C. Cir. 1972), a patient wasn’t warned of paralysis risk before surgery. How was causation proven in informed consent?",
-        "options": [
-            "By showing a reasonable patient would have declined the procedure if informed.",
-            "By proving the doctor intended harm.",
-            "Causation is presumed in all nondisclosure cases.",
-            "Expert testimony alone determines consent."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Scott v. Bradford (Okla. 1979), a woman suffered complications after a hysterectomy without adequate warning. What rule applied?",
-        "options": [
-            "Doctors are liable if a reasonable patient would have refused had they been warned.",
-            "Liability depends only on doctor’s intent.",
-            "Informed consent doesn’t apply to common procedures.",
-            "Causation fails if the surgery was beneficial."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Zalazar v. Vercimak (Ill. App. 1993), a delayed appendicitis diagnosis worsened the outcome. What causal standard was debated?",
-        "options": [
-            "Whether negligent delay increased risk of harm sufficiently to count as a factual cause.",
-            "Whether negligence per se applied automatically.",
-            "Whether doctor-patient duty existed.",
-            "Whether comparative fault applied."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Herskovits v. Group Health Cooperative (Wash. 1983), negligent diagnosis reduced a lung cancer patient’s survival chance from 39% to 25%. What did the court allow?",
-        "options": [
-            "Loss-of-chance recovery recognizing reduced survival probability as compensable harm.",
-            "No recovery absent >50% probability of survival.",
-            "Strict liability for all diagnostic errors.",
-            "Causation presumed whenever death results."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Cooper v. Sisters of Charity of Cincinnati (Ohio 1971), a delayed C-section allegedly caused brain damage. What did the court require?",
-        "options": [
-            "Proof that negligence more likely than not caused injury.",
-            "Proof of any reduction in survival chance.",
-            "Expert testimony that negligence occurred.",
-            "Statutory presumption of causation."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Dumas v. Cooney (Cal. App. 1991), failure to diagnose cancer was alleged to reduce life expectancy. Why did the claim fail?",
-        "options": [
-            "Plaintiff could not prove causation by preponderance of evidence.",
-            "Loss-of-chance applied automatically.",
-            "Death breaks all causation chains.",
-            "Statute barred all medical suits."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Fennell v. Southern Maryland Hospital (Md. 1990), experts disagreed on whether earlier treatment would save the patient. What principle governed?",
-        "options": [
-            "Probable, not possible, causation required for liability.",
-            "Possibility of benefit is enough for recovery.",
-            "Burden shifts to defendant in medical cases.",
-            "Expert uncertainty favors plaintiff."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Wendland v. Sparks (Iowa 1998), a man was killed after electrical repairs failed inspection. What was the factual issue?",
-        "options": [
-            "Whether negligent inspection was a substantial factor in causing electrocution.",
-            "Whether foreseeability affects factual cause.",
-            "Whether punitive damages apply automatically.",
-            "Whether strict liability supersedes negligence."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Frye v. United States (D.C. Cir. 1923), the court excluded polygraph evidence. What causal-proof lesson emerged?",
-        "options": [
-            "Scientific evidence must be generally accepted before used to establish causation.",
-            "Any novel science is admissible if relevant.",
-            "Juries decide scientific reliability alone.",
-            "Causation is presumed from expert testimony."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Daubert v. Merrell Dow Pharmaceuticals (U.S. 1993), plaintiffs alleged birth defects from a drug. What standard replaced Frye?",
-        "options": [
-            "Judges must act as gatekeepers ensuring scientific validity and relevance of expert testimony.",
-            "All expert evidence is admissible for jury evaluation.",
-            "Peer review alone guarantees admissibility.",
-            "Daubert eliminated expert testimony in torts."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Summers v. Tice (Cal. 1948), two hunters negligently fired, one hit plaintiff, but it was unclear who. What rule emerged?",
-        "options": [
-            "Alternative liability—burden shifts to defendants to prove who caused the harm.",
-            "Joint and several liability is abolished.",
-            "Plaintiff must prove exact cause.",
-            "Res ipsa loquitur applies automatically."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Sindell v. Abbott Laboratories (Cal. 1980), DES manufacturers couldn’t be linked to plaintiff’s ingestion. What doctrine applied?",
-        "options": [
-            "Market-share liability, apportioning responsibility by market share.",
-            "Joint liability only for identified producers.",
-            "No liability absent proof of product identity.",
-            "Strict liability barred by statute."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Sanderson v. International Flavors & Fragrances (C.D. Cal. 1996), workers exposed to chemicals couldn’t identify the supplier. What happened?",
-        "options": [
-            "Court declined to extend market-share liability beyond DES context.",
-            "Strict liability applied automatically.",
-            "Burden shifted to defendants.",
-            "Statute created automatic causation presumption."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Smith v. Cutter Biological (Haw. 1991), hemophiliacs contracted HIV from contaminated plasma. How was causation treated?",
-        "options": [
-            "Plaintiff must identify which manufacturer’s product caused infection.",
-            "All producers share liability equally.",
-            "Market-share rule applied automatically.",
-            "Res ipsa loquitur supplied causation."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Kingston v. Chicago & N.W. Ry. (Wis. 1927), two fires merged destroying plaintiff’s property. What rule applied?",
-        "options": [
-            "Each negligent cause sufficient to produce the harm is a factual cause.",
-            "Causation fails where two independent fires combine.",
-            "No liability because of multiple sources.",
-            "Strict liability for all fires."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Corey v. Havener (Mass. 1902), two motorcyclists frightened a horse, injuring rider. What causation rule emerged?",
-        "options": [
-            "Concurrent negligent acts causing a single injury make both actors jointly liable.",
-            "Plaintiff must apportion fault precisely.",
-            "No liability absent contact.",
-            "Strict liability for motorcyclists only."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Anderson v. Minneapolis Railway (Minn. 1920), two fires (one natural, one negligent) merged. What did the court hold?",
-        "options": [
-            "Defendant liable if its negligence was a substantial factor in producing the harm.",
-            "Causation fails when natural events intervene.",
-            "Strict liability governs all fires.",
-            "Plaintiff must prove exclusive cause."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Cause-in-Fact",
-        "body": "In Kramer Service, Inc. v. Wilkins (Miss. 1939), a man developed cancer after glass cut his head. What principle was clarified?",
-        "options": [
-            "Possibility is not enough; causation requires probability.",
-            "Expert speculation suffices.",
-            "Cut injuries always lead to cancer.",
-            "Statutory presumption controls causation."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In In re Polemis (Eng. 1921), a plank was negligently dropped into a ship’s hold, igniting vapors and causing an explosion. What did the court decide?",
-        "options": [
-            "Defendant liable for all direct consequences of negligence, even if unforeseeable.",
-            "Liability limited to foreseeable harms.",
-            "Intervening explosion broke causation.",
-            "Shipowner assumed the risk."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Overseas Tankship (The Wagon Mound No. 1) (Privy Council 1961), oil spilled in a harbor and later ignited. How did this revise Polemis?",
-        "options": [
-            "Liability only for foreseeable consequences of negligence.",
-            "Liability for all direct consequences.",
-            "Strict liability for oil spills.",
-            "Res ipsa loquitur determined fault."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Petition of Kinsman Transit Co. (2d Cir. 1964), an unmoored ship drifted and destroyed a bridge. What rule did Judge Friendly apply?",
-        "options": [
-            "Liability extends to foreseeable types of harm, even if magnitude or manner is unusual.",
-            "Liability extends to all resulting harm, foreseeable or not.",
-            "Defendant liable only to immediate neighbors.",
-            "Strict liability applies to maritime collisions."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Doughty v. Turner Manufacturing (U.K. 1964), a cover fell into a vat causing an unforeseeable chemical eruption. Why no liability?",
-        "options": [
-            "The specific mechanism of harm was unforeseeable; only splashing was foreseeable.",
-            "Any industrial injury is foreseeable.",
-            "Contributory negligence barred recovery.",
-            "Res ipsa loquitur supplied proximate cause."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Colonial Inn Motor Lodge v. Gay (Ill. App. 1997), a car crashed into a motel after driver fainted. What was the issue?",
-        "options": [
-            "Whether the motel’s design foreseeably increased the risk of impact.",
-            "Whether fainting was unforeseeable.",
-            "Strict liability for design defects.",
-            "Res ipsa loquitur applied automatically."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In DiPonzio v. Riordan (N.Y. 1997), a gas station customer left his car running and it rolled into another. Why no liability for the station?",
-        "options": [
-            "The harm was outside the scope of the station’s safety rule—foreseeability limited duty and causation.",
-            "Gas stations are strictly liable for rolling cars.",
-            "Intervening acts always break causation.",
-            "Comparative fault eliminates duty."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In United Novelty Co. v. Daniels (Miss. 1949), gasoline fumes ignited from a monkey’s match while cleaning machines. Why liable?",
-        "options": [
-            "Negligence created foreseeable risk of ignition; bizarre details don’t defeat proximate cause.",
-            "Intervening acts always bar recovery.",
-            "Animals break the causal chain.",
-            "No duty to protect employees."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Steinhauser v. Hertz Corp. (2d Cir. 1970), a minor collision triggered plaintiff’s latent psychosis. Why did causation hold?",
-        "options": [
-            "Defendant takes plaintiff as found; thin skull rule applies to mental harm as well.",
-            "No causation because illness was preexisting.",
-            "Only physical injuries are compensable.",
-            "Emotional injuries must be foreseeable."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Central of Georgia Ry. v. Price (Ga. 1898), a lamp negligently provided in a hotel room exploded. Why was railroad not liable?",
-        "options": [
-            "Independent hotel negligence was a superseding cause.",
-            "Railroad owed a nondelegable duty.",
-            "Foreseeability extended to all property damage.",
-            "Plaintiff’s assumption of risk broke causation."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Pridham v. Cash & Carry Building Center (N.H. 1976), plaintiff was injured when ambulance crashed en route to hospital. What did the court hold?",
-        "options": [
-            "Negligent actor liable for additional harm during normal rescue or medical transport.",
-            "Subsequent accidents always supersede.",
-            "Only medical malpractice breaks causation.",
-            "Ambulance drivers are independent intervenors."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Berry v. Borough of Sugar Notch (Pa. 1899), a motorman speeding through a storm was hit by a falling tree. Why no liability?",
-        "options": [
-            "The harm (tree fall) was not within the risk created by speeding.",
-            "Speeding always bars recovery.",
-            "Contributory negligence was absolute.",
-            "Strict liability applied automatically."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Brauer v. New York Central R.R. (N.J. 1918), thieves stole goods after a collision caused by defendant. Why was the railroad liable?",
-        "options": [
-            "Negligent defendant liable for foreseeable third-party criminal acts during immediate aftermath.",
-            "Criminal acts always supersede negligence.",
-            "Only direct physical injury counts.",
-            "Railroads have immunity from theft claims."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Watson v. Kentucky & Indiana Bridge Co. (Ky. 1910), an explosion occurred after gasoline spill ignited. What test applied?",
-        "options": [
-            "If intervening act was malicious, it supersedes; if negligent, it may not.",
-            "All intervening acts supersede.",
-            "Foreseeability irrelevant to proximate cause.",
-            "Strict liability governs all explosions."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Village of Carterville v. Cook (Ill. 1889), a defective sidewalk caused a horse to bolt and injure plaintiff. Why liable?",
-        "options": [
-            "Injury was foreseeable consequence of defective public walkway.",
-            "Animal reactions are superseding causes.",
-            "Municipalities owe no duty to riders.",
-            "Strict liability replaced negligence."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Alexander v. Town of New Castle (Ind. 1888), a fire started by sparks from a train spread to plaintiff’s barn. Why liable?",
-        "options": [
-            "Defendant responsible for all foreseeable spread of fire from its negligence.",
-            "Only the first building’s loss recoverable.",
-            "Fires are acts of God once spreading.",
-            "Railroads have statutory immunity."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Scott v. Shepherd (Eng. 1773, The Squib Case), a lit squib was thrown through a market causing injuries. What principle arose?",
-        "options": [
-            "Continuous chain of causation preserves liability despite intervening reactions made under compulsion.",
-            "Intervening throws break the causal chain.",
-            "Each actor liable only for their own toss.",
-            "Res ipsa loquitur applied automatically."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In The Roman Prince (S.D.N.Y. 1921), negligent loading caused a ship to list and crush a worker. Why liable?",
-        "options": [
-            "Negligent loading foreseeably endangered dockworkers within zone of risk.",
-            "Maritime employers immune from negligence.",
-            "Proximate cause ends at the ship’s deck.",
-            "Causation limited to direct property harm."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In White v. Manhattan & Bronx Surface Transit Auth. (N.Y. 1978), a passenger had a heart attack after bus stopped suddenly. Why no liability?",
-        "options": [
-            "Harm was unforeseeable and outside risk of sudden stop.",
-            "Any physical reaction creates liability.",
-            "Heart attacks are presumed foreseeable.",
-            "Strict liability for carriers applies."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Johnson v. Kosmos Portland Cement Co. (6th Cir. 1933), lightning ignited vapors left in a barge. Why liable?",
-        "options": [
-            "Negligent storage of explosive vapors made lightning a foreseeable igniter.",
-            "Acts of God always supersede negligence.",
-            "Lightning cannot be foreseeable.",
-            "Maritime law bars recovery for explosions."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Henry v. Houston Lighting & Power Co. (Tex. App. 1996), a power line arced when struck by a crane. Why liable?",
-        "options": [
-            "Power company failed to insulate foreseeable contact zones.",
-            "Intervening contractor misuse broke causation.",
-            "Strict liability barred recovery.",
-            "Comparative negligence eliminated fault."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Bell v. Campbell (Tex. 1968), a second car crash occurred while clearing the first accident scene. Why no liability for first driver?",
-        "options": [
-            "The second crash was an independent, superseding cause.",
-            "All subsequent harm flows from initial negligence.",
-            "Foreseeability irrelevant after first impact.",
-            "Defendants share joint proximate cause."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Palsgraf v. Long Island R.R. (N.Y. 1928), guards pushed a passenger whose package exploded, injuring a bystander. What did Cardozo hold?",
-        "options": [
-            "Defendant owes duty only to those within the reasonably foreseeable zone of danger.",
-            "Negligence to one is negligence to all.",
-            "Causation extends indefinitely.",
-            "Strict liability applies for explosives."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Ryan v. New York Central R.R. (N.Y. 1866), fire spread from a shed to several houses. Why limited liability?",
-        "options": [
-            "Only the first adjoining property’s damage was foreseeable; remote losses too attenuated.",
-            "All spread fires are foreseeable.",
-            "Contributory negligence applied.",
-            "Railroads strictly liable for fire spread."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Proximate Cause",
-        "body": "In Wagon Mound No. 2 (Privy Council 1967), workers ignored oil slicks before welding. What was the holding?",
-        "options": [
-            "Even a small foreseeable risk of serious harm triggers liability when reasonable precautions exist.",
-            "Liability only for highly probable risks.",
-            "Intervening negligence breaks causation.",
-            "Strict liability for all oil fires."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Behrens v. Bertram Mills Circus, Ltd. (U.K. 1957), an elephant frightened a dog that bit its owner. Why was the circus liable?",
-        "options": [
-            "Owners of wild animals are strictly liable for harm characteristic of the species.",
-            "Elephant behavior was unforeseeable, eliminating liability.",
-            "Contributory negligence bars strict liability.",
-            "Circuses owe only reasonable care, not strict liability."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Lossee v. Buchanan (N.Y. 1873), a steam boiler exploded, injuring a neighbor. Why no strict liability?",
-        "options": [
-            "Law limited liability to negligence for socially useful activities.",
-            "All explosive operations are automatically liable.",
-            "Plaintiff assumed the risk of industrial noise.",
-            "Res ipsa loquitur established negligence conclusively."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Turner v. Big Lake Oil Co. (Tex. 1936), oil escaped from storage tanks and damaged neighboring land. Why did Texas reject Rylands v. Fletcher?",
-        "options": [
-            "Because water and oil storage were ordinary, not unnatural uses of land in Texas.",
-            "Because all oil extraction was ultrahazardous.",
-            "Because contributory negligence barred recovery.",
-            "Because Rylands applies only to explosives."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Lubin v. Iowa City (Iowa 1962), a buried water main burst and flooded property. Why was the city strictly liable?",
-        "options": [
-            "Maintaining a pressurized water system created foreseeable risk of escape and harm.",
-            "Municipal utilities are immune from strict liability.",
-            "Liability only arises after notice of defect.",
-            "Causation required proof of negligence."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Walker Shoe Store v. Howard’s Hobby Shop (Mo. App. 1963), fireworks exploded next door. What was the holding?",
-        "options": [
-            "Storage of fireworks is an abnormally dangerous activity invoking strict liability.",
-            "Negligence must still be proven in urban settings.",
-            "Retailers enjoy immunity for government-approved goods.",
-            "Liability depends on comparative fault."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Indiana Harbor Belt R.R. v. American Cyanamid Co. (7th Cir. 1990), chemicals leaked during transport. What did Judge Posner hold?",
-        "options": [
-            "Strict liability does not apply if negligence could prevent the harm effectively.",
-            "Transport of toxic chemicals is always ultrahazardous.",
-            "Railroads automatically bear strict liability.",
-            "Federal preemption bars tort claims."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Kuhlman v. City of Detroit (Mich. App. 1973), sewer explosion caused damage. Why liable?",
-        "options": [
-            "Pressurized sewer maintenance involved abnormal risk and justified strict liability.",
-            "Municipalities are immune from all strict liability.",
-            "Negligence must be shown for sewer systems.",
-            "Acts of God excluded liability."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Pyrodyne Corp. v. Pierce County (Wash. 1991), fireworks injured spectators at a public display. What doctrine applied?",
-        "options": [
-            "Public fireworks are abnormally dangerous activities subject to strict liability.",
-            "Only negligence applies to licensed pyrotechnicians.",
-            "Contributory negligence defeated liability.",
-            "Governmental immunity barred all claims."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Miller v. Civil Constructors, Inc. (Ill. App. 1995), stray bullets from a police training range injured nearby residents. Why no strict liability?",
-        "options": [
-            "Police firearm training is not abnormally dangerous because risk can be reduced by care.",
-            "All shooting ranges are ultrahazardous.",
-            "Negligence per se applied automatically.",
-            "Risk magnitude overrides social utility."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Sullivan v. Dunham (N.Y. 1900), dynamite used to remove a tree killed a passerby. What principle arose?",
-        "options": [
-            "Use of explosives imposes strict liability for harm to persons or property.",
-            "Negligence must be proven for lawful blasting.",
-            "Plaintiff assumed the risk by walking nearby.",
-            "Foreseeability determines liability."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Madsen v. East Jordan Irrigation Co. (Utah 1942), an explosion frightened mink who killed their young. Why no liability?",
-        "options": [
-            "The harm was too remote and unforeseeable from the dangerous activity.",
-            "Strict liability extends to all consequential harms.",
-            "Animals are unforeseeable intervenors but still compensable.",
-            "Psychological effects trigger strict liability."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Rylands v. Fletcher (U.K. 1868), a reservoir burst flooding mines. What foundational rule was created?",
-        "options": [
-            "A person who brings something likely to escape onto land is strictly liable for resulting harm.",
-            "Liability only when negligence is proven.",
-            "Strict liability applies only to commercial uses.",
-            "Landowners owe only reasonable care."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Klein v. Pyrodyne Corp. (Wash. 1991), fireworks injured spectators at a public display. What did the court emphasize?",
-        "options": [
-            "Licensed pyrotechnicians conducting public displays engage in abnormally dangerous activity.",
-            "Public entertainment immunity applied.",
-            "Fireworks injuries always require negligence.",
-            "Assumption of risk bars strict liability."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Siegler v. Kuhlman (Wash. 1973), gasoline truck exploded after overturning. Why strict liability applied?",
-        "options": [
-            "Transporting large quantities of flammable liquid creates high risk even with utmost care.",
-            "Commercial trucking preempts state tort law.",
-            "Causation uncertain eliminates liability.",
-            "Plaintiff’s negligence superseded."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Yommer v. McKenzie (Md. 1969), gasoline leaked into a well. What did the court find?",
-        "options": [
-            "Gasoline storage in residential areas is abnormally dangerous.",
-            "Negligence must still be proven.",
-            "Strict liability applies only to explosives.",
-            "Environmental harm not compensable under tort."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Green v. General Petroleum Corp. (Cal. 1928), oil well blowout sprayed property with oil. What was decided?",
-        "options": [
-            "Strict liability applied for damage from industrial operations involving abnormally high risk.",
-            "Oil drilling exempt from strict liability.",
-            "Negligence standard controlled because oil is useful.",
-            "Plaintiff assumed risk by living nearby."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Spano v. Perini Corp. (N.Y. 1969), blasting operations damaged a garage. Why liable without negligence?",
-        "options": [
-            "Blasting is an inherently dangerous activity invoking strict liability for resulting damage.",
-            "Proof of negligence required for lawful blasting.",
-            "Foreseeability bars liability.",
-            "Plaintiff’s consent implied by proximity."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Foster v. Preston Mill Co. (Wash. 1954), blasting frightened mink who killed offspring. Why no liability?",
-        "options": [
-            "Harm was not within the abnormal risk that made the activity ultrahazardous.",
-            "Strict liability applies to all animal reactions.",
-            "Emotional distress always compensable.",
-            "Negligence replaced strict liability."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Siegler v. Kuhlman (Wash. 1973), gasoline escaped and exploded. What secondary principle applied?",
-        "options": [
-            "Res ipsa loquitur supplements strict liability when direct proof of fault is impossible.",
-            "Strict liability requires identifiable negligence.",
-            "Intervening motorists supersede liability.",
-            "Only government vehicles trigger strict liability."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Rylands extended by Cambridge Water Co. v. Eastern Counties Leather (U.K. 1994), chemical seepage damaged groundwater. What refinement occurred?",
-        "options": [
-            "Foreseeability of damage became an element of strict liability under Rylands.",
-            "All industrial chemicals now subject to automatic liability.",
-            "Negligence replaced strict liability entirely.",
-            "Strict liability extended to pure economic loss."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In National Steel Service Center v. Gibbons (7th Cir. 1974), steel plant explosions injured workers. What did the court conclude?",
-        "options": [
-            "Industrial operations posing abnormal risk impose strict liability regardless of precautions.",
-            "Strict liability cannot apply to workers’ injuries.",
-            "Federal OSHA preempts strict liability.",
-            "Only negligence applies to industrial injury."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In W. Keeton's Restatement (Second) §520 factors, what determines abnormally dangerous activity?",
-        "options": [
-            "Risk, inability to eliminate by care, uncommon usage, inappropriateness, and community value.",
-            "Foreseeability alone.",
-            "Economic benefit to defendant.",
-            "Number of plaintiffs harmed."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Strict Liability",
-        "body": "In Siegler v. Kuhlman, Judge Rosellini highlighted what policy rationale?",
-        "options": [
-            "Risk-spreading: those engaging in ultrahazardous activities should internalize accident costs.",
-            "Deterrence through punitive damages.",
-            "Fairness to plaintiffs outweighs utility.",
-            "Government oversight replaces tort remedies."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Welge v. Planters Lifesavers Co. (7th Cir. 1994), a glass jar shattered in the plaintiff’s hand. What rule did Judge Posner apply?",
-        "options": [
-            "A defect existing when the product left defendant’s control creates strict liability, even if intermediate handlers touched it.",
-            "Res ipsa loquitur does not apply to consumer goods.",
-            "Plaintiff must prove specific negligent act.",
-            "Comparative fault bars all recovery."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Keen v. Dominick’s Finer Foods (Ill. App. 1988), plaintiff was injured by broken glass in food. What was the issue?",
-        "options": [
-            "Whether contamination made the product unreasonably dangerous to an ordinary consumer.",
-            "Whether retailer was strictly liable for manufacturer’s act.",
-            "Whether negligence had to be proven.",
-            "Whether damages were economic only."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Peterson v. Lou Bachrodt Chevrolet Co. (Ill. 1975), a defective car bought secondhand injured a child. Why no recovery?",
-        "options": [
-            "Strict liability applies only to commercial sellers in the original distribution chain.",
-            "Used car dealers are strictly liable for all defects.",
-            "Negligence per se applies automatically.",
-            "Causation broke due to resale."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Nutting v. Ford Motor Co. (Mass. 1967), a steering failure caused a crash. What was required for strict liability?",
-        "options": [
-            "Plaintiff must show the defect existed when the product left manufacturer’s hands and caused injury.",
-            "Proof of negligent assembly.",
-            "Warranty notice under the UCC.",
-            "Foreseeable misuse breaks liability."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Magrine v. Krasnica (N.J. 1968), a dentist’s needle broke inside a patient. Why was the manufacturer liable but not the dentist?",
-        "options": [
-            "Manufacturer is strictly liable as seller of defective product; professional using it is not a 'seller.'",
-            "Both manufacturer and user are strictly liable.",
-            "Dentist was negligent per se.",
-            "Professional services immunity barred all claims."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Newmark v. Gimbel’s Inc. (N.J. 1969), a beauty salon’s permanent wave solution injured a customer. Why strict liability?",
-        "options": [
-            "Businesses combining sale and service are 'sellers' of products for strict liability purposes.",
-            "Strict liability applies only to manufacturers.",
-            "Salon owed only ordinary care.",
-            "Services cannot create product liability."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Mexicali Rose v. Superior Court (Cal. 1992), a patron was injured by a chicken bone in enchiladas. What distinction did the court draw?",
-        "options": [
-            "Natural vs. foreign object test—no liability for natural substances reasonably expected in food.",
-            "All food-related injuries are strict liability.",
-            "Restaurants owe duty only to warn.",
-            "Comparative negligence applies automatically."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Doyle v. Pillsbury Co. (Ill. App. 1981), dough exploded when opened. What standard applied?",
-        "options": [
-            "Consumer-expectation test—defect exists if product is more dangerous than ordinary consumers expect.",
-            "Risk-utility balancing test.",
-            "Strict liability only if manufacturer was negligent.",
-            "Assumption of risk always bars recovery."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Dreisonstok v. Volkswagenwerk (4th Cir. 1974), a van’s design placed driver near front in crash. Why no liability?",
-        "options": [
-            "Design tradeoffs for utility and cost can defeat claims under the risk-utility test.",
-            "All front-end collisions create liability.",
-            "Foreseeability is irrelevant to design defects.",
-            "Res ipsa loquitur applies automatically."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In McDonald’s hot coffee case (Liebeck v. McDonald’s, N.M. Dist. Ct. 1994), customer was severely burned. Why liable?",
-        "options": [
-            "Serving coffee at excessively high temperature was an unreasonably dangerous design choice.",
-            "All burns create automatic strict liability.",
-            "Contributory negligence barred recovery.",
-            "Product misuse defeated causation."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In McMahon v. Bunn-O-Matic Corp. (7th Cir. 1998), coffee pot exploded. Why did the manufacturer win?",
-        "options": [
-            "Risk-utility favored design; danger was open and obvious to users.",
-            "Strict liability for all consumer injuries.",
-            "Failure-to-warn applies regardless of user knowledge.",
-            "Comparative negligence is irrelevant."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Olin Corp. v. Lamorak Ins. Co. (E.D. La. 2020), an insurer denied coverage for asbestos claims. Why relevant to product liability?",
-        "options": [
-            "Demonstrates how indemnity and insurance issues interact with strict product liability.",
-            "Establishes federal preemption for all asbestos suits.",
-            "Insurers are automatically liable for product risks.",
-            "Applies only to maritime products."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In American Tobacco Co. v. Grinnell (Tex. 1998), smoker sued cigarette company for cancer. Why dismissed?",
-        "options": [
-            "Plaintiff failed to prove defect under risk-utility balancing given widespread knowledge of dangers.",
-            "Cigarettes are inherently defective under law.",
-            "Addiction eliminates assumption of risk.",
-            "Comparative negligence barred all claims."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Graves v. Warner Bros. (Mich. App. 2003), a teen reenacted a TV stunt and died. Why no product liability?",
-        "options": [
-            "Media content is not a 'product' under strict liability.",
-            "Creative producers are strictly liable for influence.",
-            "Foreseeability of imitation establishes duty.",
-            "Negligence per se applies automatically."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Reiman-Wuerth Co. v. Young & Rubicam (Ohio App. 1988), defective advertising materials caused harm. Why relevant?",
-        "options": [
-            "Expands product liability principles to defective informational products when physical harm occurs.",
-            "Advertising cannot trigger liability.",
-            "Economic loss rule bars all recovery.",
-            "Duty exists only for tangible goods."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Domino’s Pizza, LLC v. McDonald (U.S. 2010), plaintiff alleged racial bias in franchise enforcement. Why not product liability?",
-        "options": [
-            "Claim involved contract and discrimination, not defect in goods or services.",
-            "Service contracts are treated as products.",
-            "Tort preemption barred all claims.",
-            "Res ipsa loquitur applied automatically."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Miami Herald Publishing Co. v. Kendall (Fla. 1963), false printing caused business loss. What did the court hold?",
-        "options": [
-            "Purely economic loss without physical harm is not recoverable under product liability.",
-            "Strict liability applies to all misprints.",
-            "Defamation and product liability merge for media.",
-            "Negligence per se governed the result."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Anderson v. McOskar Enterprises (Minn. App. 2003), gym equipment caused injury after user signed waiver. What was decided?",
-        "options": [
-            "Exculpatory clauses do not bar claims for defective products supplied as part of service contracts.",
-            "Waivers eliminate all product liability.",
-            "Users always assume the risk of equipment failure.",
-            "Strict liability does not apply to gyms."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Van Tuyn v. Zurich American Ins. Co. (Tex. App. 1994), mechanical bull caused injury. What was the holding?",
-        "options": [
-            "Operator liable under negligent design and warning theories despite participant’s consent.",
-            "Assumption of risk bars recovery automatically.",
-            "Product defect could not exist in entertainment settings.",
-            "Liability falls only on manufacturer, not operator."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Tunkl v. Regents of the University of California (Cal. 1963), hospital release forms waived liability. Why void?",
-        "options": [
-            "Public-service institutions cannot disclaim liability for negligence affecting the public interest.",
-            "All contracts with waivers are void.",
-            "Strict liability displaces negligence entirely.",
-            "Waivers are enforceable for patients."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Shorter v. Drury (Wash. 1985), Jehovah’s Witness signed blood transfusion refusal and died. What rule applied?",
-        "options": [
-            "Valid assumption of risk bars recovery where patient knowingly refused lifesaving care.",
-            "Hospitals always liable for refusing treatment.",
-            "Religious refusal eliminates informed consent.",
-            "Public policy invalidates all waivers."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Vodopest v. MacGregor (Wash. 1996), a psychologist injured a patient during therapy exercises. Why exempt?",
-        "options": [
-            "Professional services primarily governed by malpractice, not product liability.",
-            "Strict liability applies to therapists equally.",
-            "Waivers always void under tort law.",
-            "Emotional harm automatically compensable."
-        ],
-        "answer": 0
-    },
-    {
-        "from": "Partner Cope",
-        "subject": "Torts — Product Liability",
-        "body": "In Murphy v. Steeplechase Amusement Co. (N.Y. 1929), a ride called 'The Flopper' injured a participant. What did Cardozo say?",
-        "options": [
-            "One who voluntarily encounters an obvious risk assumes it and cannot recover.",
-            "Operators owe strict liability for all injuries.",
-            "Contributory negligence never applies in amusement settings.",
-            "Res ipsa loquitur supplied causation."
-        ],
-        "answer": 0
-    }
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Personal Jurisdiction",
+    "body": "In Pennoyer v. Neff (1877), a state court issued a judgment against a nonresident who had never been served within the forum. What principle did the Court establish?",
+    "options": [
+      "Jurisdiction requires personal service within the forum or consent.",
+      "Constructive notice by publication is always sufficient.",
+      "Federal courts can override state boundaries for service.",
+      "Quasi in rem jurisdiction is unrestricted."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Personal Jurisdiction",
+    "body": "In International Shoe Co. v. Washington (1945), the Court replaced territorial power with which modern test for jurisdiction?",
+    "options": [
+      "Purposeful availment and minimum contacts.",
+      "Tag jurisdiction based on presence.",
+      "Domicile and consent only.",
+      "Complete diversity requirement."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Personal Jurisdiction",
+    "body": "World-Wide Volkswagen v. Woodson (1980) held that foreseeability alone does not confer jurisdiction unless what is shown?",
+    "options": [
+      "The defendant purposefully directed activities at the forum.",
+      "Plaintiff’s injury was foreseeable anywhere.",
+      "A federal statute authorizes nationwide service.",
+      "There was a contractual relationship."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Personal Jurisdiction",
+    "body": "In Burger King Corp. v. Rudzewicz (1985), why did the Court uphold Florida’s jurisdiction over a Michigan franchisee?",
+    "options": [
+      "The contract created continuing obligations with Florida.",
+      "The defendant traveled to Florida for negotiations.",
+      "Florida had a long-arm statute covering all torts.",
+      "The franchise was incorporated in Florida."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — General Jurisdiction",
+    "body": "Daimler AG v. Bauman (2014) narrowed general jurisdiction to which locations?",
+    "options": [
+      "Place of incorporation and principal place of business.",
+      "Any state where the company sells products.",
+      "Wherever the company has continuous sales.",
+      "Wherever harm occurs."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Specific Jurisdiction",
+    "body": "In Ford Motor Co. v. Montana (2021), the Court held jurisdiction was proper because the claims were what?",
+    "options": [
+      "Related to the defendant’s forum contacts even if not caused by them.",
+      "Unrelated to the forum but nationwide in scope.",
+      "Based only on internet marketing.",
+      "Filed in the corporation’s home state."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Service of Process",
+    "body": "Mullane v. Central Hanover Bank (1950) established that due process requires what for notice?",
+    "options": [
+      "Notice reasonably calculated to apprise interested parties.",
+      "Actual receipt of notice by all parties.",
+      "Publication in two newspapers.",
+      "Personal service by sheriff."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Service by Publication",
+    "body": "In Rio Properties v. Rio International Interlink (2002), electronic service was allowed when?",
+    "options": [
+      "Traditional methods were impractical and email was reliable.",
+      "The defendant refused certified mail.",
+      "The plaintiff lacked an address.",
+      "Foreign defendants are automatically served online."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Pleading",
+    "body": "Conley v. Gibson (1957) established that a complaint should not be dismissed unless what?",
+    "options": [
+      "No set of facts could support the claim.",
+      "It lacks a jurisdictional statement.",
+      "It omits citations to precedent.",
+      "Discovery has not begun."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Pleading",
+    "body": "Bell Atlantic v. Twombly (2007) retired the 'no set of facts' language and required what new standard?",
+    "options": [
+      "Plausibility, not mere possibility, of entitlement to relief.",
+      "Certainty of wrongdoing.",
+      "Summary judgment-level proof.",
+      "Evidence before pleading."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Pleading",
+    "body": "Ashcroft v. Iqbal (2009) applied Twombly to all cases and instructed courts to do what two-step analysis?",
+    "options": [
+      "Ignore conclusory allegations, then assess plausibility of facts.",
+      "Assess intent first, then injury.",
+      "Defer to the jury on factual sufficiency.",
+      "Review all allegations as true."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Pleading Standards",
+    "body": "Swierkiewicz v. Sorema (2002) held that employment discrimination plaintiffs need not what?",
+    "options": [
+      "Plead a prima facie case under McDonnell Douglas at the complaint stage.",
+      "File administrative claims first.",
+      "Show probable cause.",
+      "Plead with particularity under Rule 9(b)."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Rule 11 Sanctions",
+    "body": "In King v. Whitmer (2023), attorneys were sanctioned for filing claims without factual basis. What rule governs this?",
+    "options": [
+      "FRCP 11(b) — representations to the court must be warranted by fact and law.",
+      "FRCP 37 — failure to cooperate in discovery.",
+      "FRCP 15 — improper amendment.",
+      "FRCP 26 — discovery scope."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Summary Judgment",
+    "body": "Celotex v. Catrett (1986) held a movant can win summary judgment by what showing?",
+    "options": [
+      "Pointing out the absence of evidence for the nonmovant’s claim.",
+      "Proving all elements conclusively.",
+      "Calling adverse witnesses.",
+      "Filing before discovery closes."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Summary Judgment",
+    "body": "Scott v. Harris (2007) held summary judgment was proper where what evidence existed?",
+    "options": [
+      "A video record so clearly contradicted the plaintiff’s version that no reasonable jury could believe it.",
+      "Multiple eyewitnesses agreed with defendant.",
+      "Plaintiff’s lawyer failed to object.",
+      "Conflicting evidence existed."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Judgment as a Matter of Law",
+    "body": "Unitherm Food Sys. v. Swift-Eckrich (2006) emphasized that failure to renew a Rule 50 motion after trial has what effect?",
+    "options": [
+      "Waives appellate review of sufficiency of evidence.",
+      "Tolls the deadline for appeal.",
+      "Preserves issue automatically.",
+      "Requires en banc review."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Work Product",
+    "body": "Hickman v. Taylor (1947) held attorney interviews and notes are protected from discovery unless what?",
+    "options": [
+      "Substantial need and inability to obtain equivalent information otherwise.",
+      "Opposing counsel consents.",
+      "The case involves fraud.",
+      "Privilege has expired."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Erie Doctrine",
+    "body": "Erie Railroad v. Tompkins (1938) overturned Swift v. Tyson and held what?",
+    "options": [
+      "Federal courts must apply state substantive law in diversity cases.",
+      "Federal courts create general common law.",
+      "State courts must apply federal procedure.",
+      "Common law governs all tort cases."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Erie Doctrine",
+    "body": "Hanna v. Plumer (1965) distinguished between substantive and procedural law. What governs when a valid Federal Rule applies?",
+    "options": [
+      "The Federal Rule controls if valid under the Rules Enabling Act.",
+      "State law always overrides.",
+      "Federal judges use discretion.",
+      "The outcome-determinative test applies alone."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Venue",
+    "body": "Piper Aircraft v. Reyno (1981) allowed dismissal for forum non conveniens when?",
+    "options": [
+      "The chosen forum is oppressive and an adequate alternative exists.",
+      "The defendant prefers another jurisdiction.",
+      "The plaintiff’s lawyer is foreign.",
+      "Service was defective."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Diversity Jurisdiction",
+    "body": "Hertz Corp. v. Friend (2010) defined a corporation’s principal place of business as what?",
+    "options": [
+      "The nerve center where high-level officers direct control.",
+      "The state of incorporation.",
+      "Any state with sales offices.",
+      "Where the harm occurred."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Federal Question",
+    "body": "Louisville & Nashville R.R. v. Mottley (1908) announced the 'well-pleaded complaint rule,' meaning what?",
+    "options": [
+      "Federal jurisdiction must appear on the face of the plaintiff’s properly pleaded complaint.",
+      "Any federal defense suffices for jurisdiction.",
+      "Federal counterclaims create jurisdiction.",
+      "Jurisdiction is proper if either party raises federal law."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Supplemental Jurisdiction",
+    "body": "United Mine Workers v. Gibbs (1966) allows federal courts to hear state claims when?",
+    "options": [
+      "They form part of the same case or controversy under Article III.",
+      "They share one party in common.",
+      "They were filed in the same year.",
+      "Plaintiff demands it."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Supplemental Jurisdiction",
+    "body": "Exxon Mobil Corp. v. Allapattah (2005) allowed what for supplemental jurisdiction?",
+    "options": [
+      "Claims of additional plaintiffs not meeting the amount requirement if one plaintiff does.",
+      "Aggregation of claims across unrelated parties.",
+      "Federal claims to anchor any case.",
+      "Claims from dismissed defendants."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Removal",
+    "body": "Royal Canin v. Wullschleger (2021) involved removal jurisdiction. When may a case be removed?",
+    "options": [
+      "When it could have originally been filed in federal court.",
+      "Whenever the defendant prefers federal court.",
+      "If state law claims are weak.",
+      "At any time after judgment."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Preclusion",
+    "body": "Painter v. Harvey (1988) discussed claim preclusion. What does it prevent?",
+    "options": [
+      "Relitigation of claims arising from the same transaction after a final judgment.",
+      "Reexamination of legal theories within one case.",
+      "Joinder of permissive claims.",
+      "Appeal of interlocutory orders."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Issue Preclusion",
+    "body": "Parklane Hosiery v. Shore (1979) approved offensive collateral estoppel when?",
+    "options": [
+      "It is not unfair to the defendant and the issue was actually litigated.",
+      "Plaintiff brings new evidence.",
+      "A criminal case preceded.",
+      "Multiple plaintiffs join."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Bamzai",
+    "subject": "Civil Procedure — Class Actions",
+    "body": "Wal-Mart Stores v. Dukes (2011) denied certification because what element of Rule 23(a) failed?",
+    "options": [
+      "Commonality — lack of a single common question.",
+      "Adequacy of representation.",
+      "Numerosity.",
+      "Typicality."
+    ],
+    "answer": 0
+  }
 ]
