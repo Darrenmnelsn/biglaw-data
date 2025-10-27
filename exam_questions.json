@@ -1,6 +1,186 @@
 {
   "questions": [
-    {
+  {
+    "id": 1,
+    "fact": "A Virginia plaintiff sues a New York corporation in Virginia federal court for breach of contract. The contract was negotiated entirely in New York, performed in New York, and the only Virginia connection is that the plaintiff lives there.",
+    "options": [
+      "General Jurisdiction",
+      "Specific Jurisdiction",
+      "No Jurisdiction",
+      "Transfer under §1404(a)"
+    ],
+    "answer": 2,
+    "rule": "Daimler AG v. Bauman; Bristol-Myers Squibb — a defendant must be 'essentially at home' for general jurisdiction or have purposeful contacts giving rise to the claim. Plaintiff’s residence alone is irrelevant."
+  },
+  {
+    "id": 2,
+    "fact": "A Pennsylvania corporation sues an Illinois defendant in federal court sitting in Pennsylvania. The contract designates Pennsylvania law but is silent on venue. The defendant moves to dismiss for lack of personal jurisdiction.",
+    "options": [
+      "Personal jurisdiction proper — choice of law implies consent",
+      "Personal jurisdiction lacking — choice of law ≠ consent",
+      "Personal jurisdiction proper — minimum contacts satisfied",
+      "Venue improper but jurisdiction proper"
+    ],
+    "answer": 2,
+    "rule": "Burger King v. Rudzewicz — a choice-of-law clause alone does not constitute consent to jurisdiction; the defendant must purposefully avail itself of the forum."
+  },
+  {
+    "id": 3,
+    "fact": "A diversity case filed in federal court in California. The issue concerns whether to apply California’s damages cap for medical malpractice or a federal rule allowing full recovery.",
+    "options": [
+      "Apply federal rule — procedural",
+      "Apply state rule — substantive",
+      "Apply whichever rule better serves efficiency",
+      "Dismiss under forum non conveniens"
+    ],
+    "answer": 2,
+    "rule": "Erie R.R. v. Tompkins and Guaranty Trust v. York — outcome-determinative state laws governing remedies and damages are substantive; apply state law."
+  },
+  {
+    "id": 4,
+    "fact": "A federal court hears a tort case under diversity. The state rule requires medical affidavits before filing; FRCP has no equivalent. Plaintiff filed without one.",
+    "options": [
+      "Apply FRCP — directly conflicts, controls under Hanna",
+      "Apply state rule — procedural but intertwined with state policy",
+      "Dismiss — forum non conveniens",
+      "Apply both rules simultaneously"
+    ],
+    "answer": 1,
+    "rule": "Hanna v. Plumer — when a valid Federal Rule directly conflicts with state procedure, the Federal Rule governs unless it violates the Rules Enabling Act or the Constitution."
+  },
+  {
+    "id": 5,
+    "fact": "A Texas federal court sitting in diversity must decide whether to allow punitive damages. Texas law bars them, but federal common law permits them.",
+    "options": [
+      "Apply federal common law — fairness",
+      "Apply Texas law — Erie requires state substantive law",
+      "Apply both — hybrid approach",
+      "Dismiss for lack of diversity jurisdiction"
+    ],
+    "answer": 2,
+    "rule": "Erie R.R. v. Tompkins — federal courts sitting in diversity apply state substantive law, including damages limits, to prevent forum shopping and inequitable administration."
+  },
+  {
+    "id": 6,
+    "fact": "A New Mexico resident sues a Kansas trucking company in New Mexico for an accident that occurred in Oklahoma. Defendant moves to transfer venue.",
+    "options": [
+      "Transfer under §1406 — improper venue",
+      "Transfer under §1404 — convenience",
+      "Dismiss for lack of jurisdiction",
+      "Venue proper — accident nearby"
+    ],
+    "answer": 2,
+    "rule": "28 U.S.C. §1404(a) — transfer is proper when venue is initially proper but another district is clearly more convenient for parties and witnesses."
+  },
+  {
+    "id": 7,
+    "fact": "A federal court in Illinois sitting in diversity faces a conflict: the Illinois statute of limitations is two years; FRCP 3 defines commencement of action when filed. Plaintiff filed after two years but before service.",
+    "options": [
+      "Apply FRCP 3 — procedural rule controls",
+      "Apply Illinois statute — substantive rule controls",
+      "Dismiss — no federal jurisdiction",
+      "Apply both — whichever favors plaintiff"
+    ],
+    "answer": 2,
+    "rule": "Walker v. Armco Steel Corp. — state statute of limitations is substantive; federal courts apply state tolling and timing rules in diversity."
+  },
+  {
+    "id": 8,
+    "fact": "A Louisiana plaintiff sues a California defendant in Louisiana federal court for an online defamation claim. The defendant’s website has 100 Louisiana subscribers out of 1M total users.",
+    "options": [
+      "General Jurisdiction",
+      "Specific Jurisdiction",
+      "No Jurisdiction",
+      "Venue improper"
+    ],
+    "answer": 3,
+    "rule": "Walden v. Fiore; Zippo test — online contacts must be expressly aimed at the forum; mere accessibility or small audience does not create jurisdiction."
+  },
+  {
+    "id": 9,
+    "fact": "Federal court sitting in diversity must determine prejudgment interest rate. State law provides 3%; federal common law uses 8%.",
+    "options": [
+      "Apply federal rate — promotes uniformity",
+      "Apply state rate — substantive rule",
+      "Split the difference",
+      "No interest allowed"
+    ],
+    "answer": 2,
+    "rule": "Erie + Gasperini — monetary remedies like interest are substantive; apply state law to avoid inequitable results."
+  },
+  {
+    "id": 10,
+    "fact": "Plaintiff sues in New York federal court under diversity. The defendant claims venue improper because the contract designated Texas as exclusive forum.",
+    "options": [
+      "Forum clause irrelevant in diversity",
+      "Forum clause enforceable under §1406(a)",
+      "Forum clause void under Erie",
+      "Forum clause only binds if both parties are citizens of same state"
+    ],
+    "answer": 2,
+    "rule": "Atlantic Marine Constr. Co. v. U.S. Dist. Ct. — valid forum-selection clauses are enforced via §1406 or §1404 transfer; they override plaintiff’s venue choice absent exceptional circumstances."
+  },
+  {
+    "id": 11,
+    "fact": "Federal court in diversity must decide whether to recognize negligent infliction of emotional distress for a bystander. State law rejects such claims.",
+    "options": [
+      "Apply federal law — gaps in state tort law",
+      "Apply state law — Erie requires state substantive law",
+      "Apply federal common law of fairness",
+      "Recognize hybrid rule"
+    ],
+    "answer": 2,
+    "rule": "Erie R.R. v. Tompkins — there is no federal general common law; federal courts cannot create new tort causes of action under diversity jurisdiction."
+  },
+  {
+    "id": 12,
+    "fact": "Plaintiff sues in federal court on a state-law negligence claim. The state requires verified complaints. FRCP 8 and 11 do not.",
+    "options": [
+      "Apply state rule — substantive",
+      "Apply federal rule — directly conflicts, procedural",
+      "Dismiss for improper pleading",
+      "Apply both for fairness"
+    ],
+    "answer": 2,
+    "rule": "Hanna v. Plumer — if a Federal Rule directly conflicts and is valid under the Rules Enabling Act, it governs. Verification requirements are procedural."
+  },
+  {
+    "id": 13,
+    "fact": "A Delaware corporation sues a California defendant in Texas federal court. Defendant owns no property in Texas but has a registered agent there.",
+    "options": [
+      "General Jurisdiction — registered agent equals 'at home'",
+      "Specific Jurisdiction — related to claim",
+      "Consent Jurisdiction — via registration statute",
+      "No Jurisdiction — unrelated to Texas"
+    ],
+    "answer": 3,
+    "rule": "Mallory v. Norfolk Southern Railway Co. (2023) — a state can require consent to jurisdiction through corporate registration statutes consistent with Due Process."
+  },
+  {
+    "id": 14,
+    "fact": "A federal court must decide whether to apply a state rule that bars contingency fees in medical malpractice cases. The federal rule is silent.",
+    "options": [
+      "Apply state law — substantive, affects incentives and recovery",
+      "Apply federal law — silence implies freedom",
+      "Apply hybrid rule — whichever maximizes efficiency",
+      "Ignore state law — federal supremacy"
+    ],
+    "answer": 1,
+    "rule": "Erie + York — state rules affecting litigation incentives and damages are substantive and apply in diversity."
+  },
+  {
+    "id": 15,
+    "fact": "Federal court applies state service-of-process statute rather than FRCP 4. Defendant argues violation of Federal Rules.",
+    "options": [
+      "State law applies — Erie doctrine",
+      "Federal law applies — FRCP governs service nationwide",
+      "Apply whichever completed service first",
+      "Dismiss for improper venue"
+    ],
+    "answer": 2,
+    "rule": "FRCP 4 governs service of process; valid Federal Rules override inconsistent state procedural requirements (Hanna)."
+  },
+  {
       "id": 1,
       "fact": "A Delaware company with no offices or employees in Texas sells 5% of its products online to Texas residents.",
       "options": [
