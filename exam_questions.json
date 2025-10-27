@@ -1,40 +1,40 @@
 {
-    "questions": [
-        {
-            "id": 1,
-            "fact": "A Delaware company with no offices or employees in Texas sells 5% of its products online to Texas residents.",
-            "options": [
-                "General Jurisdiction",
-                "Specific Jurisdiction",
-                "No Jurisdiction",
-                "Consent"
-            ],
-            "answer": 2,
-            "rule": "Daimler AG v. Bauman — sporadic sales insufficient for general jurisdiction; not 'essentially at home.'"
-        },
-        {
-            "id": 2,
-            "fact": "A Florida driver crashes into a Georgia resident while driving through Georgia.",
-            "options": [
-                "General Jurisdiction",
-                "Specific Jurisdiction",
-                "No Jurisdiction",
-                "Forum Non Conveniens"
-            ],
-            "answer": 1,
-            "rule": "International Shoe — claim arises out of defendant’s in-state conduct; specific jurisdiction proper."
-        },
-        {
-            "id": 3,
-            "fact": "An Ohio tire explodes in France, injuring a French driver; the tire was originally sold in Ohio.",
-            "options": [
-                "Specific Jurisdiction",
-                "General Jurisdiction",
-                "No Jurisdiction",
-                "Consent"
-            ],
-            "answer": 2,
-            "rule": "Goodyear v. Brown — no general jurisdiction over foreign subsidiaries; claim unrelated to forum contacts."
+  "questions": [
+    {
+      "id": 1,
+      "fact": "A Delaware company with no offices or employees in Texas sells 5% of its products online to Texas residents.",
+      "options": [
+        "General Jurisdiction",
+        "Specific Jurisdiction",
+        "No Jurisdiction",
+        "Consent"
+      ],
+      "answer": 2,
+      "rule": "Daimler AG v. Bauman — sporadic sales insufficient for general jurisdiction; not 'essentially at home.'"
+    },
+    {
+      "id": 2,
+      "fact": "A Florida driver crashes into a Georgia resident while driving through Georgia.",
+      "options": [
+        "General Jurisdiction",
+        "Specific Jurisdiction",
+        "No Jurisdiction",
+        "Forum Non Conveniens"
+      ],
+      "answer": 1,
+      "rule": "International Shoe — claim arises out of defendant’s in-state conduct; specific jurisdiction proper."
+    },
+    {
+      "id": 3,
+      "fact": "An Ohio tire explodes in France, injuring a French driver; the tire was originally sold in Ohio.",
+      "options": [
+        "Specific Jurisdiction",
+        "General Jurisdiction",
+        "No Jurisdiction",
+        "Consent"
+      ],
+      "answer": 2,
+      "rule": "Goodyear v. Brown — no general jurisdiction over foreign subsidiaries; claim unrelated to forum contacts."
         },
         {
             "id": 4,
