@@ -13,6 +13,102 @@
       "rule": "Daimler AG v. Bauman — sporadic sales insufficient for general jurisdiction; not 'essentially at home.'"
         },
         {
+      "id": 2,
+      "fact": "A Florida driver crashes into a Georgia resident while driving through Georgia.",
+      "options": [
+        "General Jurisdiction",
+        "Specific Jurisdiction",
+        "No Jurisdiction",
+        "Forum Non Conveniens"
+      ],
+      "answer": 1
+      "rule": "International Shoe — claim arises out of defendant’s in-state conduct; specific jurisdiction proper."
+    },
+    {
+      "id": 3,
+      "fact": "An Ohio tire explodes in France, injuring a French driver; the tire was originally sold in Ohio.",
+      "options": [
+        "Specific Jurisdiction",
+        "General Jurisdiction",
+        "No Jurisdiction",
+        "Consent"
+      ],
+      "answer": 2
+      "rule": "Goodyear v. Brown — no general jurisdiction over foreign subsidiaries; claim unrelated to forum contacts."
+    },
+    {
+      "id": 4,
+      "fact": "A Pennsylvania plaintiff sues a Virginia manufacturer for injuries from a product purchased in Virginia but used in Pennsylvania.",
+      "options": [
+        "Specific Jurisdiction",
+        "No Jurisdiction",
+        "Consent",
+        "General Jurisdiction"
+      ],
+      "answer": 1
+      "rule": "Bristol-Myers Squibb — claim must arise out of or relate to defendant’s forum contacts."
+    },
+    {
+      "id": 5,
+      "fact": "A New York newspaper posts an online article allegedly defaming a Texas resident.",
+      "options": [
+        "Specific Jurisdiction",
+        "No Jurisdiction",
+        "General Jurisdiction",
+        "Forum Non Conveniens"
+      ],
+      "answer": 1
+      "rule": "Calder v. Jones — jurisdiction proper only if defendant’s conduct expressly aimed at forum; passive site insufficient."
+    },
+    {
+      "id": 6,
+      "fact": "A California car dealer advertises online; a Colorado buyer travels to California, buys a car, and crashes in Colorado.",
+      "options": [
+        "Specific Jurisdiction",
+        "No Jurisdiction",
+        "General Jurisdiction",
+        "Venue"
+      ],
+      "answer": 1
+      "rule": "World-Wide Volkswagen — unilateral action by consumer cannot create forum contacts."
+    },
+    {
+      "id": 7,
+      "fact": "A Nevada casino mails flyers and offers free rooms to California residents who later sue in California for injuries at the casino.",
+      "options": [
+        "Specific Jurisdiction",
+        "No Jurisdiction",
+        "General Jurisdiction",
+        "Consent"
+      ],
+      "answer": 1
+      "rule": "Walden v. Fiore — contact must arise from defendant’s purposeful forum conduct, not plaintiff’s connections."
+    },
+    {
+      "id": 8,
+      "fact": "A corporate officer personally guarantees a loan in Texas and later disputes the contract.",
+      "options": [
+        "Specific Jurisdiction",
+        "No Jurisdiction",
+        "General Jurisdiction",
+        "Consent"
+      ],
+      "answer": 0
+      "rule": "Burger King v. Rudzewicz — purposeful availment through deliberate contract negotiation with forum resident."
+    },
+    {
+      "id": 9,
+      "fact": "A Minnesota company registers to do business in Pennsylvania and appoints a local agent for service.",
+      "options": [
+        "Consent",
+        "General Jurisdiction",
+        "Specific Jurisdiction",
+        "No Jurisdiction"
+      ],
+      "answer": 0
+      "rule": "Mallory v. Norfolk Southern — registration statute can constitute consent to general jurisdiction."
+        },
+        {
         "id": 1,
         "fact": "While walking, Paula hears her neighbor screaming for help. Paula does nothing. The neighbor later sues Paula for negligence.",
         "options": [
