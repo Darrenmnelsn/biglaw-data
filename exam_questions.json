@@ -1,1204 +1,1204 @@
 {
-  "questions": 
-[
-  {
-    "id": 1,
-    "fact": "While walking, Paula hears her neighbor screaming for help. Paula does nothing. The neighbor later sues Paula for negligence.",
-    "options": [
-      "A bystander has a duty to rescue, so Paula breached a legal duty by not acting.",
-      "Paula had no legal duty to rescue the neighbor, so no negligence claim can succeed.",
-      "Paula had a duty to call the police, so she breached her duty by not doing so.",
-      "Rescuers are strictly liable if they fail to help someone in danger, so Paula is liable."
-    ],
-    "answer": 1,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 2,
-    "fact": "David negligently starts a small fire in his yard which spreads and damages Patricia’s property. Patricia sues David for negligence.",
-    "options": [
-      "David had no duty to protect Patricia’s property from fire since this was an accident.",
-      "David had a legal duty to act with care (not cause harm), so he is negligent as his fire caused Patricia’s harm.",
-      "Under strict liability, David is liable regardless of precautions.",
-      "No negligence because the fire was an unforeseeable accident."
-    ],
-    "answer": 1,
-    "rule": "Generally, members of society have entered a social contract that includes a duty to not cause harm to others."
-  },
-  {
-    "id": 3,
-    "fact": "Forrest is walking when he hears his neighbor Alice screaming from the street for help. Forrest does nothing. Alice sues Forrest for negligence.",
-    "options": [
-      "Forrest had no legal duty to rescue Alice, so no negligence claim can succeed.",
-      "Forrest breached a legal duty because bystanders must assist others in danger.",
-      "Forrest had a duty to intervene, so he is negligent by doing nothing.",
-      "Forrest is strictly liable for failing to help because all bystanders share a duty of care."
-    ],
-    "answer": 0,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 4,
-    "fact": "Nathanik walks past a child who is choking on a toy and does nothing. The child's mother sues Nathanik for negligence.",
-    "options": [
-      "Nathanik had no duty to rescue the child, so no negligence.",
-      "Nathanik breached a duty because any person must assist in an emergency.",
-      "Nathanik had a duty to at least call emergency services.",
-      "Assumption of risk bars the child's claim in this case."
-    ],
-    "answer": 0,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 5,
-    "fact": "Sam digs a hole in the sidewalk but does not mark it or put up warnings. Ray later trips in the hole and is injured. Ray sues Sam for negligence.",
-    "options": [
-      "Sam had no duty because it was an accident.",
-      "Sam had a duty to guard the hole because he created the hazard, so he is negligent.",
-      "Ray is at fault for not watching where he walked, so Sam is not liable.",
-      "This is a case of negligence per se due to city code violation."
-    ],
-    "answer": 1,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 6,
-    "fact": "Leah sees a deep open well on her neighbor's property but does not warn Alan, who later falls in and is injured. Alan sues Leah for negligence.",
-    "options": [
-      "Leah had no duty to warn Alan about the well, so no negligence.",
-      "Leah had a duty to act because she knew of the danger, so she is negligent.",
-      "Leah is negligent per se for failing to warn of a known hazard.",
-      "Leah is strictly liable for the injury due to failure to act."
-    ],
-    "answer": 0,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 7,
-    "fact": "Derek walks past an accident scene without calling for help. The injured driver sues Derek for negligence.",
-    "options": [
-      "Derek had no duty to the accident victim, so he cannot be negligent.",
-      "Derek breached a duty of care by failing to help the victim.",
-      "Because Derek witnessed the accident, he assumed the risk of harm.",
-      "Derek is strictly liable for failing to assist."
-    ],
-    "answer": 0,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 8,
-    "fact": "Gabby is at a restaurant when another patron suddenly collapses from a heart attack. Gabby does nothing to help. The injured patron sues Gabby for negligence.",
-    "options": [
-      "Gabby had no duty to intervene, so she is not negligent.",
-      "Gabby breached a duty because as a good Samaritan she should assist.",
-      "Gabby is liable because bystanders must always help in emergencies.",
-      "Gabby assumed the risk of the collapse by being in public."
-    ],
-    "answer": 0,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 9,
-    "fact": "Abraham sees someone who fell on ice in a public park. He ignores the person. The injured person sues Abraham for negligence.",
-    "options": [
-      "Abraham had no duty to assist, so no negligence.",
-      "Abraham breached a duty because a reasonable person would help.",
-      "Abraham is liable because he voluntarily assumed a duty to help.",
-      "Strict liability applies to Abraham for being present."
-    ],
-    "answer": 0,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 10,
-    "fact": "Robert, driving carefully, stops for an ambulance. He hears another driver honking but doesn't help a crash victim. The victim sues Robert.",
-    "options": [
-      "Robert had no duty since he did not cause the crash, so no negligence.",
-      "Robert is negligent for not helping the victim.",
-      "Robert breached his duty by blocking the road.",
-      "Robert is protected by emergency responder immunity."
-    ],
-    "answer": 0,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 11,
-    "fact": "Blake, a mailman, finishes his route and heads home. On the way, he sees a pedestrian fall but does nothing. The pedestrian sues Blake for negligence.",
-    "options": [
-      "Blake had no legal duty to the pedestrian at that time, so no negligence.",
-      "Blake breached a duty because he should have helped the pedestrian.",
-      "Blake assumed risk by not helping.",
-      "Blake is strictly liable for not intervening."
-    ],
-    "answer": 0,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 12,
-    "fact": "Mechanic John finishes fixing Anna's car but fails to secure a wheel properly. Anna drives away, the wheel falls off, and injures a bystander. The bystander sues John.",
-    "options": [
-      "John had no duty after the car left the shop.",
-      "John breached a duty to ensure the car was safe.",
-      "The bystander is at fault for not watching the car.",
-      "This is a case of assumption of risk by the bystander."
-    ],
-    "answer": 1,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 13,
-    "fact": "Leah is at a movie theater when a brawl breaks out. She sees it happening but does nothing to help. Someone injured in the brawl sues Leah.",
-    "options": [
-      "Leah had no duty to intervene in the brawl, so no negligence.",
-      "Leah breached a duty by not trying to stop the fight.",
-      "Leah assumed the risk of being in the theater.",
-      "Leah is strictly liable for any injuries in the theater."
-    ],
-    "answer": 0,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 14,
-    "fact": "Ethan leaves his baby sitting in a bathtub and goes to make a phone call. The baby nearly drowns and sues Ethan’s father for negligence.",
-    "options": [
-      "Ethan’s father had no duty to supervise Ethan’s actions, so no negligence.",
-      "Ethan’s father breached his duty by allowing Ethan to leave the baby unsupervised.",
-      "No one had a duty to the baby in this scenario.",
-      "This is strict liability because a child was harmed."
-    ],
-    "answer": 0,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 15,
-    "fact": "Hannah hears a baby cry in the distance but doesn't investigate. The baby's parents sue Hannah for negligence.",
-    "options": [
-      "No duty to assist distant cries, so no negligence.",
-      "Hannah breached a duty by not investigating the cry.",
-      "Hannah is liable under negligence per se.",
-      "Hannah assumed the risk of the cry."
-    ],
-    "answer": 0,
-    "rule": "Negligence requires the existence of a legal duty."
-  },
-  {
-    "id": 16,
-    "fact": "Amy is texting while driving and fails to stop at a red light, hitting Brian. Brian sues Amy for negligence.",
-    "options": [
-      "Amy’s actions were reasonable under the circumstances.",
-      "Amy breached her duty because a reasonable driver would not text while driving.",
-      "Amy did not breach any duty if the light was malfunctioning.",
-      "Amy is strictly liable for hitting Brian."
-    ],
-    "answer": 1,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 17,
-    "fact": "Dr. Elm ignores standard diagnostic tests for a patient’s symptoms. The patient suffers serious harm and sues Dr. Elm.",
-    "options": [
-      "Dr. Elm breached his duty because a reasonable doctor would have ordered tests.",
-      "Dr. Elm did not breach his duty if he honestly believed the tests were unnecessary.",
-      "Dr. Elm had no duty under emergency circumstances.",
-      "The patient assumed the risk by seeking medical help."
-    ],
-    "answer": 0,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 18,
-    "fact": "Carl owns a dog that is chained but prone to aggression. The dog escapes and bites Paula. Paula sues Carl for negligence.",
-    "options": [
-      "Carl breached his duty by not properly restraining a dangerous dog.",
-      "Carl did not breach any duty because he is not responsible for the dog’s actions.",
-      "There is no legal duty owed by Carl to Paula.",
-      "This is a case of strict liability per se."
-    ],
-    "answer": 0,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 19,
-    "fact": "David leaks oil on the road. A car skids on the oil and injures Quinn. Quinn sues David.",
-    "options": [
-      "David did not breach his duty; the accident was not his fault.",
-      "David breached his duty because a reasonable driver would not leave oil on the road.",
-      "Quinn was on notice of road hazards.",
-      "Oil spills have no duty per standard of care."
-    ],
-    "answer": 1,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 20,
-    "fact": "Nurse Nina fails to change a surgical wound bandage for several days. The patient suffers a severe infection and sues Nina.",
-    "options": [
-      "Nina breached her duty because a reasonable nurse would have cared for the patient.",
-      "Nina did not breach duty if the infection could happen regardless.",
-      "Nina had no duty on a weekend.",
-      "Nina is strictly liable for any patient injury."
-    ],
-    "answer": 0,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 21,
-    "fact": "Mark performs CPR on a stranger who collapses. The stranger later dies. The stranger’s family sues Mark for negligence.",
-    "options": [
-      "Mark breached a duty because he performed CPR incorrectly.",
-      "Mark did not breach any duty; he attempted rescue and was not negligent.",
-      "Mark had no duty to begin CPR, so no negligence.",
-      "Mark is strictly liable for the death because he intervened."
-    ],
-    "answer": 1,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 22,
-    "fact": "Nelson was speeding (60 mph in a 40 mph zone) when he struck and injured Owen. Owen sues Nelson for negligence.",
-    "options": [
-      "Nelson breached his duty because a reasonable driver would obey the speed limit.",
-      "Nelson did not breach his duty; the accident was Owen’s fault for jaywalking.",
-      "Nelson had no duty because speed limits are advisory.",
-      "Nelson is strictly liable for all injuries when speeding."
-    ],
-    "answer": 0,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 23,
-    "fact": "Frank negligently mounts a heavy sign above a doorway. The sign falls and injures Peter, who sues Frank.",
-    "options": [
-      "Frank breached his duty because a reasonable person would have secured the sign.",
-      "Frank did not breach duty because the accident was unpredictable.",
-      "No duty was owed since it was an accident.",
-      "This is a strict liability case, not negligence."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 24,
-    "fact": "George throws a rock from a bridge, and it injures Paula walking below. Paula sues George.",
-    "options": [
-      "George is negligent because throwing rocks was not reasonable.",
-      "George is negligent because any rock-throwing is strict liability.",
-      "George did not breach duty if he did not intend harm.",
-      "This is covered by assumption of risk."
-    ],
-    "answer": 0,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 25,
-    "fact": "Sabine digs a large hole at a construction site and forgets to mark it. A worker falls in and is injured. The worker sues Sabine.",
-    "options": [
-      "Sabine breached her duty because a reasonable person would have guarded the hole.",
-      "Sabine did not breach duty because accidents happen at construction sites.",
-      "Sabine had no duty to workers at the site.",
-      "This is strict products liability."
-    ],
-    "answer": 0,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 26,
-    "fact": "Todd leaves a hazardous chemical spill unattended at night. Emily falls in and is injured. Emily sues Todd.",
-    "options": [
-      "Todd breached his duty because a reasonable person would have cleaned the spill.",
-      "Todd did not breach duty if the spill was unnoticed.",
-      "No duty is owed for spills.",
-      "Emily assumed the risk of hazardous chemicals."
-    ],
-    "answer": 0,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 27,
-    "fact": "Victor leaves a loaded handgun unsecured. His friend, unaware, picks it up and it accidentally discharges, injuring Nora. Nora sues Victor.",
-    "options": [
-      "Victor breached his duty by not securing a dangerous weapon.",
-      "Victor did not breach duty because Nora put herself in danger.",
-      "No duty was owed by Victor in this situation.",
-      "This is a negligence per se case."
-    ],
-    "answer": 0,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 28,
-    "fact": "Bob neglects to shovel his snowy sidewalk. Sarah slips and is injured. Sarah sues Bob for negligence.",
-    "options": [
-      "Bob breached his duty because a reasonable homeowner would clear the sidewalk.",
-      "Bob did not breach duty because falls are inherent risks of winter.",
-      "No duty was owed to pedestrians in this case.",
-      "Sarah assumed the risk of walking on a snowy sidewalk."
-    ],
-    "answer": 0,
-    "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
-  },
-  {
-    "id": 29,
-    "fact": "Ethan sells a defective car part that causes Fiona’s accident. Fiona sues Ethan for negligence.",
-    "options": [
-      "Ethan is the cause-in-fact because without his sale, the accident would not have occurred.",
-      "Ethan is not the cause-in-fact because others might have sold similar parts.",
-      "Ethan’s liability is strict because he sold a part.",
-      "No duty on Ethan means no causation required."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
-  },
-  {
-    "id": 30,
-    "fact": "Walter, a doctor, administers an incorrect medication. The patient dies, but the patient had a terminal illness and would have died anyway. The patient’s estate sues Walter.",
-    "options": [
-      "Walter is the cause-in-fact of the death regardless of the illness.",
-      "Walter is not the cause-in-fact because the patient would have died anyway.",
-      "Walter had no legal duty, so causation is irrelevant.",
-      "The death is covered by assumption of risk."
-    ],
-    "answer": 1,
-    "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
-  },
-  {
-    "id": 31,
-    "fact": "Xan accidentally cuts a gas line. The ensuing explosion injures Marcus. The injured party sues Xan.",
-    "options": [
-      "Xan is the cause-in-fact because, but for his cut, the explosion would not have occurred.",
-      "Xan is not the cause-in-fact because the spark was unforeseeable.",
-      "No duty was owed by Xan.",
-      "This is a negligence per se case."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
-  },
-  {
-    "id": 32,
-    "fact": "Alpha and Beta each negligently push Cara into a river at the same time, and she drowns. Alpha sues Beta, claiming causation.",
-    "options": [
-      "Neither is the sole cause-in-fact because Cara would have drowned from either push.",
-      "Alpha is the cause because his push was stronger.",
-      "Beta is the cause under a joint and several theory.",
-      "Res ipsa loquitur applies instead of causation."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
-  },
-  {
-    "id": 33,
-    "fact": "Chef negligently leaves a stove on. Lightning ignites an unnoticed gas leak, injuring Nora. Nora sues the chef.",
-    "options": [
-      "The chef is the cause-in-fact because without the gas leak, no injury would have occurred.",
-      "The chef is not the cause-in-fact because the lightning was a superseding cause.",
-      "No duty on the chef because he is not a storm protector.",
-      "Strict liability applies to the storm."
-    ],
-    "answer": 1,
-    "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
-  },
-  {
-    "id": 34,
-    "fact": "Wendy owns a bus and fails to maintain the brakes properly. The bus injures a pedestrian who sues Wendy. If Wendy had maintained the brakes, the injury would not have occurred.",
-    "options": [
-      "Wendy is the cause-in-fact since, but for her failure, the injury would not have happened.",
-      "Wendy is not the cause because another bus driver could have caused it.",
-      "No duty on Wendy implies no causation needed.",
-      "This is strict liability on bus owners."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
-  },
-  {
-    "id": 35,
-    "fact": "Peggy breaches her duty when the dog escapes and bites someone. Peggy sues and claims bailment.",
-    "options": [
-      "Peggy is still liable because her breach is the actual and proximate cause of the bite.",
-      "Peggy's negligence was not a cause-in-fact because the dog's actions were unforeseeable.",
-      "Peggy had no duty since she didn’t directly handle the dog then.",
-      "The victim assumed the risk of dog bites."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 36,
-    "fact": "B shoots a gun into the air and a stray bullet hits Charlie. Charlie sues B.",
-    "options": [
-      "B is the proximate cause because his breach caused Charlie’s injury.",
-      "B is not the proximate cause since falling bullets are unforeseeable.",
-      "B had no legal duty to Charlie.",
-      "This is a res ipsa loquitur case."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 37,
-    "fact": "George throws a rock from a bridge that hits Paula below. Paula sues George for negligence.",
-    "options": [
-      "George is the proximate cause because his actions foreseeably injured Paula.",
-      "George is not the proximate cause because the rock falling is unforeseeable.",
-      "No duty was owed by George to Paula.",
-      "This is a negligence per se case."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 38,
-    "fact": "Frank negligently mounts a sign above a doorway that falls and injures Peter. Peter sues Frank for negligence.",
-    "options": [
-      "Frank is the proximate cause because his breach directly caused Peter’s injury.",
-      "Frank is not the proximate cause because the fall was unpredictable.",
-      "No duty was owed in this case.",
-      "Strict liability applies to Frank."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 39,
-    "fact": "Henry negligently drives toward Ivy, who jumps aside. Seconds later, a bystander shoots Ivy dead. Ivy’s estate sues Henry.",
-    "options": [
-      "Henry is the proximate cause because his negligence led to Ivy’s harm.",
-      "No: the shooting was an unforeseeable, superseding cause, so Henry is not liable.",
-      "Henry breached duty to Ivy by causing her to jump.",
-      "This case is barred by assumption of risk."
-    ],
-    "answer": 1,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 40,
-    "fact": "Jake leaves his truck’s cargo door open in a dark area, and Kyle drives into it, injuring himself. Kyle sues Jake.",
-    "options": [
-      "Jake is the proximate cause because his breach led directly to Kyle’s injury.",
-      "No: the darkness was a superseding cause.",
-      "No duty was owed by Jake.",
-      "This is a products liability case."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 41,
-    "fact": "Larry negligently spills flammable oil on the highway. Hours later, lightning strikes and ignites the oil, injuring Quinn. Quinn sues Larry.",
-    "options": [
-      "Larry is the proximate cause because his breach caused Quinn’s injury.",
-      "No: the lightning strike was an unforeseeable, superseding cause.",
-      "No negligence because of assumption of risk.",
-      "Strict liability on Larry."
-    ],
-    "answer": 1,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 42,
-    "fact": "Mark negligently attaches a malfunctioning new part, and several years later it causes an accident injuring Noel. Noel sues Mark.",
-    "options": [
-      "Mark is the proximate cause because his breach directly caused Noel’s injury.",
-      "No: the years-long delay was unforeseeable, breaking the chain of causation.",
-      "No duty was owed by Mark in this case.",
-      "Strict liability applies to Mark."
-    ],
-    "answer": 1,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 43,
-    "fact": "Robin negligently leaves a flammable gas canister on a busy street. A car accident ignites the gas, injuring Stuart. Stuart sues Robin.",
-    "options": [
-      "Robin is the proximate cause because the hazard he created directly led to the injury.",
-      "No: the accident ignition was unforeseeable, so Robin is not liable.",
-      "No duty was owed by Robin.",
-      "Strict liability on Robin."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 44,
-    "fact": "Tom negligently runs a red light, causing a car crash. One driver dies from injuries two days later. The deceased’s family sues Tom.",
-    "options": [
-      "Tom is the proximate cause because his negligence led to the death.",
-      "No: the two-day interval was unforeseeable and breaks causation.",
-      "No duty existed for deaths after delay.",
-      "This is strict liability."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 45,
-    "fact": "Vince negligently fails to turn off a stove. Noah turns it off safely. Noah later sues Vince for negligence.",
-    "options": [
-      "Vince is negligent because he breached his duty by leaving the stove on.",
-      "No, Vince had no duty since Noah fixed the problem.",
-      "No duty because it was accidental.",
-      "This is a case of assumption of risk."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 46,
-    "fact": "Xander leaves his chainsaw running unattended. The saw suddenly jerks and injures P. P sues Xander.",
-    "options": [
-      "Xander is the proximate cause because his breach led directly to P’s injury.",
-      "No: the saw’s sudden malfunction was unforeseeable.",
-      "No duty was owed by Xander.",
-      "This falls under products liability."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 47,
-    "fact": "Yvette digs an unmarked hole in a park. Two days later, a jogger trips and is injured. The jogger sues Yvette.",
-    "options": [
-      "Yvette is the proximate cause because her breach created the hazard causing the injury.",
-      "No: the two-day gap was unforeseeable, breaking causation.",
-      "No duty owed for gardener’s actions.",
-      "Strict liability for Yvette."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 48,
-    "fact": "Xerox negligently lets an oily rag remain on a floor. A person slips on it immediately and is injured. The person sues Xerox.",
-    "options": [
-      "Xerox is the proximate cause because its breach directly caused the injury.",
-      "No: cleaning staff failure was intervening, Xerox not liable.",
-      "No duty was owed by Xerox.",
-      "This is a comparative negligence case."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 49,
-    "fact": "Barry leaves his toolbox in the middle of a dark sidewalk. A pedestrian trips over it and is injured. The pedestrian sues Barry.",
-    "options": [
-      "Barry is the proximate cause because his negligence directly caused the injury.",
-      "No: the darkness was a superseding cause.",
-      "No duty was owed by Barry.",
-      "Strict liability on Barry."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 50,
-    "fact": "Zach negligently leaves a puddle of gasoline in his driveway. A car accident hours later ignites it and injures Deborah. Deborah sues Zach.",
-    "options": [
-      "Zach is the proximate cause because his breach foreseeably caused the injury.",
-      "No: the car accident ignition was unforeseeable, so Zach is not liable.",
-      "No duty was owed by Zach.",
-      "Strict liability on Zach."
-    ],
-    "answer": 1,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 51,
-    "fact": "Eugene negligently dumps flammable solvent in an alley. Later, an arsonist’s random fire ignites it, injuring Fred. Fred sues Eugene.",
-    "options": [
-      "Eugene is the proximate cause because his breach created the hazard.",
-      "No: the arson was unforeseeable, so Eugene is not liable.",
-      "No duty was owed by Eugene.",
-      "This is assumption of risk by Fred."
-    ],
-    "answer": 1,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 52,
-    "fact": "Ricky fails to properly ground an electrical outlet. A surge causes a fire the next day that injures Sue, who sues Ricky.",
-    "options": [
-      "Ricky is the proximate cause because his breach directly led to Sue’s injury.",
-      "No: the electrical surge was unforeseeable, breaking the chain.",
-      "No duty to fireproof outlets.",
-      "Strict liability for electricians."
-    ],
-    "answer": 0,
-    "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
-  },
-  {
-    "id": 53,
-    "fact": "A pedestrian is struck by a heavy hanging sign that suddenly falls while he walks underneath it. The pedestrian sues the sign’s owner.",
-    "options": [
-      "Yes, res ipsa loquitur applies because such an accident suggests negligence.",
-      "No, res ipsa loquitur cannot apply because the owner was careful.",
-      "No duty was owed by the owner.",
-      "Strict liability applies, not negligence."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
-  },
-  {
-    "id": 54,
-    "fact": "A weightlifter drops a barbell in a gym changing room, injuring an innocent bystander. The injured person sues the gym owner.",
-    "options": [
-      "Yes, because dropping heavy equipment normally implies negligence.",
-      "No, barbell drops are accidents and do not imply negligence.",
-      "No duty was owed by the gym owner.",
-      "Strict liability for gyms covers this."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
-  },
-  {
-    "id": 55,
-    "fact": "An elevator suddenly plummets several floors without explanation, injuring a passenger. The passenger sues the elevator maintenance company.",
-    "options": [
-      "Yes, res ipsa loquitur applies because such failure usually implies negligence.",
-      "No, mechanical failures can happen even with care, so no inference.",
-      "No duty was owed by the maintenance company.",
-      "This is a strict products liability case."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
-  },
-  {
-    "id": 56,
-    "fact": "The windows of an airplane cockpit shatter mid-flight for no apparent reason, injuring a flight attendant. The attendant sues the airline.",
-    "options": [
-      "Yes, res ipsa loquitur applies given the unexplained cockpit failure.",
-      "No, there could be many causes, so no inference.",
-      "No duty was owed by the airline.",
-      "Strict liability on the airline automatically applies."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
-  },
-  {
-    "id": 57,
-    "fact": "A cement block falls from a construction crane onto a car, injuring the driver. The driver sues the construction company.",
-    "options": [
-      "Yes, res ipsa loquitur applies because the accident implies negligence in control of the crane.",
-      "No, falling objects can happen with or without negligence.",
-      "No duty was owed by the construction company.",
-      "This is a strict liability situation, not negligence."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
-  },
-  {
-    "id": 58,
-    "fact": "Vince buys a used motorcycle from Wally and later has a brake failure accident. Vince sues Wally for negligence.",
-    "options": [
-      "No, res ipsa loquitur does not apply because the instrumentality was not exclusively Wally’s control at the time of sale.",
-      "Yes, because brake failure normally implies negligence.",
-      "No duty was owed by Wally.",
-      "Yes, as in strict liability of a seller."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
-  },
-  {
-    "id": 59,
-    "fact": "X eats at a restaurant and gets severe food poisoning when he is the only one who ate a particular dish. X sues the restaurant.",
-    "options": [
-      "No, res ipsa loquitur does not apply when others were not affected.",
-      "Yes, the restaurant is strictly liable for any food illness.",
-      "Yes, because food poisoning normally implies negligence.",
-      "No duty was owed by the restaurant to X."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
-  },
-  {
-    "id": 60,
-    "fact": "A customer buys a product from a store. The product later fails in an unusual way, causing injury. The customer sues the store for negligence.",
-    "options": [
-      "No, res ipsa loquitur does not apply because the instrumentality was not exclusively under the store’s control at the time of sale.",
-      "Yes, because the product’s unusual failure implies negligence.",
-      "No duty was owed by the store.",
-      "Yes, as strict liability of the seller applies."
-    ],
-    "answer": 0,
-    "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
-  },
-  {
-    "id": 61,
-    "fact": "A driver runs a red light (violating traffic law) and hits a pedestrian. The law was intended to protect pedestrians. The pedestrian sues.",
-    "options": [
-      "Yes, the driver is negligent per se for breaking a statute designed to protect pedestrians.",
-      "No, violating traffic laws cannot be used to establish negligence.",
-      "No duty was owed by the driver.",
-      "Strict liability applies instead of negligence."
-    ],
-    "answer": 0,
-    "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
-  },
-  {
-    "id": 62,
-    "fact": "Bart violates a building safety code by installing faulty wiring in an apartment building. A tenant (in the statute’s protected class) is injured by an electrical fire. The tenant sues Bart.",
-    "options": [
-      "Yes, Bart is negligent per se for violating the safety code meant to protect tenants.",
-      "No, building codes are non-binding guidelines.",
-      "No duty was owed by Bart to the tenant.",
-      "Strict liability applies to Bart, not negligence."
-    ],
-    "answer": 0,
-    "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
-  },
-  {
-    "id": 63,
-    "fact": "Clark parks illegally in a fire lane. An ambulance is delayed and a patient dies. The patient’s family sues Clark.",
-    "options": [
-      "Yes, Clark is negligent per se for violating the fire lane statute.",
-      "No, fire lane laws are unrelated to injury claims.",
-      "No duty was owed by Clark to the patient.",
-      "Strict liability on Clark for breaking the law."
-    ],
-    "answer": 0,
-    "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
-  },
-  {
-    "id": 64,
-    "fact": "Emily drives with an expired safety inspection sticker and gets into an accident causing injury. The victim sues Emily.",
-    "options": [
-      "Yes, Emily is negligent per se for violating the safety inspection statute.",
-      "No, inspection laws are only regulatory, not negligence.",
-      "No duty was owed by Emily to other drivers.",
-      "Strict liability applies, not negligence."
-    ],
-    "answer": 0,
-    "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
-  },
-  {
-    "id": 65,
-    "fact": "Farmer violates a statute requiring drivers to stop at railroad crossings and hits a train, injuring the conductor. The conductor sues the farmer.",
-    "options": [
-      "Yes, the farmer is negligent per se for breaking the railroad crossing statute meant to protect travelers.",
-      "No, only injuries to drivers are covered by that law.",
-      "No duty was owed by the farmer to the conductor.",
-      "Strict liability for the farmer’s vehicle."
-    ],
-    "answer": 0,
-    "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
-  },
-  {
-    "id": 66,
-    "fact": "An operator violates a maritime safety statute by not providing life jackets. A passenger drowns and the family sues for negligence per se.",
-    "options": [
-      "Yes, the operator is negligent per se for violating the safety statute.",
-      "No, safety statutes do not create negligence per se.",
-      "No duty was owed to that passenger.",
-      "Strict liability applies because of boating."
-    ],
-    "answer": 0,
-    "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
-  },
-  {
-    "id": 67,
-    "fact": "Frank leaves an unlocked trailer full of fireworks unattended. It explodes, injuring a neighbor. The neighbor sues Frank.",
-    "options": [
-      "Yes, storing fireworks is an abnormally dangerous activity, so Frank is strictly liable for harm.",
-      "No, Frank took reasonable care in securing the fireworks.",
-      "No duty was owed by Frank to the neighbor.",
-      "This is negligence per se."
-    ],
-    "answer": 0,
-    "rule": "A person who is found by a court to have carried on an abnormally dangerous activity will be subject to strict liability for any physical harm resulting from that activity."
-  },
-  {
-    "id": 68,
-    "fact": "Gail stores flammable chemicals in her backyard. An explosion occurs, injuring a neighbor. The neighbor sues Gail under strict liability.",
-    "options": [
-      "Gail is strictly liable because storing flammables is abnormally dangerous.",
-      "No, Gail took safety measures, so no liability.",
-      "No duty was owed to the neighbor.",
-      "Strict products liability applies, not general strict liability."
-    ],
-    "answer": 0,
-    "rule": "A person who is found by a court to have carried on an abnormally dangerous activity will be subject to strict liability for any physical harm resulting from that activity."
-  },
-  {
-    "id": 69,
-    "fact": "Keith sells an old chainsaw from his garage sale, and it injures Patrick when a blade detaches. Patrick sues Keith under strict liability.",
-    "options": [
-      "No, Keith is not strictly liable because he was not in the business of selling chainsaws.",
-      "Yes, any sale of a defective product by an individual imposes strict liability.",
-      "No, because Patrick assumed the risk of buying used tools.",
-      "Keith is negligent per se for failing to provide a safety warning."
-    ],
-    "answer": 0,
-    "rule": "One engaged in the business of selling or otherwise distributing products who sells or distributes a defective product is subject to liability for harm to persons or property caused by the defect."
-  },
-  {
-    "id": 70,
-    "fact": "A company sells a toaster with a defective heating element. The toaster injures a user. The user sues under strict products liability.",
-    "options": [
-      "Yes, the company is strictly liable for the defect that caused the injury.",
-      "No, only negligence claims are allowed.",
-      "No, the user assumed the risk of kitchen appliances.",
-      "No duty was owed by the company."
-    ],
-    "answer": 0,
-    "rule": "One engaged in the business of selling or otherwise distributing products who sells or distributes a defective product is subject to liability for harm to persons or property caused by the defect."
-  },
-  {
-    "id": 71,
-    "fact": "Lisa uses explosives without a permit, injuring a neighbor. The neighbor sues Lisa under strict liability.",
-    "options": [
-      "Yes, using explosives is an abnormally dangerous activity, so Lisa is strictly liable.",
-      "No, permits are irrelevant to liability.",
-      "No duty was owed by Lisa to the neighbor.",
-      "This is negligence per se, not strict liability."
-    ],
-    "answer": 0,
-    "rule": "A person who is found by a court to have carried on an abnormally dangerous activity will be subject to strict liability for any physical harm resulting from that activity."
-  },
-  {
-    "id": 72,
-    "fact": "John, a firearm manufacturer, sells a gun with a defective trigger. The gun injures a bystander. The bystander sues John under strict liability.",
-    "options": [
-      "Yes, John is strictly liable as the seller of a defective product.",
-      "No, firearm regulation bars negligence claims.",
-      "No duty was owed by John to bystanders.",
-      "John is only negligent if he knew of the defect."
-    ],
-    "answer": 0,
-    "rule": "One engaged in the business of selling or otherwise distributing products who sells or distributes a defective product is subject to liability for harm to persons or property caused by the defect."
-  },
-  {
-    "id": 73,
-    "fact": "Robin stores dynamite in her house. An accident leads to an explosion that injures a neighbor. The neighbor sues Robin under strict liability.",
-    "options": [
-      "Yes, storing dynamite is abnormally dangerous, so Robin is strictly liable.",
-      "No, home storage of explosives is not necessarily dangerous.",
-      "No duty was owed by Robin.",
-      "This is a negligence per se case."
-    ],
-    "answer": 0,
-    "rule": "A person who is found by a court to have carried on an abnormally dangerous activity will be subject to strict liability for any physical harm resulting from that activity."
-  },
-  {
-    "id": 74,
-    "fact": "Sam, a forklift operator, injures a coworker at work. The coworker sues Sam’s employer. Sam was acting within the scope of his employment.",
-    "options": [
-      "The employer is vicariously liable under respondeat superior.",
-      "The employer is not liable because Sam was solely at fault.",
-      "No duty was owed by the employer.",
-      "Strict liability applies to employers in this case."
-    ],
-    "answer": 0,
-    "rule": "Respondeat superior is a common law doctrine which provides that an employer may be held liable for the actions of its employee if the employee was acting within the scope of his or her employment when committing the tortious act."
-  },
-  {
-    "id": 75,
-    "fact": "Alice, a delivery driver, deviates from her route to run personal errands. During this detour, she negligently injures Paula. Paula sues Alice’s employer.",
-    "options": [
-      "The employer is not liable because Alice was acting outside the scope of employment.",
-      "The employer is still liable because Alice was an employee.",
-      "No duty was owed by the employer.",
-      "Strict liability applies to delivery companies."
-    ],
-    "answer": 0,
-    "rule": "An employer is only vicariously liable for damages resulting from the tortious acts of an employee when these acts were committed within the scope of his or her employment."
-  },
-  {
-    "id": 76,
-    "fact": "Bob, an off-duty employee, drives home and negligently injures Carla. Carla sues Bob’s employer.",
-    "options": [
-      "The employer is not liable because Bob was acting outside the scope of his employment.",
-      "The employer is liable because Bob is an employee.",
-      "No duty was owed by the employer.",
-      "Strict liability on the employer."
-    ],
-    "answer": 0,
-    "rule": "An employer is only vicariously liable for damages resulting from the tortious acts of an employee when these acts were committed within the scope of his or her employment."
-  },
-  {
-    "id": 77,
-    "fact": "A bar’s security guard assaults a customer while working. The customer sues the bar for vicarious liability.",
-    "options": [
-      "The bar is vicariously liable under respondeat superior.",
-      "The bar is not liable because intentional torts are outside scope.",
-      "No duty was owed by the bar.",
-      "Strict liability applies instead."
-    ],
-    "answer": 0,
-    "rule": "Respondeat superior is a common law doctrine which provides that an employer may be held liable for the actions of its employee if the employee was acting within the scope of his or her employment when committing the tortious act."
-  },
-  {
-    "id": 78,
-    "fact": "A truck driver working for a company negligently crashes while making a delivery. The injured pedestrian sues the company.",
-    "options": [
-      "The company is vicariously liable because the driver was acting within scope of employment.",
-      "The company is not liable if the driver was slightly late.",
-      "No duty was owed by the company.",
-      "Strict liability on shipping companies."
-    ],
-    "answer": 0,
-    "rule": "Respondeat superior is a common law doctrine which provides that an employer may be held liable for the actions of its employee if the employee was acting within the scope of his or her employment when committing the tortious act."
-  },
-  {
-    "id": 79,
-    "fact": "Hank, an employee, follows his supervisor’s orders outside of company policy and injures someone. The victim sues the company.",
-    "options": [
-      "The company is liable because Hank was acting within scope of employment.",
-      "The company is not liable because Hank acted against instructions.",
-      "No duty was owed by the company.",
-      "Strict liability applies to all employers."
-    ],
-    "answer": 0,
-    "rule": "Respondeat superior is a common law doctrine which provides that an employer may be held liable for the actions of its employee if the employee was acting within the scope of his or her employment when committing the tortious act."
-  },
-  {
-    "id": 80,
-    "fact": "In a jurisdiction with pure contributory negligence, a plaintiff is found 10% at fault and the defendant 90%. Can the plaintiff recover any damages?",
-    "options": [
-      "No, any fault by the plaintiff bars recovery.",
-      "Yes, she can recover 90% of damages.",
-      "Yes, she can recover 10% of damages.",
-      "This jurisdiction uses comparative negligence instead."
-    ],
-    "answer": 0,
-    "rule": "Contributory negligence was an incredibly harsh doctrine that denied any recovery if the plaintiff was even 1% at fault."
-  },
-  {
-    "id": 81,
-    "fact": "In a jurisdiction with pure contributory negligence, a plaintiff is 1% at fault for an accident. How much can she recover?",
-    "options": [
-      "0 (no recovery).",
-      "99% of damages.",
-      "1% of damages.",
-      "Full recovery, since fault is minimal."
-    ],
-    "answer": 0,
-    "rule": "Contributory negligence was an incredibly harsh doctrine that denied any recovery if the plaintiff was even 1% at fault."
-  },
-  {
-    "id": 82,
-    "fact": "In a pure comparative negligence jurisdiction, a plaintiff is 20% at fault and total damages are $100,000. How much can the plaintiff recover?",
-    "options": [
-      "$100,000",
-      "$80,000",
-      "$20,000",
-      "No recovery"
-    ],
-    "answer": 1,
-    "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
-  },
-  {
-    "id": 83,
-    "fact": "In a pure comparative negligence state, a plaintiff is 90% at fault for an accident. Can the plaintiff recover any damages?",
-    "options": [
-      "Yes, recover 10% of damages.",
-      "No, because her fault is majority.",
-      "Yes, she can recover fully.",
-      "No recovery because threshold is exceeded."
-    ],
-    "answer": 0,
-    "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
-  },
-  {
-    "id": 84,
-    "fact": "In a state with a 50% comparative negligence threshold, a plaintiff is found 49% at fault for her injury. Can she recover damages?",
-    "options": [
-      "Yes, she can recover 51% of damages.",
-      "No, because her fault is below 50%.",
-      "Yes, she recovers full damages.",
-      "No, she is barred because she was partly at fault."
-    ],
-    "answer": 0,
-    "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
-  },
-  {
-    "id": 85,
-    "fact": "In a state with a 51% comparative negligence threshold, a plaintiff is found 51% at fault for her injury. Can she recover damages?",
-    "options": [
-      "No, because her fault exceeds the threshold.",
-      "Yes, she can recover 49% of damages.",
-      "Yes, because threshold is strict.",
-      "No, strict liability applies instead."
-    ],
-    "answer": 0,
-    "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
-  },
-  {
-    "id": 86,
-    "fact": "In a pure comparative negligence jurisdiction, if a plaintiff is 0% at fault, how much can she recover?",
-    "options": [
-      "100% of damages",
-      "0",
-      "50%",
-      "It depends on fault"
-    ],
-    "answer": 0,
-    "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
-  },
-  {
-    "id": 87,
-    "fact": "In a pure comparative negligence jurisdiction, if a plaintiff is 100% at fault, how much can she recover?",
-    "options": [
-      "0",
-      "100%",
-      "50%",
-      "None of the above"
-    ],
-    "answer": 0,
-    "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
-  },
-  {
-    "id": 88,
-    "fact": "Which statement is true under pure contributory negligence?",
-    "options": [
-      "Any fault by the plaintiff bars recovery.",
-      "Only majority fault bars recovery.",
-      "Plaintiff’s fault reduces recovery proportionally.",
-      "Statutory law governs recovery."
-    ],
-    "answer": 0,
-    "rule": "Contributory negligence was an incredibly harsh doctrine that denied any recovery if the plaintiff was even 1% at fault."
-  },
-  {
-    "id": 89,
-    "fact": "Joe signs a waiver before going bungee jumping and later gets injured in the jump. He sues the operator for negligence.",
-    "options": [
-      "No, Joe assumed the risk of injury.",
-      "Yes, the operator was negligent in ensuring safety.",
-      "No, assumption of risk never applies to extreme sports.",
-      "Yes, because waivers are unenforceable."
-    ],
-    "answer": 0,
-    "rule": "This defense applies when the plaintiff voluntarily and knowingly accepted the risk of injury."
-  },
-  {
-    "id": 90,
-    "fact": "Kate goes skydiving and is injured. She sues the skydiving company.",
-    "options": [
-      "No, Kate assumed the known risks of skydiving.",
-      "Yes, the company was negligent per se.",
-      "No, because Kate was 100% at fault.",
-      "Yes, the company breached its duty of care."
-    ],
-    "answer": 0,
-    "rule": "This defense applies when the plaintiff voluntarily and knowingly accepted the risk of injury."
-  },
-  {
-    "id": 91,
-    "fact": "Lifeguards warn swimmers about hidden rocks. Paula swims and is injured by a rock. Paula sues the lifeguards.",
-    "options": [
-      "Paula assumed the risk of swimming there.",
-      "Lifeguards breached a duty by not placing signs.",
-      "Res ipsa loquitur applies.",
-      "No negligence because rock injuries happen."
-    ],
-    "answer": 0,
-    "rule": "This defense applies when the plaintiff voluntarily and knowingly accepted the risk of injury."
-  },
-  {
-    "id": 92,
-    "fact": "Under pure comparative negligence, a plaintiff is 10% at fault with $100,000 damages. How much does she recover?",
-    "options": [
-      "$90,000",
-      "$10,000",
-      "$100,000",
-      "$0"
-    ],
-    "answer": 0,
-    "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
-  },
-  {
-    "id": 93,
-    "fact": "Under pure comparative negligence, a plaintiff is 0% at fault. How much does she recover?",
-    "options": [
-      "100% of damages",
-      "50% of damages",
-      "0",
-      "Statutory amount"
-    ],
-    "answer": 0,
-    "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
-  },
-  {
-    "id": 94,
-    "fact": "Which statement is correct in a pure contributory negligence jurisdiction?",
-    "options": [
-      "Any fault by the plaintiff bars recovery.",
-      "Only majority fault bars recovery.",
-      "Plaintiff’s fault reduces recovery.",
-      "Statute of limitations bars recovery."
-    ],
-    "answer": 0,
-    "rule": "Contributory negligence was an incredibly harsh doctrine that denied any recovery if the plaintiff was even 1% at fault."
-  },
-  {
-    "id": 95,
-    "fact": "Lillian knowingly participates in a boxing match and is injured by a punch. She sues the boxer for negligence.",
-    "options": [
-      "Lillian assumed the risk of harm and cannot recover.",
-      "The boxer was negligent per se in punching her.",
-      "Res ipsa loquitur applies to the punch.",
-      "The boxing association is vicariously liable."
-    ],
-    "answer": 0,
-    "rule": "This defense applies when the plaintiff voluntarily and knowingly accepted the risk of injury."
-  },
-  {
-    "id": 96,
-    "fact": "Under pure comparative negligence, a plaintiff is 90% at fault. How much can she recover?",
-    "options": [
-      "10% of damages",
-      "90% of damages",
-      "100% of damages",
-      "0"
-    ],
-    "answer": 0,
-    "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
-  },
-  {
-    "id": 97,
-    "fact": "In a jurisdiction with a 51% comparative negligence limit, a plaintiff is 49% at fault. Can she recover?",
-    "options": [
-      "Yes, she can recover 51% of damages.",
-      "No, because her fault exceeds 50%.",
-      "Yes, because threshold is 51%.",
-      "No, because 49% is too high."
-    ],
-    "answer": 0,
-    "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
-  },
-  {
-    "id": 98,
-    "fact": "In a state with 50% comparative negligence threshold, a plaintiff is found 51% at fault. Can she recover any damages?",
-    "options": [
-      "No, her fault exceeds the threshold.",
-      "Yes, she can recover 49% of damages.",
-      "Yes, because threshold is at most 50%.",
-      "Yes, full recovery."
-    ],
-    "answer": 0,
-    "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
-  },
-  {
-    "id": 99,
-    "fact": "Morgan signs a waiver before rock climbing. She gets injured and sues the climbing gym for negligence.",
-    "options": [
-      "Morgan assumed the risk of injury and cannot recover.",
-      "The gym breached its duty to keep equipment safe.",
-      "Waivers are not recognized by law.",
-      "Res ipsa loquitur applies to injuries in climbing."
-    ],
-    "answer": 0,
-    "rule": "This defense applies when the plaintiff voluntarily and knowingly accepted the risk of injury."
-  },
-  {
-    "id": 100,
-    "fact": "A plaintiff steps into traffic negligently and is hit by a car. She sues the driver in a pure contributory negligence jurisdiction and is found 5% at fault.",
-    "options": [
-      "She cannot recover any damages.",
-      "She recovers 95% of damages.",
-      "She recovers 5% of damages.",
-      "She recovers full damages."
-    ],
-    "answer": 0,
-    "rule": "Contributory negligence was an incredibly harsh doctrine that denied any recovery if the plaintiff was even 1% at fault."
-  }
-]
+    "questions": [
+        {
+            "id": 1,
+            "fact": "While walking, Paula hears her neighbor screaming for help. Paula does nothing. The neighbor later sues Paula for negligence.",
+            "options": [
+                "A bystander has a duty to rescue, so Paula breached a legal duty by not acting.",
+                "Paula had no legal duty to rescue the neighbor, so no negligence claim can succeed.",
+                "Paula had a duty to call the police, so she breached her duty by not doing so.",
+                "Rescuers are strictly liable if they fail to help someone in danger, so Paula is liable."
+            ],
+            "answer": 1,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 2,
+            "fact": "David negligently starts a small fire in his yard which spreads and damages Patricia’s property. Patricia sues David for negligence.",
+            "options": [
+                "David had no duty to protect Patricia’s property from fire since this was an accident.",
+                "David had a legal duty to act with care (not cause harm), so he is negligent as his fire caused Patricia’s harm.",
+                "Under strict liability, David is liable regardless of precautions.",
+                "No negligence because the fire was an unforeseeable accident."
+            ],
+            "answer": 1,
+            "rule": "Generally, members of society have entered a social contract that includes a duty to not cause harm to others."
+        },
+        {
+            "id": 3,
+            "fact": "Forrest is walking when he hears his neighbor Alice screaming from the street for help. Forrest does nothing. Alice sues Forrest for negligence.",
+            "options": [
+                "Forrest had no legal duty to rescue Alice, so no negligence claim can succeed.",
+                "Forrest breached a legal duty because bystanders must assist others in danger.",
+                "Forrest had a duty to intervene, so he is negligent by doing nothing.",
+                "Forrest is strictly liable for failing to help because all bystanders share a duty of care."
+            ],
+            "answer": 0,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 4,
+            "fact": "Nathanik walks past a child who is choking on a toy and does nothing. The child's mother sues Nathanik for negligence.",
+            "options": [
+                "Nathanik had no duty to rescue the child, so no negligence.",
+                "Nathanik breached a duty because any person must assist in an emergency.",
+                "Nathanik had a duty to at least call emergency services.",
+                "Assumption of risk bars the child's claim in this case."
+            ],
+            "answer": 0,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 5,
+            "fact": "Sam digs a hole in the sidewalk but does not mark it or put up warnings. Ray later trips in the hole and is injured. Ray sues Sam for negligence.",
+            "options": [
+                "Sam had no duty because it was an accident.",
+                "Sam had a duty to guard the hole because he created the hazard, so he is negligent.",
+                "Ray is at fault for not watching where he walked, so Sam is not liable.",
+                "This is a case of negligence per se due to city code violation."
+            ],
+            "answer": 1,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 6,
+            "fact": "Leah sees a deep open well on her neighbor's property but does not warn Alan, who later falls in and is injured. Alan sues Leah for negligence.",
+            "options": [
+                "Leah had no duty to warn Alan about the well, so no negligence.",
+                "Leah had a duty to act because she knew of the danger, so she is negligent.",
+                "Leah is negligent per se for failing to warn of a known hazard.",
+                "Leah is strictly liable for the injury due to failure to act."
+            ],
+            "answer": 0,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 7,
+            "fact": "Derek walks past an accident scene without calling for help. The injured driver sues Derek for negligence.",
+            "options": [
+                "Derek had no duty to the accident victim, so he cannot be negligent.",
+                "Derek breached a duty of care by failing to help the victim.",
+                "Because Derek witnessed the accident, he assumed the risk of harm.",
+                "Derek is strictly liable for failing to assist."
+            ],
+            "answer": 0,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 8,
+            "fact": "Gabby is at a restaurant when another patron suddenly collapses from a heart attack. Gabby does nothing to help. The injured patron sues Gabby for negligence.",
+            "options": [
+                "Gabby had no duty to intervene, so she is not negligent.",
+                "Gabby breached a duty because as a good Samaritan she should assist.",
+                "Gabby is liable because bystanders must always help in emergencies.",
+                "Gabby assumed the risk of the collapse by being in public."
+            ],
+            "answer": 0,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 9,
+            "fact": "Abraham sees someone who fell on ice in a public park. He ignores the person. The injured person sues Abraham for negligence.",
+            "options": [
+                "Abraham had no duty to assist, so no negligence.",
+                "Abraham breached a duty because a reasonable person would help.",
+                "Abraham is liable because he voluntarily assumed a duty to help.",
+                "Strict liability applies to Abraham for being present."
+            ],
+            "answer": 0,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 10,
+            "fact": "Robert, driving carefully, stops for an ambulance. He hears another driver honking but doesn't help a crash victim. The victim sues Robert.",
+            "options": [
+                "Robert had no duty since he did not cause the crash, so no negligence.",
+                "Robert is negligent for not helping the victim.",
+                "Robert breached his duty by blocking the road.",
+                "Robert is protected by emergency responder immunity."
+            ],
+            "answer": 0,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 11,
+            "fact": "Blake, a mailman, finishes his route and heads home. On the way, he sees a pedestrian fall but does nothing. The pedestrian sues Blake for negligence.",
+            "options": [
+                "Blake had no legal duty to the pedestrian at that time, so no negligence.",
+                "Blake breached a duty because he should have helped the pedestrian.",
+                "Blake assumed risk by not helping.",
+                "Blake is strictly liable for not intervening."
+            ],
+            "answer": 0,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 12,
+            "fact": "Mechanic John finishes fixing Anna's car but fails to secure a wheel properly. Anna drives away, the wheel falls off, and injures a bystander. The bystander sues John.",
+            "options": [
+                "John had no duty after the car left the shop.",
+                "John breached a duty to ensure the car was safe.",
+                "The bystander is at fault for not watching the car.",
+                "This is a case of assumption of risk by the bystander."
+            ],
+            "answer": 1,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 13,
+            "fact": "Leah is at a movie theater when a brawl breaks out. She sees it happening but does nothing to help. Someone injured in the brawl sues Leah.",
+            "options": [
+                "Leah had no duty to intervene in the brawl, so no negligence.",
+                "Leah breached a duty by not trying to stop the fight.",
+                "Leah assumed the risk of being in the theater.",
+                "Leah is strictly liable for any injuries in the theater."
+            ],
+            "answer": 0,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 14,
+            "fact": "Ethan leaves his baby sitting in a bathtub and goes to make a phone call. The baby nearly drowns and sues Ethan’s father for negligence.",
+            "options": [
+                "Ethan’s father had no duty to supervise Ethan’s actions, so no negligence.",
+                "Ethan’s father breached his duty by allowing Ethan to leave the baby unsupervised.",
+                "No one had a duty to the baby in this scenario.",
+                "This is strict liability because a child was harmed."
+            ],
+            "answer": 0,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 15,
+            "fact": "Hannah hears a baby cry in the distance but doesn't investigate. The baby's parents sue Hannah for negligence.",
+            "options": [
+                "No duty to assist distant cries, so no negligence.",
+                "Hannah breached a duty by not investigating the cry.",
+                "Hannah is liable under negligence per se.",
+                "Hannah assumed the risk of the cry."
+            ],
+            "answer": 0,
+            "rule": "Negligence requires the existence of a legal duty."
+        },
+        {
+            "id": 16,
+            "fact": "Amy is texting while driving and fails to stop at a red light, hitting Brian. Brian sues Amy for negligence.",
+            "options": [
+                "Amy’s actions were reasonable under the circumstances.",
+                "Amy breached her duty because a reasonable driver would not text while driving.",
+                "Amy did not breach any duty if the light was malfunctioning.",
+                "Amy is strictly liable for hitting Brian."
+            ],
+            "answer": 1,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 17,
+            "fact": "Dr. Elm ignores standard diagnostic tests for a patient’s symptoms. The patient suffers serious harm and sues Dr. Elm.",
+            "options": [
+                "Dr. Elm breached his duty because a reasonable doctor would have ordered tests.",
+                "Dr. Elm did not breach his duty if he honestly believed the tests were unnecessary.",
+                "Dr. Elm had no duty under emergency circumstances.",
+                "The patient assumed the risk by seeking medical help."
+            ],
+            "answer": 0,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 18,
+            "fact": "Carl owns a dog that is chained but prone to aggression. The dog escapes and bites Paula. Paula sues Carl for negligence.",
+            "options": [
+                "Carl breached his duty by not properly restraining a dangerous dog.",
+                "Carl did not breach any duty because he is not responsible for the dog’s actions.",
+                "There is no legal duty owed by Carl to Paula.",
+                "This is a case of strict liability per se."
+            ],
+            "answer": 0,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 19,
+            "fact": "David leaks oil on the road. A car skids on the oil and injures Quinn. Quinn sues David.",
+            "options": [
+                "David did not breach his duty; the accident was not his fault.",
+                "David breached his duty because a reasonable driver would not leave oil on the road.",
+                "Quinn was on notice of road hazards.",
+                "Oil spills have no duty per standard of care."
+            ],
+            "answer": 1,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 20,
+            "fact": "Nurse Nina fails to change a surgical wound bandage for several days. The patient suffers a severe infection and sues Nina.",
+            "options": [
+                "Nina breached her duty because a reasonable nurse would have cared for the patient.",
+                "Nina did not breach duty if the infection could happen regardless.",
+                "Nina had no duty on a weekend.",
+                "Nina is strictly liable for any patient injury."
+            ],
+            "answer": 0,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 21,
+            "fact": "Mark performs CPR on a stranger who collapses. The stranger later dies. The stranger’s family sues Mark for negligence.",
+            "options": [
+                "Mark breached a duty because he performed CPR incorrectly.",
+                "Mark did not breach any duty; he attempted rescue and was not negligent.",
+                "Mark had no duty to begin CPR, so no negligence.",
+                "Mark is strictly liable for the death because he intervened."
+            ],
+            "answer": 1,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 22,
+            "fact": "Nelson was speeding (60 mph in a 40 mph zone) when he struck and injured Owen. Owen sues Nelson for negligence.",
+            "options": [
+                "Nelson breached his duty because a reasonable driver would obey the speed limit.",
+                "Nelson did not breach his duty; the accident was Owen’s fault for jaywalking.",
+                "Nelson had no duty because speed limits are advisory.",
+                "Nelson is strictly liable for all injuries when speeding."
+            ],
+            "answer": 0,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 23,
+            "fact": "Frank negligently mounts a heavy sign above a doorway. The sign falls and injures Peter, who sues Frank.",
+            "options": [
+                "Frank breached his duty because a reasonable person would have secured the sign.",
+                "Frank did not breach duty because the accident was unpredictable.",
+                "No duty was owed since it was an accident.",
+                "This is a strict liability case, not negligence."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 24,
+            "fact": "George throws a rock from a bridge, and it injures Paula walking below. Paula sues George.",
+            "options": [
+                "George is negligent because throwing rocks was not reasonable.",
+                "George is negligent because any rock-throwing is strict liability.",
+                "George did not breach duty if he did not intend harm.",
+                "This is covered by assumption of risk."
+            ],
+            "answer": 0,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 25,
+            "fact": "Sabine digs a large hole at a construction site and forgets to mark it. A worker falls in and is injured. The worker sues Sabine.",
+            "options": [
+                "Sabine breached her duty because a reasonable person would have guarded the hole.",
+                "Sabine did not breach duty because accidents happen at construction sites.",
+                "Sabine had no duty to workers at the site.",
+                "This is strict products liability."
+            ],
+            "answer": 0,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 26,
+            "fact": "Todd leaves a hazardous chemical spill unattended at night. Emily falls in and is injured. Emily sues Todd.",
+            "options": [
+                "Todd breached his duty because a reasonable person would have cleaned the spill.",
+                "Todd did not breach duty if the spill was unnoticed.",
+                "No duty is owed for spills.",
+                "Emily assumed the risk of hazardous chemicals."
+            ],
+            "answer": 0,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 27,
+            "fact": "Victor leaves a loaded handgun unsecured. His friend, unaware, picks it up and it accidentally discharges, injuring Nora. Nora sues Victor.",
+            "options": [
+                "Victor breached his duty by not securing a dangerous weapon.",
+                "Victor did not breach duty because Nora put herself in danger.",
+                "No duty was owed by Victor in this situation.",
+                "This is a negligence per se case."
+            ],
+            "answer": 0,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 28,
+            "fact": "Bob neglects to shovel his snowy sidewalk. Sarah slips and is injured. Sarah sues Bob for negligence.",
+            "options": [
+                "Bob breached his duty because a reasonable homeowner would clear the sidewalk.",
+                "Bob did not breach duty because falls are inherent risks of winter.",
+                "No duty was owed to pedestrians in this case.",
+                "Sarah assumed the risk of walking on a snowy sidewalk."
+            ],
+            "answer": 0,
+            "rule": "Negligence is the failure to behave with the level of care that a reasonable person would have exercised under the same circumstances."
+        },
+        {
+            "id": 29,
+            "fact": "Ethan sells a defective car part that causes Fiona’s accident. Fiona sues Ethan for negligence.",
+            "options": [
+                "Ethan is the cause-in-fact because without his sale, the accident would not have occurred.",
+                "Ethan is not the cause-in-fact because others might have sold similar parts.",
+                "Ethan’s liability is strict because he sold a part.",
+                "No duty on Ethan means no causation required."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
+        },
+        {
+            "id": 30,
+            "fact": "Walter, a doctor, administers an incorrect medication. The patient dies, but the patient had a terminal illness and would have died anyway. The patient’s estate sues Walter.",
+            "options": [
+                "Walter is the cause-in-fact of the death regardless of the illness.",
+                "Walter is not the cause-in-fact because the patient would have died anyway.",
+                "Walter had no legal duty, so causation is irrelevant.",
+                "The death is covered by assumption of risk."
+            ],
+            "answer": 1,
+            "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
+        },
+        {
+            "id": 31,
+            "fact": "Xan accidentally cuts a gas line. The ensuing explosion injures Marcus. The injured party sues Xan.",
+            "options": [
+                "Xan is the cause-in-fact because, but for his cut, the explosion would not have occurred.",
+                "Xan is not the cause-in-fact because the spark was unforeseeable.",
+                "No duty was owed by Xan.",
+                "This is a negligence per se case."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
+        },
+        {
+            "id": 32,
+            "fact": "Alpha and Beta each negligently push Cara into a river at the same time, and she drowns. Alpha sues Beta, claiming causation.",
+            "options": [
+                "Neither is the sole cause-in-fact because Cara would have drowned from either push.",
+                "Alpha is the cause because his push was stronger.",
+                "Beta is the cause under a joint and several theory.",
+                "Res ipsa loquitur applies instead of causation."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
+        },
+        {
+            "id": 33,
+            "fact": "Chef negligently leaves a stove on. Lightning ignites an unnoticed gas leak, injuring Nora. Nora sues the chef.",
+            "options": [
+                "The chef is the cause-in-fact because without the gas leak, no injury would have occurred.",
+                "The chef is not the cause-in-fact because the lightning was a superseding cause.",
+                "No duty on the chef because he is not a storm protector.",
+                "Strict liability applies to the storm."
+            ],
+            "answer": 1,
+            "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
+        },
+        {
+            "id": 34,
+            "fact": "Wendy owns a bus and fails to maintain the brakes properly. The bus injures a pedestrian who sues Wendy. If Wendy had maintained the brakes, the injury would not have occurred.",
+            "options": [
+                "Wendy is the cause-in-fact since, but for her failure, the injury would not have happened.",
+                "Wendy is not the cause because another bus driver could have caused it.",
+                "No duty on Wendy implies no causation needed.",
+                "This is strict liability on bus owners."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff’s harm would not have occurred but for the defendant’s conduct."
+        },
+        {
+            "id": 35,
+            "fact": "Peggy breaches her duty when the dog escapes and bites someone. Peggy sues and claims bailment.",
+            "options": [
+                "Peggy is still liable because her breach is the actual and proximate cause of the bite.",
+                "Peggy's negligence was not a cause-in-fact because the dog's actions were unforeseeable.",
+                "Peggy had no duty since she didn’t directly handle the dog then.",
+                "The victim assumed the risk of dog bites."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 36,
+            "fact": "B shoots a gun into the air and a stray bullet hits Charlie. Charlie sues B.",
+            "options": [
+                "B is the proximate cause because his breach caused Charlie’s injury.",
+                "B is not the proximate cause since falling bullets are unforeseeable.",
+                "B had no legal duty to Charlie.",
+                "This is a res ipsa loquitur case."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 37,
+            "fact": "George throws a rock from a bridge that hits Paula below. Paula sues George for negligence.",
+            "options": [
+                "George is the proximate cause because his actions foreseeably injured Paula.",
+                "George is not the proximate cause because the rock falling is unforeseeable.",
+                "No duty was owed by George to Paula.",
+                "This is a negligence per se case."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 38,
+            "fact": "Frank negligently mounts a sign above a doorway that falls and injures Peter. Peter sues Frank for negligence.",
+            "options": [
+                "Frank is the proximate cause because his breach directly caused Peter’s injury.",
+                "Frank is not the proximate cause because the fall was unpredictable.",
+                "No duty was owed in this case.",
+                "Strict liability applies to Frank."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 39,
+            "fact": "Henry negligently drives toward Ivy, who jumps aside. Seconds later, a bystander shoots Ivy dead. Ivy’s estate sues Henry.",
+            "options": [
+                "Henry is the proximate cause because his negligence led to Ivy’s harm.",
+                "No: the shooting was an unforeseeable, superseding cause, so Henry is not liable.",
+                "Henry breached duty to Ivy by causing her to jump.",
+                "This case is barred by assumption of risk."
+            ],
+            "answer": 1,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 40,
+            "fact": "Jake leaves his truck’s cargo door open in a dark area, and Kyle drives into it, injuring himself. Kyle sues Jake.",
+            "options": [
+                "Jake is the proximate cause because his breach led directly to Kyle’s injury.",
+                "No: the darkness was a superseding cause.",
+                "No duty was owed by Jake.",
+                "This is a products liability case."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 41,
+            "fact": "Larry negligently spills flammable oil on the highway. Hours later, lightning strikes and ignites the oil, injuring Quinn. Quinn sues Larry.",
+            "options": [
+                "Larry is the proximate cause because his breach caused Quinn’s injury.",
+                "No: the lightning strike was an unforeseeable, superseding cause.",
+                "No negligence because of assumption of risk.",
+                "Strict liability on Larry."
+            ],
+            "answer": 1,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 42,
+            "fact": "Mark negligently attaches a malfunctioning new part, and several years later it causes an accident injuring Noel. Noel sues Mark.",
+            "options": [
+                "Mark is the proximate cause because his breach directly caused Noel’s injury.",
+                "No: the years-long delay was unforeseeable, breaking the chain of causation.",
+                "No duty was owed by Mark in this case.",
+                "Strict liability applies to Mark."
+            ],
+            "answer": 1,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 43,
+            "fact": "Robin negligently leaves a flammable gas canister on a busy street. A car accident ignites the gas, injuring Stuart. Stuart sues Robin.",
+            "options": [
+                "Robin is the proximate cause because the hazard he created directly led to the injury.",
+                "No: the accident ignition was unforeseeable, so Robin is not liable.",
+                "No duty was owed by Robin.",
+                "Strict liability on Robin."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 44,
+            "fact": "Tom negligently runs a red light, causing a car crash. One driver dies from injuries two days later. The deceased’s family sues Tom.",
+            "options": [
+                "Tom is the proximate cause because his negligence led to the death.",
+                "No: the two-day interval was unforeseeable and breaks causation.",
+                "No duty existed for deaths after delay.",
+                "This is strict liability."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 45,
+            "fact": "Vince negligently fails to turn off a stove. Noah turns it off safely. Noah later sues Vince for negligence.",
+            "options": [
+                "Vince is negligent because he breached his duty by leaving the stove on.",
+                "No, Vince had no duty since Noah fixed the problem.",
+                "No duty because it was accidental.",
+                "This is a case of assumption of risk."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 46,
+            "fact": "Xander leaves his chainsaw running unattended. The saw suddenly jerks and injures P. P sues Xander.",
+            "options": [
+                "Xander is the proximate cause because his breach led directly to P’s injury.",
+                "No: the saw’s sudden malfunction was unforeseeable.",
+                "No duty was owed by Xander.",
+                "This falls under products liability."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 47,
+            "fact": "Yvette digs an unmarked hole in a park. Two days later, a jogger trips and is injured. The jogger sues Yvette.",
+            "options": [
+                "Yvette is the proximate cause because her breach created the hazard causing the injury.",
+                "No: the two-day gap was unforeseeable, breaking causation.",
+                "No duty owed for gardener’s actions.",
+                "Strict liability for Yvette."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 48,
+            "fact": "Xerox negligently lets an oily rag remain on a floor. A person slips on it immediately and is injured. The person sues Xerox.",
+            "options": [
+                "Xerox is the proximate cause because its breach directly caused the injury.",
+                "No: cleaning staff failure was intervening, Xerox not liable.",
+                "No duty was owed by Xerox.",
+                "This is a comparative negligence case."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 49,
+            "fact": "Barry leaves his toolbox in the middle of a dark sidewalk. A pedestrian trips over it and is injured. The pedestrian sues Barry.",
+            "options": [
+                "Barry is the proximate cause because his negligence directly caused the injury.",
+                "No: the darkness was a superseding cause.",
+                "No duty was owed by Barry.",
+                "Strict liability on Barry."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 50,
+            "fact": "Zach negligently leaves a puddle of gasoline in his driveway. A car accident hours later ignites it and injures Deborah. Deborah sues Zach.",
+            "options": [
+                "Zach is the proximate cause because his breach foreseeably caused the injury.",
+                "No: the car accident ignition was unforeseeable, so Zach is not liable.",
+                "No duty was owed by Zach.",
+                "Strict liability on Zach."
+            ],
+            "answer": 1,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 51,
+            "fact": "Eugene negligently dumps flammable solvent in an alley. Later, an arsonist’s random fire ignites it, injuring Fred. Fred sues Eugene.",
+            "options": [
+                "Eugene is the proximate cause because his breach created the hazard.",
+                "No: the arson was unforeseeable, so Eugene is not liable.",
+                "No duty was owed by Eugene.",
+                "This is assumption of risk by Fred."
+            ],
+            "answer": 1,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 52,
+            "fact": "Ricky fails to properly ground an electrical outlet. A surge causes a fire the next day that injures Sue, who sues Ricky.",
+            "options": [
+                "Ricky is the proximate cause because his breach directly led to Sue’s injury.",
+                "No: the electrical surge was unforeseeable, breaking the chain.",
+                "No duty to fireproof outlets.",
+                "Strict liability for electricians."
+            ],
+            "answer": 0,
+            "rule": "To satisfy proximate cause, the defendant’s breach of the duty of care must be the actual cause of the harm to the plaintiff."
+        },
+        {
+            "id": 53,
+            "fact": "A pedestrian is struck by a heavy hanging sign that suddenly falls while he walks underneath it. The pedestrian sues the sign’s owner.",
+            "options": [
+                "Yes, res ipsa loquitur applies because such an accident suggests negligence.",
+                "No, res ipsa loquitur cannot apply because the owner was careful.",
+                "No duty was owed by the owner.",
+                "Strict liability applies, not negligence."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
+        },
+        {
+            "id": 54,
+            "fact": "A weightlifter drops a barbell in a gym changing room, injuring an innocent bystander. The injured person sues the gym owner.",
+            "options": [
+                "Yes, because dropping heavy equipment normally implies negligence.",
+                "No, barbell drops are accidents and do not imply negligence.",
+                "No duty was owed by the gym owner.",
+                "Strict liability for gyms covers this."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
+        },
+        {
+            "id": 55,
+            "fact": "An elevator suddenly plummets several floors without explanation, injuring a passenger. The passenger sues the elevator maintenance company.",
+            "options": [
+                "Yes, res ipsa loquitur applies because such failure usually implies negligence.",
+                "No, mechanical failures can happen even with care, so no inference.",
+                "No duty was owed by the maintenance company.",
+                "This is a strict products liability case."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
+        },
+        {
+            "id": 56,
+            "fact": "The windows of an airplane cockpit shatter mid-flight for no apparent reason, injuring a flight attendant. The attendant sues the airline.",
+            "options": [
+                "Yes, res ipsa loquitur applies given the unexplained cockpit failure.",
+                "No, there could be many causes, so no inference.",
+                "No duty was owed by the airline.",
+                "Strict liability on the airline automatically applies."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
+        },
+        {
+            "id": 57,
+            "fact": "A cement block falls from a construction crane onto a car, injuring the driver. The driver sues the construction company.",
+            "options": [
+                "Yes, res ipsa loquitur applies because the accident implies negligence in control of the crane.",
+                "No, falling objects can happen with or without negligence.",
+                "No duty was owed by the construction company.",
+                "This is a strict liability situation, not negligence."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
+        },
+        {
+            "id": 58,
+            "fact": "Vince buys a used motorcycle from Wally and later has a brake failure accident. Vince sues Wally for negligence.",
+            "options": [
+                "No, res ipsa loquitur does not apply because the instrumentality was not exclusively Wally’s control at the time of sale.",
+                "Yes, because brake failure normally implies negligence.",
+                "No duty was owed by Wally.",
+                "Yes, as in strict liability of a seller."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
+        },
+        {
+            "id": 59,
+            "fact": "X eats at a restaurant and gets severe food poisoning when he is the only one who ate a particular dish. X sues the restaurant.",
+            "options": [
+                "No, res ipsa loquitur does not apply when others were not affected.",
+                "Yes, the restaurant is strictly liable for any food illness.",
+                "Yes, because food poisoning normally implies negligence.",
+                "No duty was owed by the restaurant to X."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
+        },
+        {
+            "id": 60,
+            "fact": "A customer buys a product from a store. The product later fails in an unusual way, causing injury. The customer sues the store for negligence.",
+            "options": [
+                "No, res ipsa loquitur does not apply because the instrumentality was not exclusively under the store’s control at the time of sale.",
+                "Yes, because the product’s unusual failure implies negligence.",
+                "No duty was owed by the store.",
+                "Yes, as strict liability of the seller applies."
+            ],
+            "answer": 0,
+            "rule": "the plaintiff can create a rebuttable presumption of negligence by proving that the harm would not ordinarily have occurred without the negligence of the defendant, that the object that caused the harm was under the defendant’s control, and that there are no other plausible explanations."
+        },
+        {
+            "id": 61,
+            "fact": "A driver runs a red light (violating traffic law) and hits a pedestrian. The law was intended to protect pedestrians. The pedestrian sues.",
+            "options": [
+                "Yes, the driver is negligent per se for breaking a statute designed to protect pedestrians.",
+                "No, violating traffic laws cannot be used to establish negligence.",
+                "No duty was owed by the driver.",
+                "Strict liability applies instead of negligence."
+            ],
+            "answer": 0,
+            "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
+        },
+        {
+            "id": 62,
+            "fact": "Bart violates a building safety code by installing faulty wiring in an apartment building. A tenant (in the statute’s protected class) is injured by an electrical fire. The tenant sues Bart.",
+            "options": [
+                "Yes, Bart is negligent per se for violating the safety code meant to protect tenants.",
+                "No, building codes are non-binding guidelines.",
+                "No duty was owed by Bart to the tenant.",
+                "Strict liability applies to Bart, not negligence."
+            ],
+            "answer": 0,
+            "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
+        },
+        {
+            "id": 63,
+            "fact": "Clark parks illegally in a fire lane. An ambulance is delayed and a patient dies. The patient’s family sues Clark.",
+            "options": [
+                "Yes, Clark is negligent per se for violating the fire lane statute.",
+                "No, fire lane laws are unrelated to injury claims.",
+                "No duty was owed by Clark to the patient.",
+                "Strict liability on Clark for breaking the law."
+            ],
+            "answer": 0,
+            "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
+        },
+        {
+            "id": 64,
+            "fact": "Emily drives with an expired safety inspection sticker and gets into an accident causing injury. The victim sues Emily.",
+            "options": [
+                "Yes, Emily is negligent per se for violating the safety inspection statute.",
+                "No, inspection laws are only regulatory, not negligence.",
+                "No duty was owed by Emily to other drivers.",
+                "Strict liability applies, not negligence."
+            ],
+            "answer": 0,
+            "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
+        },
+        {
+            "id": 65,
+            "fact": "Farmer violates a statute requiring drivers to stop at railroad crossings and hits a train, injuring the conductor. The conductor sues the farmer.",
+            "options": [
+                "Yes, the farmer is negligent per se for breaking the railroad crossing statute meant to protect travelers.",
+                "No, only injuries to drivers are covered by that law.",
+                "No duty was owed by the farmer to the conductor.",
+                "Strict liability for the farmer’s vehicle."
+            ],
+            "answer": 0,
+            "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
+        },
+        {
+            "id": 66,
+            "fact": "An operator violates a maritime safety statute by not providing life jackets. A passenger drowns and the family sues for negligence per se.",
+            "options": [
+                "Yes, the operator is negligent per se for violating the safety statute.",
+                "No, safety statutes do not create negligence per se.",
+                "No duty was owed to that passenger.",
+                "Strict liability applies because of boating."
+            ],
+            "answer": 0,
+            "rule": "In a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law."
+        },
+        {
+            "id": 67,
+            "fact": "Frank leaves an unlocked trailer full of fireworks unattended. It explodes, injuring a neighbor. The neighbor sues Frank.",
+            "options": [
+                "Yes, storing fireworks is an abnormally dangerous activity, so Frank is strictly liable for harm.",
+                "No, Frank took reasonable care in securing the fireworks.",
+                "No duty was owed by Frank to the neighbor.",
+                "This is negligence per se."
+            ],
+            "answer": 0,
+            "rule": "A person who is found by a court to have carried on an abnormally dangerous activity will be subject to strict liability for any physical harm resulting from that activity."
+        },
+        {
+            "id": 68,
+            "fact": "Gail stores flammable chemicals in her backyard. An explosion occurs, injuring a neighbor. The neighbor sues Gail under strict liability.",
+            "options": [
+                "Gail is strictly liable because storing flammables is abnormally dangerous.",
+                "No, Gail took safety measures, so no liability.",
+                "No duty was owed to the neighbor.",
+                "Strict products liability applies, not general strict liability."
+            ],
+            "answer": 0,
+            "rule": "A person who is found by a court to have carried on an abnormally dangerous activity will be subject to strict liability for any physical harm resulting from that activity."
+        },
+        {
+            "id": 69,
+            "fact": "Keith sells an old chainsaw from his garage sale, and it injures Patrick when a blade detaches. Patrick sues Keith under strict liability.",
+            "options": [
+                "No, Keith is not strictly liable because he was not in the business of selling chainsaws.",
+                "Yes, any sale of a defective product by an individual imposes strict liability.",
+                "No, because Patrick assumed the risk of buying used tools.",
+                "Keith is negligent per se for failing to provide a safety warning."
+            ],
+            "answer": 0,
+            "rule": "One engaged in the business of selling or otherwise distributing products who sells or distributes a defective product is subject to liability for harm to persons or property caused by the defect."
+        },
+        {
+            "id": 70,
+            "fact": "A company sells a toaster with a defective heating element. The toaster injures a user. The user sues under strict products liability.",
+            "options": [
+                "Yes, the company is strictly liable for the defect that caused the injury.",
+                "No, only negligence claims are allowed.",
+                "No, the user assumed the risk of kitchen appliances.",
+                "No duty was owed by the company."
+            ],
+            "answer": 0,
+            "rule": "One engaged in the business of selling or otherwise distributing products who sells or distributes a defective product is subject to liability for harm to persons or property caused by the defect."
+        },
+        {
+            "id": 71,
+            "fact": "Lisa uses explosives without a permit, injuring a neighbor. The neighbor sues Lisa under strict liability.",
+            "options": [
+                "Yes, using explosives is an abnormally dangerous activity, so Lisa is strictly liable.",
+                "No, permits are irrelevant to liability.",
+                "No duty was owed by Lisa to the neighbor.",
+                "This is negligence per se, not strict liability."
+            ],
+            "answer": 0,
+            "rule": "A person who is found by a court to have carried on an abnormally dangerous activity will be subject to strict liability for any physical harm resulting from that activity."
+        },
+        {
+            "id": 72,
+            "fact": "John, a firearm manufacturer, sells a gun with a defective trigger. The gun injures a bystander. The bystander sues John under strict liability.",
+            "options": [
+                "Yes, John is strictly liable as the seller of a defective product.",
+                "No, firearm regulation bars negligence claims.",
+                "No duty was owed by John to bystanders.",
+                "John is only negligent if he knew of the defect."
+            ],
+            "answer": 0,
+            "rule": "One engaged in the business of selling or otherwise distributing products who sells or distributes a defective product is subject to liability for harm to persons or property caused by the defect."
+        },
+        {
+            "id": 73,
+            "fact": "Robin stores dynamite in her house. An accident leads to an explosion that injures a neighbor. The neighbor sues Robin under strict liability.",
+            "options": [
+                "Yes, storing dynamite is abnormally dangerous, so Robin is strictly liable.",
+                "No, home storage of explosives is not necessarily dangerous.",
+                "No duty was owed by Robin.",
+                "This is a negligence per se case."
+            ],
+            "answer": 0,
+            "rule": "A person who is found by a court to have carried on an abnormally dangerous activity will be subject to strict liability for any physical harm resulting from that activity."
+        },
+        {
+            "id": 74,
+            "fact": "Sam, a forklift operator, injures a coworker at work. The coworker sues Sam’s employer. Sam was acting within the scope of his employment.",
+            "options": [
+                "The employer is vicariously liable under respondeat superior.",
+                "The employer is not liable because Sam was solely at fault.",
+                "No duty was owed by the employer.",
+                "Strict liability applies to employers in this case."
+            ],
+            "answer": 0,
+            "rule": "Respondeat superior is a common law doctrine which provides that an employer may be held liable for the actions of its employee if the employee was acting within the scope of his or her employment when committing the tortious act."
+        },
+        {
+            "id": 75,
+            "fact": "Alice, a delivery driver, deviates from her route to run personal errands. During this detour, she negligently injures Paula. Paula sues Alice’s employer.",
+            "options": [
+                "The employer is not liable because Alice was acting outside the scope of employment.",
+                "The employer is still liable because Alice was an employee.",
+                "No duty was owed by the employer.",
+                "Strict liability applies to delivery companies."
+            ],
+            "answer": 0,
+            "rule": "An employer is only vicariously liable for damages resulting from the tortious acts of an employee when these acts were committed within the scope of his or her employment."
+        },
+        {
+            "id": 76,
+            "fact": "Bob, an off-duty employee, drives home and negligently injures Carla. Carla sues Bob’s employer.",
+            "options": [
+                "The employer is not liable because Bob was acting outside the scope of his employment.",
+                "The employer is liable because Bob is an employee.",
+                "No duty was owed by the employer.",
+                "Strict liability on the employer."
+            ],
+            "answer": 0,
+            "rule": "An employer is only vicariously liable for damages resulting from the tortious acts of an employee when these acts were committed within the scope of his or her employment."
+        },
+        {
+            "id": 77,
+            "fact": "A bar’s security guard assaults a customer while working. The customer sues the bar for vicarious liability.",
+            "options": [
+                "The bar is vicariously liable under respondeat superior.",
+                "The bar is not liable because intentional torts are outside scope.",
+                "No duty was owed by the bar.",
+                "Strict liability applies instead."
+            ],
+            "answer": 0,
+            "rule": "Respondeat superior is a common law doctrine which provides that an employer may be held liable for the actions of its employee if the employee was acting within the scope of his or her employment when committing the tortious act."
+        },
+        {
+            "id": 78,
+            "fact": "A truck driver working for a company negligently crashes while making a delivery. The injured pedestrian sues the company.",
+            "options": [
+                "The company is vicariously liable because the driver was acting within scope of employment.",
+                "The company is not liable if the driver was slightly late.",
+                "No duty was owed by the company.",
+                "Strict liability on shipping companies."
+            ],
+            "answer": 0,
+            "rule": "Respondeat superior is a common law doctrine which provides that an employer may be held liable for the actions of its employee if the employee was acting within the scope of his or her employment when committing the tortious act."
+        },
+        {
+            "id": 79,
+            "fact": "Hank, an employee, follows his supervisor’s orders outside of company policy and injures someone. The victim sues the company.",
+            "options": [
+                "The company is liable because Hank was acting within scope of employment.",
+                "The company is not liable because Hank acted against instructions.",
+                "No duty was owed by the company.",
+                "Strict liability applies to all employers."
+            ],
+            "answer": 0,
+            "rule": "Respondeat superior is a common law doctrine which provides that an employer may be held liable for the actions of its employee if the employee was acting within the scope of his or her employment when committing the tortious act."
+        },
+        {
+            "id": 80,
+            "fact": "In a jurisdiction with pure contributory negligence, a plaintiff is found 10% at fault and the defendant 90%. Can the plaintiff recover any damages?",
+            "options": [
+                "No, any fault by the plaintiff bars recovery.",
+                "Yes, she can recover 90% of damages.",
+                "Yes, she can recover 10% of damages.",
+                "This jurisdiction uses comparative negligence instead."
+            ],
+            "answer": 0,
+            "rule": "Contributory negligence was an incredibly harsh doctrine that denied any recovery if the plaintiff was even 1% at fault."
+        },
+        {
+            "id": 81,
+            "fact": "In a jurisdiction with pure contributory negligence, a plaintiff is 1% at fault for an accident. How much can she recover?",
+            "options": [
+                "0 (no recovery).",
+                "99% of damages.",
+                "1% of damages.",
+                "Full recovery, since fault is minimal."
+            ],
+            "answer": 0,
+            "rule": "Contributory negligence was an incredibly harsh doctrine that denied any recovery if the plaintiff was even 1% at fault."
+        },
+        {
+            "id": 82,
+            "fact": "In a pure comparative negligence jurisdiction, a plaintiff is 20% at fault and total damages are $100,000. How much can the plaintiff recover?",
+            "options": [
+                "$100,000",
+                "$80,000",
+                "$20,000",
+                "No recovery"
+            ],
+            "answer": 1,
+            "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
+        },
+        {
+            "id": 83,
+            "fact": "In a pure comparative negligence state, a plaintiff is 90% at fault for an accident. Can the plaintiff recover any damages?",
+            "options": [
+                "Yes, recover 10% of damages.",
+                "No, because her fault is majority.",
+                "Yes, she can recover fully.",
+                "No recovery because threshold is exceeded."
+            ],
+            "answer": 0,
+            "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
+        },
+        {
+            "id": 84,
+            "fact": "In a state with a 50% comparative negligence threshold, a plaintiff is found 49% at fault for her injury. Can she recover damages?",
+            "options": [
+                "Yes, she can recover 51% of damages.",
+                "No, because her fault is below 50%.",
+                "Yes, she recovers full damages.",
+                "No, she is barred because she was partly at fault."
+            ],
+            "answer": 0,
+            "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
+        },
+        {
+            "id": 85,
+            "fact": "In a state with a 51% comparative negligence threshold, a plaintiff is found 51% at fault for her injury. Can she recover damages?",
+            "options": [
+                "No, because her fault exceeds the threshold.",
+                "Yes, she can recover 49% of damages.",
+                "Yes, because threshold is strict.",
+                "No, strict liability applies instead."
+            ],
+            "answer": 0,
+            "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
+        },
+        {
+            "id": 86,
+            "fact": "In a pure comparative negligence jurisdiction, if a plaintiff is 0% at fault, how much can she recover?",
+            "options": [
+                "100% of damages",
+                "0",
+                "50%",
+                "It depends on fault"
+            ],
+            "answer": 0,
+            "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
+        },
+        {
+            "id": 87,
+            "fact": "In a pure comparative negligence jurisdiction, if a plaintiff is 100% at fault, how much can she recover?",
+            "options": [
+                "0",
+                "100%",
+                "50%",
+                "None of the above"
+            ],
+            "answer": 0,
+            "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
+        },
+        {
+            "id": 88,
+            "fact": "Which statement is true under pure contributory negligence?",
+            "options": [
+                "Any fault by the plaintiff bars recovery.",
+                "Only majority fault bars recovery.",
+                "Plaintiff’s fault reduces recovery proportionally.",
+                "Statutory law governs recovery."
+            ],
+            "answer": 0,
+            "rule": "Contributory negligence was an incredibly harsh doctrine that denied any recovery if the plaintiff was even 1% at fault."
+        },
+        {
+            "id": 89,
+            "fact": "Joe signs a waiver before going bungee jumping and later gets injured in the jump. He sues the operator for negligence.",
+            "options": [
+                "No, Joe assumed the risk of injury.",
+                "Yes, the operator was negligent in ensuring safety.",
+                "No, assumption of risk never applies to extreme sports.",
+                "Yes, because waivers are unenforceable."
+            ],
+            "answer": 0,
+            "rule": "This defense applies when the plaintiff voluntarily and knowingly accepted the risk of injury."
+        },
+        {
+            "id": 90,
+            "fact": "Kate goes skydiving and is injured. She sues the skydiving company.",
+            "options": [
+                "No, Kate assumed the known risks of skydiving.",
+                "Yes, the company was negligent per se.",
+                "No, because Kate was 100% at fault.",
+                "Yes, the company breached its duty of care."
+            ],
+            "answer": 0,
+            "rule": "This defense applies when the plaintiff voluntarily and knowingly accepted the risk of injury."
+        },
+        {
+            "id": 91,
+            "fact": "Lifeguards warn swimmers about hidden rocks. Paula swims and is injured by a rock. Paula sues the lifeguards.",
+            "options": [
+                "Paula assumed the risk of swimming there.",
+                "Lifeguards breached a duty by not placing signs.",
+                "Res ipsa loquitur applies.",
+                "No negligence because rock injuries happen."
+            ],
+            "answer": 0,
+            "rule": "This defense applies when the plaintiff voluntarily and knowingly accepted the risk of injury."
+        },
+        {
+            "id": 92,
+            "fact": "Under pure comparative negligence, a plaintiff is 10% at fault with $100,000 damages. How much does she recover?",
+            "options": [
+                "$90,000",
+                "$10,000",
+                "$100,000",
+                "$0"
+            ],
+            "answer": 0,
+            "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
+        },
+        {
+            "id": 93,
+            "fact": "Under pure comparative negligence, a plaintiff is 0% at fault. How much does she recover?",
+            "options": [
+                "100% of damages",
+                "50% of damages",
+                "0",
+                "Statutory amount"
+            ],
+            "answer": 0,
+            "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
+        },
+        {
+            "id": 94,
+            "fact": "Which statement is correct in a pure contributory negligence jurisdiction?",
+            "options": [
+                "Any fault by the plaintiff bars recovery.",
+                "Only majority fault bars recovery.",
+                "Plaintiff’s fault reduces recovery.",
+                "Statute of limitations bars recovery."
+            ],
+            "answer": 0,
+            "rule": "Contributory negligence was an incredibly harsh doctrine that denied any recovery if the plaintiff was even 1% at fault."
+        },
+        {
+            "id": 95,
+            "fact": "Lillian knowingly participates in a boxing match and is injured by a punch. She sues the boxer for negligence.",
+            "options": [
+                "Lillian assumed the risk of harm and cannot recover.",
+                "The boxer was negligent per se in punching her.",
+                "Res ipsa loquitur applies to the punch.",
+                "The boxing association is vicariously liable."
+            ],
+            "answer": 0,
+            "rule": "This defense applies when the plaintiff voluntarily and knowingly accepted the risk of injury."
+        },
+        {
+            "id": 96,
+            "fact": "Under pure comparative negligence, a plaintiff is 90% at fault. How much can she recover?",
+            "options": [
+                "10% of damages",
+                "90% of damages",
+                "100% of damages",
+                "0"
+            ],
+            "answer": 0,
+            "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
+        },
+        {
+            "id": 97,
+            "fact": "In a jurisdiction with a 51% comparative negligence limit, a plaintiff is 49% at fault. Can she recover?",
+            "options": [
+                "Yes, she can recover 51% of damages.",
+                "No, because her fault exceeds 50%.",
+                "Yes, because threshold is 51%.",
+                "No, because 49% is too high."
+            ],
+            "answer": 0,
+            "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
+        },
+        {
+            "id": 98,
+            "fact": "In a state with 50% comparative negligence threshold, a plaintiff is found 51% at fault. Can she recover any damages?",
+            "options": [
+                "No, her fault exceeds the threshold.",
+                "Yes, she can recover 49% of damages.",
+                "Yes, because threshold is at most 50%.",
+                "Yes, full recovery."
+            ],
+            "answer": 0,
+            "rule": "The doctrine of Comparative Negligence states that the plaintiff’s recovery should be reduced by the percentage of fault attributed to the plaintiff."
+        },
+        {
+            "id": 99,
+            "fact": "Morgan signs a waiver before rock climbing. She gets injured and sues the climbing gym for negligence.",
+            "options": [
+                "Morgan assumed the risk of injury and cannot recover.",
+                "The gym breached its duty to keep equipment safe.",
+                "Waivers are not recognized by law.",
+                "Res ipsa loquitur applies to injuries in climbing."
+            ],
+            "answer": 0,
+            "rule": "This defense applies when the plaintiff voluntarily and knowingly accepted the risk of injury."
+        },
+        {
+            "id": 100,
+            "fact": "A plaintiff steps into traffic negligently and is hit by a car. She sues the driver in a pure contributory negligence jurisdiction and is found 5% at fault.",
+            "options": [
+                "She cannot recover any damages.",
+                "She recovers 95% of damages.",
+                "She recovers 5% of damages.",
+                "She recovers full damages."
+            ],
+            "answer": 0,
+            "rule": "Contributory negligence was an incredibly harsh doctrine that denied any recovery if the plaintiff was even 1% at fault."
+        }
+    ]
+}
