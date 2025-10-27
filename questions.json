@@ -1,5 +1,305 @@
 [
   {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Purposes of Punishment",
+    "body": "In Regina v. Dudley and Stephens (1884), sailors killed and ate a cabin boy to survive. What principle did the court emphasize?",
+    "options": [
+      "Necessity is not a defense to intentional homicide.",
+      "Retributive justice always outweighs deterrence.",
+      "Survival necessity excuses murder.",
+      "Proportional punishment justifies the act."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Legality Principle",
+    "body": "In Commonwealth v. Mochan (1955), obscene phone calls led to conviction under no specific statute. The decision illustrates a violation of which doctrine?",
+    "options": [
+      "Legality — no punishment without preexisting law.",
+      "Proportionality in sentencing.",
+      "Vagueness in mental state.",
+      "Retroactivity in punishment."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Vagueness",
+    "body": "Papachristou v. City of Jacksonville (1972) invalidated a vagrancy ordinance because it violated what constitutional protection?",
+    "options": [
+      "Due Process — the law was unconstitutionally vague.",
+      "Equal Protection — the law discriminated on race.",
+      "Separation of powers — excessive delegation.",
+      "Eighth Amendment — excessive punishment."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Actus Reus",
+    "body": "In Martin v. State (1944), police dragged an intoxicated man into public where he was arrested for public drunkenness. Why was he acquitted?",
+    "options": [
+      "A voluntary act is required for criminal liability.",
+      "He lacked mens rea for intoxication.",
+      "Police entrapment applies to all coercion.",
+      "The statute did not cover private intoxication."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Omissions",
+    "body": "People v. Beardsley (1907) held a man not guilty for failing to aid his mistress who overdosed because?",
+    "options": [
+      "No legal duty existed to act absent a special relationship.",
+      "Moral duty always suffices.",
+      "The victim consented to inaction.",
+      "The act was impossible to perform."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Possession",
+    "body": "In United States v. Maldonado (1996), the defendant left drugs in a hotel room. What mental element is required for possession?",
+    "options": [
+      "Knowing dominion and control over the object.",
+      "Motive to distribute.",
+      "Mere proximity.",
+      "Intent to conceal."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Mens Rea (Common Law)",
+    "body": "Regina v. Cunningham (1957) defined 'malice' as what?",
+    "options": [
+      "Either intention or recklessness as to the prohibited harm.",
+      "Hatred or ill will toward the victim.",
+      "Gross negligence regardless of awareness.",
+      "Strict liability for dangerous acts."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Transferred Intent",
+    "body": "In Regina v. Faulkner (1877), a sailor lit rum while stealing it and accidentally burned a ship. What rule emerged?",
+    "options": [
+      "Mens rea must relate to the charged offense.",
+      "Transferred intent applies across all felonies.",
+      "Negligence suffices for arson.",
+      "Intent to steal equals intent to burn."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Strict Liability",
+    "body": "United States v. Balint (1922) upheld strict liability for drug distribution because?",
+    "options": [
+      "Congress may impose liability without mens rea in public welfare offenses.",
+      "The defendants were negligent.",
+      "Motive determines culpability.",
+      "Due process forbids mental element removal."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Mistake of Fact",
+    "body": "Regina v. Prince (1875) convicted a man who reasonably believed a girl was 18 when she was under 16. Why?",
+    "options": [
+      "Mistake of fact was no defense because the act was morally wrong.",
+      "Strict liability applied to all sexual offenses.",
+      "He acted negligently.",
+      "He failed to verify identity."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Mistake of Law",
+    "body": "People v. Marrero (1987) denied a defense to a federal corrections officer who misread a gun law. Why?",
+    "options": [
+      "Mistake of law is not a defense unless reliance on an official statement.",
+      "Good faith reliance always excuses error.",
+      "Ambiguity in statutes nullifies guilt.",
+      "Ignorance of law negates intent."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Intoxication",
+    "body": "Regina v. Majewski (1977) held voluntary intoxication is no defense to what type of crimes?",
+    "options": [
+      "General intent crimes.",
+      "Specific intent crimes.",
+      "Strict liability offenses.",
+      "Involuntary manslaughter only."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Attempt",
+    "body": "People v. Rizzo (1927) held defendants not guilty of attempted robbery because?",
+    "options": [
+      "They had not come dangerously close to completing the crime.",
+      "They lacked intent.",
+      "The victims were not harmed.",
+      "They abandoned the plan voluntarily."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Attempt under MPC",
+    "body": "State v. Reeves (1996) held two middle-schoolers guilty of attempt for poison plans. Why?",
+    "options": [
+      "Substantial step toward commission suffices under MPC §5.01.",
+      "Overt act must be completed.",
+      "Abandonment always excuses liability.",
+      "Intent must be conditional."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Impossibility",
+    "body": "People v. Jaffe (1906) held a defendant not guilty for buying stolen goods that were not stolen. Why?",
+    "options": [
+      "Legal impossibility is a defense; factual impossibility is not.",
+      "All impossibility is irrelevant.",
+      "Mistake of fact always excuses.",
+      "Strict liability applies to attempt."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Solicitation",
+    "body": "State v. Cotton (1990) involved letters urging sexual abuse. Why was the solicitation charge reversed?",
+    "options": [
+      "Communication was intercepted before reaching the intended recipient.",
+      "The letters were ambiguous.",
+      "Solicitation requires an overt act.",
+      "The intent was unproven."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Conspiracy",
+    "body": "United States v. Alvarez (1991) clarified conspiracy liability requires what?",
+    "options": [
+      "Agreement and intent to achieve the unlawful objective.",
+      "Completion of the crime.",
+      "Proof of motive.",
+      "Performance of an overt act by all parties."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Felony Murder",
+    "body": "People v. Stamp (1969) held defendants liable for a victim’s heart attack after robbery. Why?",
+    "options": [
+      "Felony murder applies even to unforeseeable deaths during felonies.",
+      "Malice must be proven separately.",
+      "Negligence replaced intent.",
+      "The victim’s frailty is a defense."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Provocation",
+    "body": "Girouard v. State (1991) held words alone were insufficient provocation because?",
+    "options": [
+      "Only legally adequate provocations can mitigate murder to manslaughter.",
+      "Verbal insults negate malice automatically.",
+      "MPC treats all killings as provoked.",
+      "Cooling-off was irrelevant."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Depraved Heart Murder",
+    "body": "Commonwealth v. Malone (1946) upheld murder for a game of Russian roulette. Why?",
+    "options": [
+      "Extreme recklessness showing indifference to human life suffices for malice.",
+      "Intent to kill is required.",
+      "Negligence suffices for murder.",
+      "Victim’s consent bars liability."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Negligent Homicide",
+    "body": "People v. Hall (2000) convicted a skier after reckless downhill conduct. What distinguishes recklessness from negligence?",
+    "options": [
+      "Recklessness requires conscious disregard of a known risk.",
+      "Negligence requires awareness of risk.",
+      "Both require intent to harm.",
+      "Neither considers foreseeability."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Insanity Defense",
+    "body": "M’Naghten’s Case (1843) defined insanity as lack of what?",
+    "options": [
+      "Understanding of the nature or wrongfulness of the act.",
+      "Emotional control.",
+      "Volition to act.",
+      "Ability to resist temptation."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — MPC Insanity",
+    "body": "Under the MPC test, a defendant is not responsible if they lack what capacity?",
+    "options": [
+      "Substantial capacity to appreciate criminality or conform conduct to law.",
+      "Total incapacity to reason.",
+      "Motive to act lawfully.",
+      "Ability to recall consequences."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Duress",
+    "body": "United States v. Contento-Pachon (1984) allowed duress for cocaine smuggling because?",
+    "options": [
+      "Threats were imminent, serious, and left no reasonable escape.",
+      "Economic pressure sufficed.",
+      "Fear of prosecution counts as coercion.",
+      "Defendant created the risk himself."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Coughlin",
+    "subject": "Criminal Law — Necessity",
+    "body": "United States v. Bailey (1980) limited the necessity defense for prisoners who escaped because?",
+    "options": [
+      "They failed to surrender once the danger passed.",
+      "All prison escapes are per se justified.",
+      "Necessity applies to duress only.",
+      "They acted in self-defense."
+    ],
+    "answer": 0
+  },
+  {
     "from": "Partner Kordana",
     "subject": "Contracts — Consideration",
     "body": "In Hamer v. Sidway (1891), an uncle promised $5,000 if his nephew refrained from drinking and smoking until age 21. What did the court hold constituted valid consideration?",
