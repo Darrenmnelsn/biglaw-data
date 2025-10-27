@@ -1,14 +1,26 @@
 {
     "questions": [
         {
-            "id": 1,
-            "fact": "While walking, Paula hears her neighbor screaming for help. Paula does nothing. The neighbor later sues Paula for negligence.",
-            "options": [
+      "id": 1,
+      "fact": "A Delaware company with no offices or employees in Texas sells 5% of its products online to Texas residents.",
+      "options": [
+                "General Jurisdiction", 
+                "Specific Jurisdiction", 
+                "No Jurisdiction", 
+                "Consent"
+           ],
+      "answer": 2,
+      "rule": "Daimler AG v. Bauman — sporadic sales insufficient for general jurisdiction; not 'essentially at home.'"
+        },
+        {
+        "id": 1,
+        "fact": "While walking, Paula hears her neighbor screaming for help. Paula does nothing. The neighbor later sues Paula for negligence.",
+        "options": [
                 "A bystander has a duty to rescue, so Paula breached a legal duty by not acting.",
                 "Paula had no legal duty to rescue the neighbor, so no negligence claim can succeed.",
                 "Paula had a duty to call the police, so she breached her duty by not doing so.",
                 "Rescuers are strictly liable if they fail to help someone in danger, so Paula is liable."
-            ],
+                ],
             "answer": 1,
             "rule": "Negligence requires the existence of a legal duty."
         },
