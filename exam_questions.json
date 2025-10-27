@@ -21,7 +21,7 @@
         "No Jurisdiction",
         "Forum Non Conveniens"
       ],
-      "answer": 1
+      "answer": 1,
       "rule": "International Shoe — claim arises out of defendant’s in-state conduct; specific jurisdiction proper."
     },
     {
@@ -33,7 +33,7 @@
         "No Jurisdiction",
         "Consent"
       ],
-      "answer": 2
+      "answer": 2,
       "rule": "Goodyear v. Brown — no general jurisdiction over foreign subsidiaries; claim unrelated to forum contacts."
     },
     {
@@ -45,7 +45,7 @@
         "Consent",
         "General Jurisdiction"
       ],
-      "answer": 1
+      "answer": 1,
       "rule": "Bristol-Myers Squibb — claim must arise out of or relate to defendant’s forum contacts."
     },
     {
@@ -57,7 +57,7 @@
         "General Jurisdiction",
         "Forum Non Conveniens"
       ],
-      "answer": 1
+      "answer": 1,
       "rule": "Calder v. Jones — jurisdiction proper only if defendant’s conduct expressly aimed at forum; passive site insufficient."
     },
     {
@@ -69,7 +69,7 @@
         "General Jurisdiction",
         "Venue"
       ],
-      "answer": 1
+      "answer": 1,
       "rule": "World-Wide Volkswagen — unilateral action by consumer cannot create forum contacts."
     },
     {
@@ -81,7 +81,7 @@
         "General Jurisdiction",
         "Consent"
       ],
-      "answer": 1
+      "answer": 1,
       "rule": "Walden v. Fiore — contact must arise from defendant’s purposeful forum conduct, not plaintiff’s connections."
     },
     {
@@ -93,7 +93,7 @@
         "General Jurisdiction",
         "Consent"
       ],
-      "answer": 0
+      "answer": 0,
       "rule": "Burger King v. Rudzewicz — purposeful availment through deliberate contract negotiation with forum resident."
     },
     {
@@ -105,7 +105,7 @@
         "Specific Jurisdiction",
         "No Jurisdiction"
       ],
-      "answer": 0
+      "answer": 0,
       "rule": "Mallory v. Norfolk Southern — registration statute can constitute consent to general jurisdiction."
         },
         {
