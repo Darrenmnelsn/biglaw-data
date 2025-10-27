@@ -1,5 +1,293 @@
 [
   {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Consideration",
+    "body": "In Hamer v. Sidway (1891), an uncle promised $5,000 if his nephew refrained from drinking and smoking until age 21. What did the court hold constituted valid consideration?",
+    "options": [
+      "Forbearance of a legal right.",
+      "Natural love and affection.",
+      "Moral obligation.",
+      "Nominal payment of $1."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Objective Theory of Assent",
+    "body": "In Lucy v. Zehmer (1954), why did the court enforce a barroom agreement to sell land even though the seller claimed it was a joke?",
+    "options": [
+      "Intent is judged by outward expressions, not secret intent.",
+      "Land sales require subjective intent.",
+      "Jokes are enforceable when written down.",
+      "Consideration was presumed."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Implied in Fact",
+    "body": "Bailey v. West (1969) involved care of a racehorse by mistake. Why was there no implied-in-fact contract?",
+    "options": [
+      "There was no mutual assent between the parties.",
+      "The benefit conferred was substantial.",
+      "The defendant failed to object promptly.",
+      "The plaintiff acted as a volunteer."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Damages",
+    "body": "In Jacob & Youngs v. Kent (1921), the builder used the wrong brand of pipe. What rule did the court adopt for recovery?",
+    "options": [
+      "Substantial performance with damages for the difference in value.",
+      "Strict compliance with contract terms.",
+      "Restitution for partial performance.",
+      "Specific performance of replacement."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Specific Performance",
+    "body": "Walker v. Keith (1964) refused to enforce a renewal option because what was missing?",
+    "options": [
+      "Essential terms were too indefinite.",
+      "The subject matter was land.",
+      "The parties lacked capacity.",
+      "The price term was fair."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Economic Inequality",
+    "body": "In Williams v. Walker-Thomas Furniture Co. (1965), the court remanded to determine whether what doctrine applied?",
+    "options": [
+      "Unconscionability under UCC §2-302.",
+      "Duress.",
+      "Fraud in the inducement.",
+      "Mutual mistake."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Gratuitous Promises",
+    "body": "Kirksey v. Kirksey (1845) denied enforcement of a brother-in-law’s invitation to move to his land because why?",
+    "options": [
+      "It was a mere gratuitous promise without consideration.",
+      "It was an illusory promise.",
+      "It violated the Statute of Frauds.",
+      "It was void for vagueness."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Nominal Consideration",
+    "body": "In re Greene (1930) involved a gift disguised as a contract. Why was the promise unenforceable?",
+    "options": [
+      "The consideration was nominal and not bargained-for.",
+      "The agreement was oral.",
+      "The promise violated public policy.",
+      "The parties lacked capacity."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Adequacy of Consideration",
+    "body": "Batsakis v. Demotsis (1949) held that even unequal bargains are enforceable if what is present?",
+    "options": [
+      "A bargained-for exchange of value.",
+      "Nominal consideration.",
+      "Fair market equivalence.",
+      "Economic duress."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Moral Obligation",
+    "body": "In Webb v. McGowin (1935), why was a promise to pay upheld after the promisor was saved from harm?",
+    "options": [
+      "A material benefit received can support a subsequent promise.",
+      "Moral obligation alone suffices.",
+      "The promise was under seal.",
+      "Consideration was implied by law."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Promissory Estoppel",
+    "body": "Ricketts v. Scothorn (1898) enforced a grandfather’s promise based on what principle?",
+    "options": [
+      "Reliance to the promisee’s detriment can substitute for consideration.",
+      "Moral obligation alone suffices.",
+      "The promise was conditional.",
+      "Written form required enforcement."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Promissory Estoppel",
+    "body": "Feinberg v. Pfeiffer Co. (1959) held that a retirement promise was binding because?",
+    "options": [
+      "The employee relied on it to her detriment by retiring.",
+      "The company intended a gift.",
+      "The promise was nominally sealed.",
+      "Public policy required fairness."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Reliance Damages",
+    "body": "Hoffman v. Red Owl Stores (1965) granted damages to a party who relied on preliminary promises. Why?",
+    "options": [
+      "Promissory estoppel protects reliance even absent a full contract.",
+      "All negotiations are binding once begun.",
+      "Quasi-contract applies to all dealings.",
+      "Preliminary agreements are enforceable per se."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Charitable Subscription",
+    "body": "Allegheny College (1927) found consideration in a gift to a college because?",
+    "options": [
+      "The donor imposed a condition creating a bilateral obligation.",
+      "Charitable intent was presumed.",
+      "Moral duty sufficed.",
+      "Nominal payment was given."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Offer & Acceptance",
+    "body": "Lefkowitz v. Great Minneapolis Surplus Store (1957) held an ad to sell fur coats was an offer because?",
+    "options": [
+      "It was clear, definite, and left nothing open for negotiation.",
+      "It was labeled as an offer.",
+      "The buyer was a prior customer.",
+      "The store breached fiduciary duty."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Mirror Image Rule",
+    "body": "In Ardente v. Horan (1976), why was the buyer’s acceptance ineffective?",
+    "options": [
+      "It added conditions, making it a counteroffer.",
+      "It was oral rather than written.",
+      "It was revoked by mail.",
+      "It lacked consideration."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Mutual Mistake",
+    "body": "Sherwood v. Walker (1887) voided a sale of a cow when both believed it was barren but it was fertile. Why?",
+    "options": [
+      "Mutual mistake about a basic assumption voids consent.",
+      "Unilateral mistake is never excused.",
+      "All animal sales are conditional.",
+      "Contract law excludes agricultural goods."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Parol Evidence Rule",
+    "body": "Masterson v. Sine (1968) allowed parol evidence of a buyback clause because?",
+    "options": [
+      "The deed was not intended as a complete integration.",
+      "Parol evidence always controls oral terms.",
+      "Fraud was alleged.",
+      "It violated no statute."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Statute of Frauds",
+    "body": "Klewin v. Flagship Properties (1985) addressed long-term oral contracts. What rule emerged?",
+    "options": [
+      "Contracts not performable within a year require writing under the Statute of Frauds.",
+      "All real estate deals require notaries.",
+      "Parol evidence may cure missing signatures.",
+      "Reliance removes the writing requirement."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Remedies",
+    "body": "Hadley v. Baxendale (1854) limited damages to what type of losses?",
+    "options": [
+      "Foreseeable losses at the time of contract formation.",
+      "All consequential losses regardless of notice.",
+      "Punitive damages for breach.",
+      "Nominal damages only."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Efficient Breach",
+    "body": "Peevyhouse v. Garland Coal (1963) awarded only diminished value damages because?",
+    "options": [
+      "The cost of performance was grossly disproportionate to its value.",
+      "Restoration clauses are void.",
+      "Mining contracts are unenforceable.",
+      "Plaintiff failed to mitigate."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Expectation Damages",
+    "body": "Freund v. Washington Square Press (1974) awarded nominal damages because?",
+    "options": [
+      "Lost royalties were too speculative.",
+      "The publisher acted in good faith.",
+      "The contract was illegal.",
+      "The author rescinded early."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Modification",
+    "body": "Alaska Packers’ Ass’n v. Domenico (1902) held a mid-performance wage increase unenforceable because?",
+    "options": [
+      "There was no new consideration for the modification.",
+      "The contract was oral.",
+      "Public policy forbade it.",
+      "Workers were minors."
+    ],
+    "answer": 0
+  },
+  {
+    "from": "Partner Kordana",
+    "subject": "Contracts — Excuse by Impossibility",
+    "body": "Krell v. Henry (1903) excused payment for a room rental because?",
+    "options": [
+      "The coronation’s cancellation frustrated the contract’s principal purpose.",
+      "The building was destroyed.",
+      "The promise was illegal.",
+      "Weather made performance costly."
+    ],
+    "answer": 0
+  },
+  {
     "from": "Partner Bamzai",
     "subject": "Civil Procedure — Personal Jurisdiction",
     "body": "In Pennoyer v. Neff (1877), a state court issued a judgment against a nonresident who had never been served within the forum. What principle did the Court establish?",
