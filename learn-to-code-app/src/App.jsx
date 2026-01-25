@@ -4,12 +4,14 @@ import LessonCard from './components/LessonCard.jsx';
 import Exercise from './components/Exercise.jsx';
 import PropertyLawGame from './components/PropertyLawGame.jsx';
 import ConLawGame from './components/ConLawGame.jsx';
+import TortsGame from './components/TortsGame.jsx';
 
 // Navigation views
 const VIEWS = {
   HOME: 'home',
   PROPERTY: 'property',
   CONLAW: 'conlaw',
+  TORTS: 'torts',
   CODING: 'coding'
 };
 
@@ -124,6 +126,31 @@ function App() {
           <span style={{ color: '#7c3aed', fontWeight: 700 }}>Constitutional Law Mastery</span>
         </nav>
         <ConLawGame />
+      </div>
+    );
+  }
+
+  if (currentView === VIEWS.TORTS) {
+    return (
+      <div>
+        <nav style={{
+          padding: '12px 20px',
+          background: 'rgba(0,0,0,0.3)',
+          borderBottom: '1px solid rgba(255,255,255,0.1)',
+          display: 'flex',
+          alignItems: 'center',
+          gap: '20px'
+        }}>
+          <button
+            onClick={() => setCurrentView(VIEWS.HOME)}
+            className="secondary-button"
+            style={{ padding: '8px 16px' }}
+          >
+            Back to Hub
+          </button>
+          <span style={{ color: '#7c3aed', fontWeight: 700 }}>Torts Mastery</span>
+        </nav>
+        <TortsGame />
       </div>
     );
   }
@@ -285,16 +312,25 @@ function App() {
 
         <motion.div
           className="card"
-          style={{ opacity: 0.6 }}
+          whileHover={{ scale: 1.02, borderColor: 'rgba(124, 58, 237, 0.5)' }}
+          whileTap={{ scale: 0.98 }}
+          onClick={() => setCurrentView(VIEWS.TORTS)}
+          style={{ cursor: 'pointer' }}
           initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 0.6, y: 0 }}
+          animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.4 }}
         >
-          <div className="pill">Coming Soon</div>
+          <div className="badge">25+ Cases</div>
           <h3>Torts</h3>
           <p>Negligence, strict liability, intentional torts. Palsgraf, Carroll Towing, and the reasonable person.</p>
           <div className="lesson-list">
-            <span className="lesson-chip">50+ Cases</span>
+            <span className="lesson-chip">Doctrine Match</span>
+            <span className="lesson-chip">Elements Builder</span>
+            <span className="lesson-chip">Issue Spotting</span>
+            <span className="lesson-chip">Boss Battle</span>
+          </div>
+          <div className="action-bar">
+            <button className="button">Start Learning</button>
           </div>
         </motion.div>
       </div>
