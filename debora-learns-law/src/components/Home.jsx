@@ -1,8 +1,5 @@
-import { lazy, Suspense, useState } from "react";
+import { useState } from "react";
 import bgCourthouse from "../art/bg-courthouse.webp";
-
-// Three.js + the lawyer GLB only load when the home screen mounts.
-const CharacterShowcase = lazy(() => import("./CharacterShowcase.jsx"));
 
 export default function Home({ save, theme, onPlay, onDaily, onLeaderboard, onToggleMute, onTutorialSeen }) {
   const [showHow, setShowHow] = useState(!save.tutorialSeen);
@@ -28,28 +25,16 @@ export default function Home({ save, theme, onPlay, onDaily, onLeaderboard, onTo
         🗓️ This week: <strong>{theme} Week</strong> — {theme} cases pay ×1.25
       </div>
 
-      <div className="home-stage">
-        <Suspense
-          fallback={
-            <div className="showcase showcase-loading">
-              <div className="loading-spinner" />
-            </div>
-          }
-        >
-          <CharacterShowcase />
-        </Suspense>
-
-        <div className="home-actions">
-          <button className="btn primary big" onClick={start}>
-            Open Your Firm
-          </button>
-          <button className="btn daily" onClick={onDaily}>
-            📅 Daily Case {dailyDone ? "✓ done — back tomorrow" : "— everyone gets the same 10"}
-          </button>
-          <button className="btn ghost" onClick={onLeaderboard}>
-            🏆 Leaderboard
-          </button>
-        </div>
+      <div className="home-actions">
+        <button className="btn primary big" onClick={start}>
+          Open Your Firm
+        </button>
+        <button className="btn daily" onClick={onDaily}>
+          📅 Daily Case {dailyDone ? "✓ done — back tomorrow" : "— everyone gets the same 10"}
+        </button>
+        <button className="btn ghost" onClick={onLeaderboard}>
+          🏆 Leaderboard
+        </button>
       </div>
 
       {save.bestScore > 0 && (
