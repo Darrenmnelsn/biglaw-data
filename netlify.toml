@@ -1,7 +1,8 @@
 [build]
   base    = "debora-learns-law"
   command = "npm run build"
-  publish = "debora-learns-law/dist"
+  # publish is resolved relative to base, so this becomes debora-learns-law/dist
+  publish = "dist"
 
 [build.environment]
   NODE_VERSION = "20"
