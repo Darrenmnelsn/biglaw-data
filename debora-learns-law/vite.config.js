@@ -14,10 +14,8 @@ export default defineConfig({
       output: {
         manualChunks: {
           vendor: ["react", "react-dom"],
-          three: ["three", "@react-three/fiber"],
         },
       },
     },
-    chunkSizeWarningLimit: 1200,
   },
 });

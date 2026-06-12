@@ -2281,6 +2281,231 @@ kbd {
   }
 }
 
+/* =================================================================== */
+/* PHOTOGRAPHIC ART SCENES                                              */
+/* =================================================================== */
+
+/* shared full-art background for menu screens */
+.art-bg {
+  position: relative;
+  isolation: isolate;
+}
+
+.art-bg::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  background-image: var(--art-bg);
+  background-size: cover;
+  background-position: center 30%;
+  filter: blur(2px) brightness(0.55);
+}
+
+.art-bg::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(180deg, #10141fb8 0%, #10141f70 40%, #10141fd8 100%);
+}
+
+/* the live office scene */
+.office2d {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 2 / 1;
+  border-radius: 16px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center 20%;
+  box-shadow: 0 18px 60px #00000090, inset 0 0 60px #00000060;
+  isolation: isolate;
+}
+
+.office2d.shake {
+  animation: shake 0.45s;
+}
+
+.office2d-vignette {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 50% 30%, transparent 45%, #00000070 100%),
+    linear-gradient(180deg, transparent 60%, #00000080 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Debora — player avatar by the desk */
+.attorney2 {
+  position: absolute;
+  right: 6%;
+  bottom: 4%;
+  width: 11%;
+  z-index: 3;
+  pointer-events: none;
+  transform-origin: bottom center;
+  animation: idle-bob 3.2s ease-in-out infinite;
+}
+
+.attorney2 img {
+  width: 100%;
+  display: block;
+  filter: drop-shadow(0 4px 8px #000000b0);
+}
+
+.attorney2.consulting {
+  animation: none;
+  transform: translateY(-1%) rotate(-1.2deg);
+}
+
+.attorney2.won {
+  animation: triumph 0.6s;
+}
+
+/* clients */
+.actors2 {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+}
+
+.actor2 {
+  position: absolute;
+  bottom: 3%;
+  width: 8%;
+  transform: translateX(-50%);
+  transition: left 1.6s cubic-bezier(0.4, 0, 0.2, 1);
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.actor2:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 4px;
+  border-radius: 8px;
+}
+
+.actor2.active {
+  z-index: 4;
+  width: 9%;
+}
+
+.actor2 .sprite-rocker {
+  transform-origin: bottom center;
+  animation: idle-bob 2.8s ease-in-out infinite;
+}
+
+.actor2 img {
+  width: 100%;
+  display: block;
+  filter: drop-shadow(0 3px 6px #000000a0);
+  pointer-events: none;
+  user-select: none;
+}
+
+/* walking: paper-doll shuffle — rock around the feet + quick bob */
+.actor2.walking .sprite-rocker {
+  animation: doll-walk 0.46s ease-in-out infinite;
+}
+
+@keyframes doll-walk {
+  0%, 100% {
+    transform: rotate(2.4deg) translateY(0);
+  }
+  25% {
+    transform: rotate(0deg) translateY(-3px);
+  }
+  50% {
+    transform: rotate(-2.4deg) translateY(0);
+  }
+  75% {
+    transform: rotate(0deg) translateY(-3px);
+  }
+}
+
+.actor2 .actor-shadow {
+  position: absolute;
+  bottom: -1.5%;
+  left: 18%;
+  right: 18%;
+  height: 5%;
+  background: radial-gradient(ellipse, #000000a0 0%, transparent 70%);
+  z-index: -1;
+}
+
+.actor-shadow.wide {
+  left: 8%;
+  right: 8%;
+}
+
+.actor2:hover:not(.active) .sprite-rocker,
+.actor2:focus-visible .sprite-rocker {
+  transform: translateY(-4px);
+}
+
+.actor2:hover:not(.active) img {
+  filter: drop-shadow(0 3px 6px #000000a0) drop-shadow(0 0 10px #f5b94290);
+}
+
+/* urgency */
+.actor2.warn img {
+  filter: drop-shadow(0 3px 6px #000000a0) drop-shadow(0 0 6px #f5b94288);
+}
+
+.actor2.urgent .sprite-rocker {
+  animation: idle-bob 0.55s ease-in-out infinite;
+}
+
+.actor2.urgent img {
+  filter: drop-shadow(0 3px 6px #000000a0) drop-shadow(0 0 10px #ff4d4d)
+    drop-shadow(0 0 18px #ff4d4d70);
+}
+
+/* moods on the way out */
+.actor2.mood-happy img {
+  filter: drop-shadow(0 3px 6px #000000a0) brightness(1.12);
+}
+
+.actor2.mood-angry img {
+  filter: drop-shadow(0 3px 6px #000000a0) sepia(0.25) hue-rotate(-18deg) saturate(1.6);
+}
+
+.actor2.mood-angry .sprite-rocker {
+  animation: doll-walk 0.32s ease-in-out infinite;
+}
+
+/* game over flavor art */
+.gameover-art {
+  width: min(380px, 80%);
+  border-radius: 12px;
+  box-shadow: 0 12px 30px #00000090;
+  opacity: 0.9;
+}
+
+@media (max-width: 760px) {
+  .office2d {
+    aspect-ratio: 4 / 3;
+    background-position: 35% 20%;
+  }
+
+  .actor2 {
+    width: 13%;
+  }
+
+  .actor2.active {
+    width: 14%;
+  }
+
+  .attorney2 {
+    width: 17%;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

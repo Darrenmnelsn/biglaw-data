@@ -1,4 +1,5 @@
 import { useState } from "react";
+import bgCourthouse from "../art/bg-courthouse.webp";
 
 export default function Home({ save, theme, onPlay, onDaily, onLeaderboard, onToggleMute, onTutorialSeen }) {
   const [showHow, setShowHow] = useState(!save.tutorialSeen);
@@ -11,7 +12,7 @@ export default function Home({ save, theme, onPlay, onDaily, onLeaderboard, onTo
   };
 
   return (
-    <div className="screen home">
+    <div className="screen home art-bg" style={{ "--art-bg": `url(${bgCourthouse})` }}>
       <button className="mute" onClick={onToggleMute} aria-label="Toggle sound">
         {save.muted ? "🔇" : "🔊"}
       </button>

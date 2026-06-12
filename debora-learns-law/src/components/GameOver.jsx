@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { buildRunShare, copyToClipboard } from "../game/share.js";
+import propsDocs from "../art/props-docs.webp";
 
 export default function GameOver({ run, save, onPlayAgain, onHome }) {
   const [copied, setCopied] = useState(false);
@@ -38,6 +39,8 @@ export default function GameOver({ run, save, onPlayAgain, onHome }) {
       <div className="results-grid" aria-label="Run history">
         {run.results.slice(-30).join("")}
       </div>
+
+      <img className="gameover-art" src={propsDocs} alt="" draggable="false" />
 
       <div className="gameover-actions">
         <button className="btn primary big" onClick={onPlayAgain}>

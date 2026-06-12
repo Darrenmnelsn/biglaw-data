@@ -1,10 +1,11 @@
 import { SHOP_ITEMS, upgradeLevel, nextCost } from "../game/save.js";
 import { sfx } from "../game/sound.js";
+import bgPartnerOffice from "../art/bg-partneroffice.webp";
 
 export default function DayEnd({ run, save, theme, onBuy, onDriveHome, onQuit }) {
   const d = run.lastDay;
   return (
-    <div className="screen dayend">
+    <div className="screen dayend art-bg" style={{ "--art-bg": `url(${bgPartnerOffice})` }}>
       <h1>End of business — Day {run.day}</h1>
 
       <div className="stat-row">
