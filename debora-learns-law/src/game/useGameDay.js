@@ -47,6 +47,7 @@ function reducer(state, action) {
       if (expired.length > 0) {
         next.inbox = state.inbox.filter((c) => now < c.deadlineAt);
         for (const c of expired) {
+          next = pushExit(next, c, "angry");
           next = applyMistake(next, c, "expired");
           if (next.status === "gameOver") return next;
         }
@@ -63,17 +64,22 @@ function reducer(state, action) {
         const oldest = next.inbox[0];
         if (next.associateAvailable) {
           // senior associate quietly wins the oldest case
-          next = {
-            ...next,
-            associateAvailable: false,
-            inbox: next.inbox.slice(1),
-            casesWon: next.casesWon + 1,
-            billables: next.billables + BASE_CASE_VALUE,
-            results: [...next.results, "🤝"],
-            toast: { kind: "associate", at: now },
-          };
+          next = pushExit(
+            {
+              ...next,
+              associateAvailable: false,
+              inbox: next.inbox.slice(1),
+              casesWon: next.casesWon + 1,
+              billables: next.billables + BASE_CASE_VALUE,
+              results: [...next.results, "🤝"],
+              toast: { kind: "associate", at: now },
+            },
+            oldest,
+            "happy"
+          );
         } else {
           next.inbox = next.inbox.slice(1);
+          next = pushExit(next, oldest, "angry");
           next = applyMistake(next, oldest, "overflow");
           if (next.status === "gameOver") return next;
         }
@@ -129,20 +135,24 @@ function reducer(state, action) {
         const gain = Math.round(
           (BASE_CASE_VALUE + (ms <= RUSH_MS ? RUSH_BONUS : 0)) * mult * (themed ? THEME_BONUS : 1)
         );
-        return {
-          ...state,
-          inbox,
-          activeUid: null,
-          recent,
-          streak,
-          bestStreak: Math.max(state.bestStreak, streak),
-          billables: state.billables + gain,
-          casesWon: state.casesWon + 1,
-          results: [...state.results, "✅"],
-          feedback: { kind: "won", gain, mult, themed, rush: ms <= RUSH_MS, at: now },
-          confettiAt: MILESTONES.includes(streak) ? now : state.confettiAt,
-          lastAnswered: { id: item.q.id, correct: true },
-        };
+        return pushExit(
+          {
+            ...state,
+            inbox,
+            activeUid: null,
+            recent,
+            streak,
+            bestStreak: Math.max(state.bestStreak, streak),
+            billables: state.billables + gain,
+            casesWon: state.casesWon + 1,
+            results: [...state.results, "✅"],
+            feedback: { kind: "won", gain, mult, themed, rush: ms <= RUSH_MS, at: now },
+            confettiAt: MILESTONES.includes(streak) ? now : state.confettiAt,
+            lastAnswered: { id: item.q.id, correct: true },
+          },
+          item,
+          "happy"
+        );
       }
 
       let next = {
@@ -152,6 +162,7 @@ function reducer(state, action) {
         recent,
         lastAnswered: { id: item.q.id, correct: false },
       };
+      next = pushExit(next, item, "angry");
       next = applyMistake(next, item, "wrong");
       return next;
     }
@@ -177,9 +188,24 @@ function reducer(state, action) {
       return state.feedback ? { ...state, feedback: null } : state;
     case "CLEAR_TOAST":
       return state.toast ? { ...state, toast: null } : state;
+    case "CLEAR_EXITS": {
+      const cutoff = action.before;
+      const exits = state.exits.filter((e) => e.leftAt > cutoff);
+      return exits.length === state.exits.length ? state : { ...state, exits };
+    }
     default:
       return state;
   }
+}
+
+function pushExit(state, item, mood) {
+  return {
+    ...state,
+    exits: [
+      ...state.exits,
+      { uid: item.uid, q: item.q, mood, leftAt: Date.now() },
+    ],
+  };
 }
 
 function applyMistake(state, item, reason) {
@@ -218,6 +244,7 @@ function initState({ day, upgrades, theme }) {
     nextSpawnAt: now + 1200,
     spawnCount: 0,
     inbox: [],
+    exits: [],
     activeUid: null,
     hearts: 3 + (upgrades.cornerOffice || 0),
     maxHearts: 3 + (upgrades.cornerOffice || 0),
@@ -369,6 +396,7 @@ export function useGameDay({ day, upgrades, theme, weakSpots, onMiss, onHit }) {
       endEarly: () => dispatch({ type: "END_EARLY" }),
       clearFeedback: () => dispatch({ type: "CLEAR_FEEDBACK" }),
       clearToast: () => dispatch({ type: "CLEAR_TOAST" }),
+      sweepExits: (before) => dispatch({ type: "CLEAR_EXITS", before }),
     }),
     []
   );

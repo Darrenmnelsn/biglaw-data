@@ -1,74 +1,11 @@
-import { memo, useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useGameDay, multiplierFor, INBOX_CAP } from "../game/useGameDay.js";
+import Office from "./Office.jsx";
+import CasePanel from "./CasePanel.jsx";
 
 function fmtClock(ms) {
   const s = Math.max(0, Math.ceil(ms / 1000));
   return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`;
-}
-
-const InboxItem = memo(function InboxItem({ item, now, active, onOpen, index }) {
-  const total = item.deadlineAt - item.arrivedAt;
-  const left = Math.max(0, item.deadlineAt - now);
-  const pct = (left / total) * 100;
-  const urgent = pct < 30;
-  return (
-    <button
-      className={`inbox-item ${active ? "active" : ""} ${urgent ? "urgent" : ""}`}
-      onClick={onOpen}
-      aria-label={`Case ${index + 1} from ${item.q.from}`}
-    >
-      <div className="inbox-row">
-        <span className="from">📧 {item.q.from}</span>
-        <span className="subj">{item.q.subject}</span>
-      </div>
-      <div className="deadline-bar">
-        <div className="deadline-fill" style={{ width: `${pct}%` }} />
-      </div>
-    </button>
-  );
-});
-
-function CaseView({ item, onAnswer, onClose, onResearch, researchLeft }) {
-  useEffect(() => {
-    const onKey = (e) => {
-      const n = parseInt(e.key, 10);
-      if (n >= 1 && n <= item.q.options.length && !item.eliminated.includes(n - 1)) onAnswer(n - 1);
-      if (e.key === "Escape") onClose();
-      if (e.key.toLowerCase() === "r" && researchLeft > 0) onResearch();
-    };
-    window.addEventListener("keydown", onKey);
-    return () => window.removeEventListener("keydown", onKey);
-  }, [item, onAnswer, onClose, onResearch, researchLeft]);
-
-  return (
-    <div className="case-view" role="dialog" aria-label="Open case">
-      <div className="case-head">
-        <span className="from">From: {item.q.from}</span>
-        <span className="subj-pill">{item.q.subject}</span>
-        <button className="close" onClick={onClose} aria-label="Back to inbox">
-          ✕
-        </button>
-      </div>
-      <p className="case-body">{item.q.prompt}</p>
-      <div className="options">
-        {item.q.options.map((opt, i) => (
-          <button
-            key={i}
-            className="option"
-            disabled={item.eliminated.includes(i)}
-            onClick={() => onAnswer(i)}
-          >
-            <kbd>{i + 1}</kbd> {item.eliminated.includes(i) ? "— eliminated —" : opt}
-          </button>
-        ))}
-      </div>
-      {researchLeft > 0 && item.eliminated.length === 0 && (
-        <button className="btn research" onClick={onResearch}>
-          🔎 Research ({researchLeft} left) <kbd>R</kbd>
-        </button>
-      )}
-    </div>
-  );
 }
 
 function Stamp({ feedback, onDone }) {
@@ -128,6 +65,13 @@ export default function GameDay({ day, theme, upgrades, weakSpots, onMiss, onHit
     prevHearts.current = hearts;
   }, [hearts]);
 
+  // sweep exits older than the walk-out animation length
+  useEffect(() => {
+    if (state.exits.length === 0) return;
+    const t = setInterval(() => actions.sweepExits(Date.now() - 1600), 600);
+    return () => clearInterval(t);
+  }, [state.exits.length, actions]);
+
   useEffect(() => {
     if (reported.current) return;
     const stats = {
@@ -149,6 +93,7 @@ export default function GameDay({ day, theme, upgrades, weakSpots, onMiss, onHit
 
   const active = state.inbox.find((c) => c.uid === state.activeUid);
   const mult = multiplierFor(state.streak);
+  const lobby = state.inbox.length;
 
   return (
     <div
@@ -165,6 +110,12 @@ export default function GameDay({ day, theme, upgrades, weakSpots, onMiss, onHit
             {"❤️".repeat(state.hearts)}
             {"🖤".repeat(Math.max(0, state.maxHearts - state.hearts))}
           </span>
+          <span
+            className={`lobby-chip ${lobby >= INBOX_CAP ? "full" : ""}`}
+            title="Clients waiting"
+          >
+            🪑 {lobby}/{INBOX_CAP}
+          </span>
         </div>
         <div className="hud-right">
           <span className={`streak ${state.streak >= 3 ? "hot" : ""}`}>
@@ -176,41 +127,36 @@ export default function GameDay({ day, theme, upgrades, weakSpots, onMiss, onHit
 
       {state.status === "paused" && <div className="paused-veil">Paused — come back!</div>}
 
-      <main className="game-main">
-        <section className={`inbox ${state.inbox.length >= INBOX_CAP ? "full" : ""}`} aria-label="Inbox">
-          <h2>
-            📥 Inbox {state.inbox.length}/{INBOX_CAP}
-            {state.inbox.length >= INBOX_CAP && <span className="overflow-warn"> — FULL!</span>}
-          </h2>
-          {state.inbox.length === 0 && <p className="empty">Quiet… too quiet.</p>}
-          {state.inbox.map((item, i) => (
-            <InboxItem
-              key={item.uid}
-              item={item}
-              index={i}
-              now={state.now}
-              active={item.uid === state.activeUid}
-              onOpen={() => actions.openCase(item.uid)}
-            />
-          ))}
-        </section>
-
-        <section className="desk">
-          {active ? (
-            <CaseView
-              item={active}
-              onAnswer={actions.answer}
-              onClose={actions.closeCase}
-              onResearch={actions.research}
-              researchLeft={state.researchLeft}
-            />
-          ) : (
-            <div className="desk-empty">
-              <p>Open a case from your inbox.</p>
-              <p className="hint">Tip: answer in under 8s for a ⚡ rush bonus. Keys 1–4 answer.</p>
-            </div>
-          )}
-        </section>
+      <main className="game-main office-main">
+        <Office
+          inbox={state.inbox}
+          exits={state.exits}
+          activeUid={state.activeUid}
+          now={state.now}
+          onSelectClient={(uid) => actions.openCase(uid)}
+          attorneyMood={state.feedback?.kind === "won" ? "won" : "neutral"}
+          heartShake={shaking}
+        />
+        {active && (
+          <CasePanel
+            item={active}
+            onAnswer={actions.answer}
+            onClose={actions.closeCase}
+            onResearch={actions.research}
+            researchLeft={state.researchLeft}
+          />
+        )}
+        {!active && state.inbox.length === 0 && (
+          <div className="office-tip">
+            <p>Quiet for a moment. Someone's about to walk in.</p>
+            <p className="hint">Tip: click a waiting client to call them up. Keys 1–4 answer, ⚡ in &lt;8s for a rush bonus.</p>
+          </div>
+        )}
+        {!active && state.inbox.length > 0 && (
+          <div className="office-tip subtle">
+            <p>📣 Click a client on the bench to call them up to your desk.</p>
+          </div>
+        )}
       </main>
 
       {state.feedback && <Stamp feedback={state.feedback} onDone={actions.clearFeedback} />}
