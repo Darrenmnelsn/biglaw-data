@@ -1,7 +1,10 @@
-import { useEffect, useRef, useState } from "react";
+import { lazy, Suspense, useEffect, useRef, useState } from "react";
 import { useGameDay, multiplierFor, INBOX_CAP } from "../game/useGameDay.js";
-import Office from "./Office.jsx";
 import CasePanel from "./CasePanel.jsx";
+
+// Three.js is heavy (~250 KB gzipped). Load it only when the player actually
+// enters a game day; the rest of the app stays small and snappy.
+const Office = lazy(() => import("./Office3D.jsx"));
 
 function fmtClock(ms) {
   const s = Math.max(0, Math.ceil(ms / 1000));
@@ -128,6 +131,14 @@ export default function GameDay({ day, theme, upgrades, weakSpots, onMiss, onHit
       {state.status === "paused" && <div className="paused-veil">Paused — come back!</div>}
 
       <main className="game-main office-main">
+        <Suspense
+          fallback={
+            <div className="office3d office-loading">
+              <div className="loading-spinner" />
+              <p>Setting the scene…</p>
+            </div>
+          }
+        >
         <Office
           inbox={state.inbox}
           exits={state.exits}
@@ -137,6 +148,7 @@ export default function GameDay({ day, theme, upgrades, weakSpots, onMiss, onHit
           attorneyMood={state.feedback?.kind === "won" ? "won" : "neutral"}
           heartShake={shaking}
         />
+        </Suspense>
         {active && (
           <CasePanel
             item={active}
