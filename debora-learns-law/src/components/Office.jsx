@@ -245,6 +245,40 @@ function Office({ inbox, exits, activeUid, now, onSelectClient, attorneyMood, he
         <div className="plaque-wrap">
           <Plaque name="STUDI LAW" />
         </div>
+        <div className="wall-clock" aria-hidden="true">
+          <svg viewBox="0 0 60 60">
+            <circle cx="30" cy="30" r="28" fill="#0a0a0a" />
+            <circle cx="30" cy="30" r="25" fill="#fbf5e1" />
+            <circle cx="30" cy="30" r="25" fill="none" stroke="#8a6a3a" strokeWidth="2" />
+            <text x="30" y="11" textAnchor="middle" fontSize="6" fill="#2a1810">XII</text>
+            <text x="48" y="33" textAnchor="middle" fontSize="6" fill="#2a1810">III</text>
+            <text x="30" y="55" textAnchor="middle" fontSize="6" fill="#2a1810">VI</text>
+            <text x="12" y="33" textAnchor="middle" fontSize="6" fill="#2a1810">IX</text>
+            <line className="hand hour" x1="30" y1="30" x2="30" y2="18" stroke="#2a1810" strokeWidth="2" strokeLinecap="round" />
+            <line className="hand minute" x1="30" y1="30" x2="30" y2="10" stroke="#2a1810" strokeWidth="1.5" strokeLinecap="round" />
+            <line className="hand second" x1="30" y1="30" x2="30" y2="8" stroke="#7a2a2a" strokeWidth="0.8" strokeLinecap="round" />
+            <circle cx="30" cy="30" r="1.6" fill="#2a1810" />
+          </svg>
+        </div>
+        <div className="potted-plant" aria-hidden="true">
+          <svg viewBox="0 0 60 100">
+            <path d="M30 70 Q12 50 16 30 Q26 36 30 50 Q34 36 44 30 Q48 50 30 70 Z" fill="#1d6b3a" />
+            <path d="M30 60 Q20 44 24 28 Q30 36 30 50 Q30 36 36 28 Q40 44 30 60 Z" fill="#2d8b4a" />
+            <path d="M30 56 Q22 42 26 26 Q30 34 30 50 Q30 34 34 26 Q38 42 30 56 Z" fill="#3da85d" />
+            <path d="M16 68 L44 68 L40 96 L20 96 Z" fill="#7a3a18" />
+            <ellipse cx="30" cy="68" rx="14" ry="3" fill="#5a2410" />
+          </svg>
+        </div>
+        <div className="painting" aria-hidden="true">
+          <svg viewBox="0 0 100 70">
+            <rect x="0" y="0" width="100" height="70" fill="#3a2410" />
+            <rect x="3" y="3" width="94" height="64" fill="#dab84a" />
+            <rect x="6" y="6" width="88" height="58" fill="#0e2244" />
+            <circle cx="80" cy="20" r="8" fill="#fbe7b3" opacity="0.9" />
+            <path d="M0 50 Q25 38 50 46 T100 42 L100 70 L0 70 Z" fill="#1a3a5a" />
+            <path d="M0 58 Q30 50 60 55 T100 52 L100 70 L0 70 Z" fill="#0a1f3a" />
+          </svg>
+        </div>
         <div className="door" aria-hidden="true">
           <div className="door-pane left" />
           <div className="door-pane right" />
@@ -269,6 +303,17 @@ function Office({ inbox, exits, activeUid, now, onSelectClient, attorneyMood, he
             <div className="stand" />
           </div>
           <div className="nameplate">DEBORA, ESQ.</div>
+          <div className="papers" aria-hidden="true">
+            <div className="paper-stack" />
+            <div className="paper-loose" />
+          </div>
+          <div className="coffee" aria-hidden="true">
+            <div className="steam s1" />
+            <div className="steam s2" />
+            <div className="steam s3" />
+            <div className="cup" />
+            <div className="cup-handle" />
+          </div>
         </div>
         <div className="floor" />
       </div>

@@ -5,6 +5,8 @@ import DayEnd from "./components/DayEnd.jsx";
 import GameOver from "./components/GameOver.jsx";
 import Leaderboard from "./components/Leaderboard.jsx";
 import DailyCase from "./components/DailyCase.jsx";
+import Commute from "./components/Commute.jsx";
+import Apartment from "./components/Apartment.jsx";
 import { weeklyTheme } from "./game/content.js";
 import { loadSave, persistSave, recordHit, recordMiss, addScore } from "./game/save.js";
 import { setMuted } from "./game/sound.js";
@@ -114,8 +116,31 @@ export default function App() {
               upgrades: { ...s.upgrades, [id]: (s.upgrades[id] || 0) + 1 },
             }))
           }
-          onNextDay={nextDay}
+          onDriveHome={() => setScreen("commute")}
           onQuit={() => setScreen("home")}
+        />
+      )}
+      {screen === "commute" && run && (
+        <Commute onArrived={() => setScreen("apartment")} />
+      )}
+      {screen === "apartment" && run && (
+        <Apartment
+          save={save}
+          day={run.day}
+          theme={theme}
+          onBuyHome={({ kind, id, cost }) =>
+            updateSave((s) => {
+              if (kind === "tier") {
+                return { ...s, bank: s.bank - cost, home: { ...s.home, tier: s.home.tier + 1 } };
+              }
+              return {
+                ...s,
+                bank: s.bank - cost,
+                home: { ...s.home, furniture: { ...s.home.furniture, [id]: true } },
+              };
+            })
+          }
+          onNextDay={nextDay}
         />
       )}
       {screen === "gameOver" && run && (

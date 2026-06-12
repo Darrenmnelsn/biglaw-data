@@ -1,7 +1,7 @@
 import { SHOP_ITEMS, upgradeLevel, nextCost } from "../game/save.js";
 import { sfx } from "../game/sound.js";
 
-export default function DayEnd({ run, save, theme, onBuy, onNextDay, onQuit }) {
+export default function DayEnd({ run, save, theme, onBuy, onDriveHome, onQuit }) {
   const d = run.lastDay;
   return (
     <div className="screen dayend">
@@ -71,8 +71,8 @@ export default function DayEnd({ run, save, theme, onBuy, onNextDay, onQuit }) {
       </section>
 
       <div className="dayend-actions">
-        <button className="btn primary big" onClick={onNextDay}>
-          Start Day {run.day + 1} →
+        <button className="btn primary big" onClick={onDriveHome}>
+          🚗 Drive home →
         </button>
         <button className="link" onClick={onQuit}>
           Close the firm for now

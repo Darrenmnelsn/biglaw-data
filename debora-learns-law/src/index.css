@@ -1092,6 +1092,622 @@ kbd {
   background: #10141f99;
 }
 
+/* office polish — clock, plant, painting, coffee, papers */
+.wall-clock {
+  position: absolute;
+  top: 16%;
+  left: 48%;
+  width: 5%;
+  aspect-ratio: 1;
+  box-shadow: 0 4px 10px #00000060;
+  border-radius: 50%;
+}
+
+.wall-clock svg {
+  width: 100%;
+  display: block;
+}
+
+.wall-clock .hand.second {
+  transform-origin: 30px 30px;
+  animation: tick 60s linear infinite;
+}
+
+.wall-clock .hand.minute {
+  transform-origin: 30px 30px;
+  transform: rotate(38deg);
+}
+
+.wall-clock .hand.hour {
+  transform-origin: 30px 30px;
+  transform: rotate(60deg);
+}
+
+@keyframes tick {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.potted-plant {
+  position: absolute;
+  left: 8.5%;
+  bottom: 5%;
+  width: 5%;
+  z-index: 2;
+  animation: plant-sway 5s ease-in-out infinite;
+  transform-origin: bottom center;
+}
+
+.potted-plant svg {
+  width: 100%;
+  display: block;
+  filter: drop-shadow(0 4px 6px #00000080);
+}
+
+@keyframes plant-sway {
+  50% {
+    transform: rotate(1.5deg);
+  }
+}
+
+.painting {
+  position: absolute;
+  top: 22%;
+  left: 60.5%;
+  width: 6%;
+  aspect-ratio: 100 / 70;
+  box-shadow: 0 6px 12px #00000080;
+}
+
+.painting svg {
+  width: 100%;
+  display: block;
+}
+
+/* coffee mug with rising steam */
+.coffee {
+  position: absolute;
+  right: 28%;
+  bottom: 50%;
+  width: 8%;
+  height: 30%;
+  pointer-events: none;
+}
+
+.coffee .cup {
+  position: absolute;
+  bottom: 0;
+  left: 22%;
+  width: 56%;
+  height: 50%;
+  background: linear-gradient(180deg, #fbf5e1, #c8b88a);
+  border-radius: 0 0 6px 6px / 0 0 50% 50%;
+  box-shadow: inset 0 -4px 0 #2a1810, 0 3px 4px #00000060;
+}
+
+.coffee .cup::after {
+  content: "";
+  position: absolute;
+  top: -3%;
+  left: 12%;
+  right: 12%;
+  height: 16%;
+  background: #3a1808;
+  border-radius: 50%;
+}
+
+.coffee .cup-handle {
+  position: absolute;
+  bottom: 18%;
+  right: 8%;
+  width: 18%;
+  height: 30%;
+  border: 3px solid #c8b88a;
+  border-left: none;
+  border-radius: 0 50% 50% 0;
+}
+
+.coffee .steam {
+  position: absolute;
+  bottom: 50%;
+  width: 4%;
+  height: 40%;
+  background: rgba(255, 255, 255, 0.55);
+  border-radius: 50%;
+  filter: blur(2px);
+  opacity: 0;
+  animation: steam-rise 2.8s ease-in infinite;
+}
+
+.coffee .steam.s1 {
+  left: 35%;
+}
+
+.coffee .steam.s2 {
+  left: 50%;
+  animation-delay: 0.9s;
+}
+
+.coffee .steam.s3 {
+  left: 65%;
+  animation-delay: 1.7s;
+}
+
+@keyframes steam-rise {
+  0% {
+    transform: translateY(0) scale(0.6);
+    opacity: 0;
+  }
+  25% {
+    opacity: 0.7;
+  }
+  100% {
+    transform: translateY(-220%) scale(1.4);
+    opacity: 0;
+  }
+}
+
+.papers {
+  position: absolute;
+  left: 32%;
+  bottom: 52%;
+  width: 14%;
+  height: 18%;
+  pointer-events: none;
+}
+
+.papers .paper-stack {
+  position: absolute;
+  inset: 30% 0 0 0;
+  background:
+    linear-gradient(180deg, #ffffff 0%, #f0ead8 100%);
+  box-shadow:
+    2px 2px 0 #d4cdb8,
+    4px 4px 0 #c0b890,
+    0 6px 10px #00000080;
+  transform: rotate(-3deg);
+}
+
+.papers .paper-loose {
+  position: absolute;
+  right: -20%;
+  top: 10%;
+  width: 60%;
+  height: 80%;
+  background: #fbf5e1;
+  border-left: 2px solid #d4cdb8;
+  box-shadow: 0 4px 6px #00000070;
+  transform: rotate(8deg);
+}
+
+.papers .paper-loose::before,
+.papers .paper-loose::after {
+  content: "";
+  position: absolute;
+  left: 12%;
+  right: 12%;
+  height: 1px;
+  background: #2a181060;
+}
+
+.papers .paper-loose::before {
+  top: 30%;
+}
+
+.papers .paper-loose::after {
+  top: 55%;
+}
+
+/* =================================================================== */
+/* COMMUTE — drive-home cutscene                                        */
+/* =================================================================== */
+.screen.commute {
+  padding: 0;
+  max-width: none;
+  min-height: 100vh;
+  position: relative;
+  align-items: stretch;
+}
+
+.cutscene {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.skip-cutscene {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 20;
+  background: #00000080;
+  color: #fff;
+  border: 1px solid #ffffff40;
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  cursor: pointer;
+  backdrop-filter: blur(6px);
+}
+
+.skip-cutscene:hover {
+  background: #00000080;
+  border-color: var(--gold);
+}
+
+.cutscene .sun {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  transition: background 0.6s, box-shadow 0.6s;
+  z-index: 1;
+}
+
+.cutscene .stars {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.cutscene .stars span {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: white;
+  border-radius: 50%;
+  animation: twinkle 2s ease-in-out infinite;
+}
+
+@keyframes twinkle {
+  50% {
+    opacity: 0.3;
+    transform: scale(1.4);
+  }
+}
+
+.cutscene .city {
+  position: absolute;
+  bottom: 12%;
+  left: 0;
+  width: 200%;
+  height: 32%;
+  filter: drop-shadow(0 6px 6px #00000080);
+}
+
+.cutscene .city.far {
+  bottom: 16%;
+  height: 28%;
+  opacity: 0.85;
+  z-index: 2;
+}
+
+.cutscene .city.mid {
+  bottom: 12%;
+  height: 32%;
+  z-index: 3;
+}
+
+.cutscene .city.near {
+  bottom: 8%;
+  height: 24%;
+  z-index: 4;
+}
+
+.cutscene .streetlights {
+  position: absolute;
+  bottom: 10%;
+  left: 0;
+  right: 0;
+  height: 30%;
+  z-index: 5;
+}
+
+.cutscene .streetlight {
+  position: absolute;
+  bottom: 0;
+  width: 4px;
+  height: 100%;
+}
+
+.cutscene .streetlight .pole {
+  position: absolute;
+  left: 1px;
+  bottom: 0;
+  width: 2px;
+  height: 100%;
+  background: #1a1a1a;
+}
+
+.cutscene .streetlight .bulb {
+  position: absolute;
+  left: -10px;
+  top: 0;
+  width: 22px;
+  height: 16px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #fff4cc 0%, #fff4cc60 40%, transparent 70%);
+  filter: blur(2px);
+  transition: opacity 0.4s;
+}
+
+.cutscene .road {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 12%;
+  background: linear-gradient(180deg, #1a1a1f 0%, #0a0a10 100%);
+  z-index: 6;
+  box-shadow: inset 0 6px 14px #00000090;
+}
+
+.cutscene .road-dashes {
+  position: absolute;
+  top: 45%;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background-image: linear-gradient(90deg, #f5b94288 0 60px, transparent 60px 120px);
+  background-size: 120px 4px;
+  background-repeat: repeat-x;
+}
+
+.cutscene .car-wrap {
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(640px, 60%);
+  z-index: 7;
+  animation: car-bob 0.32s ease-in-out infinite;
+}
+
+.cutscene .car {
+  width: 100%;
+  display: block;
+}
+
+@keyframes car-bob {
+  50% {
+    transform: translate(-50%, -2px);
+  }
+}
+
+.cutscene .wheel {
+  transform-origin: center;
+  animation: wheel-spin 0.3s linear infinite;
+}
+
+.cutscene .wheel.wheel-r {
+  transform-box: fill-box;
+}
+
+.cutscene .wheel.wheel-l {
+  transform-box: fill-box;
+}
+
+@keyframes wheel-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.cutscene .commute-caption {
+  position: absolute;
+  bottom: 18%;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  font-size: 1.4rem;
+  font-weight: 800;
+  letter-spacing: 4px;
+  text-shadow: 0 2px 8px #000;
+  text-transform: uppercase;
+  z-index: 8;
+  animation: caption-fade 1.8s ease-in-out infinite;
+}
+
+@keyframes caption-fade {
+  50% {
+    opacity: 0.6;
+  }
+}
+
+/* =================================================================== */
+/* APARTMENT                                                            */
+/* =================================================================== */
+.screen.apartment {
+  max-width: 1080px;
+  padding-top: 16px;
+}
+
+.apt-head {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.apt-head h1 {
+  text-align: left;
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.apt-sub {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-top: 4px;
+}
+
+.apt-bank {
+  background: var(--panel);
+  border: 1px solid var(--gold);
+  border-radius: var(--radius);
+  padding: 10px 16px;
+  font-weight: 800;
+  color: var(--gold);
+  font-size: 1.05rem;
+  text-align: right;
+}
+
+.apt-bank span {
+  display: block;
+  color: var(--muted);
+  font-size: 0.7rem;
+  font-weight: 500;
+}
+
+.room-wrap {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 18px 50px #00000080, inset 0 0 60px #00000050;
+}
+
+.room {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.room .furn.cat {
+  animation: cat-blink 4s steps(1, end) infinite;
+  transform-origin: 40px 80px;
+}
+
+@keyframes cat-blink {
+  98% {
+    transform: scale(1);
+  }
+  99% {
+    transform: scaleY(0.6) translateY(2%);
+  }
+}
+
+.room .furn.fireplace .flame {
+  transform-origin: 18px 78px;
+  animation: flame 0.4s ease-in-out infinite alternate;
+}
+
+@keyframes flame {
+  to {
+    transform: scaleY(1.1) scaleX(0.92);
+  }
+}
+
+.apt-tabs {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  max-width: 480px;
+}
+
+.apt-tabs button {
+  flex: 1;
+  background: var(--panel-2);
+  border: 1px solid #344056;
+  border-radius: 10px 10px 0 0;
+  padding: 10px;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.apt-tabs button.on {
+  background: var(--panel);
+  color: var(--ink);
+  border-bottom-color: var(--panel);
+}
+
+.furn-grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 10px;
+}
+
+.furn-card {
+  background: var(--panel);
+  border: 1px solid #344056;
+  border-radius: 10px;
+  padding: 12px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  transition: transform 0.08s, border-color 0.15s;
+  text-align: center;
+}
+
+.furn-card:hover:not(:disabled) {
+  border-color: var(--gold);
+  transform: translateY(-2px);
+}
+
+.furn-card:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.furn-card.owned {
+  opacity: 0.6;
+  border-color: var(--green);
+}
+
+.furn-icon {
+  font-size: 2rem;
+}
+
+.furn-name {
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.furn-cost {
+  color: var(--gold);
+  font-size: 0.8rem;
+}
+
+.furn-card.owned .furn-cost {
+  color: var(--green);
+}
+
+.furn-locked {
+  grid-column: 1 / -1;
+  color: var(--muted);
+  text-align: center;
+  font-style: italic;
+  padding: 12px;
+}
+
+.upgrade-panel {
+  background: var(--panel);
+  border: 1px solid #344056;
+  border-radius: var(--radius);
+  padding: 22px;
+  width: 100%;
+  max-width: 480px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.apt-actions {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
 /* ---------- mobile ---------- */
 @media (max-width: 760px) {
   .office {
